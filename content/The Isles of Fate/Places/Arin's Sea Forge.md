@@ -1,0 +1,9 @@
+> The exterior of Arin's shop, "Arin's Sea Forge," is a sight to behold. Located on a busy street in the heart of Roseport's bustling harbor district, the shop stands out with its vibrant blue-green façade, adorned with intricate metal sculptures of sea creatures that seem to almost come to life in the sunlight. The roof is adorned with a metal mermaid, her tail curving upwards to form the shape of a weathervane that spins in the breeze.
+>
+> As you approach the shop, you can hear the sound of hammering and the hiss of a forge coming from within. The doors are thrown open wide, inviting passersby to come in and see the wonders that Arin has created. Stepping inside, you are greeted by the sight of a bustling workshop filled with all manner of tools and equipment, as well as a variety of finished and in-progress projects.
+>
+> But as you look around, you can't help but notice that something seems a bit off. The metal figurines and other creations scattered throughout the shop seem to almost pulse with an otherworldly energy, as if they are imbued with a life of their own. And as you watch, a mechanical octopus that hangs from the ceiling begins to uncoil and reach out towards you with its tentacles, as if it is trying to communicate something. Is it all just your imagination, or is there something truly magical happening at Arin's Sea Forge?
+
+Arin's Sea Forge is a smithery/shop in [[Roseport]]. It is situated next to the river. There is a small cavern under the shop that the water fills, and the water is magically heated, and that is used to heat the metals instead of a traditional forge.
+
+It is owned and run by human blacksmith and inventor [[Arin Kulpa]]

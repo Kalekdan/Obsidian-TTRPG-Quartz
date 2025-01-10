@@ -1,0 +1,1 @@
+![[szoldar_szoldarovich.jpg]]

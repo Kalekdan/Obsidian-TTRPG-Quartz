@@ -1,0 +1,3 @@
+The Thorny Coves are perhaps the most infamous of all the smuggling ports in [[The Kingdom of Errun]]. Just a few miles east of [[Roseport]] (where the vast majority of the continents trade goes through), there is a long stretch of cliffs and small coves, making it a perfect spot for smugglers to hide away.
+
+The name is so called, due to the Thorny Coves being seen as the less attractive, yet inevitable part of the bustling trade in [[Roseport]].

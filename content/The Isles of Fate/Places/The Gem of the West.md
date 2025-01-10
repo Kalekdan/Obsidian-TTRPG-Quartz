@@ -1,0 +1,6 @@
+The Gem of the West is the colloquial name given to the westernmost of the 4 large continents in the Isles of Fate. It is so called due to the luscious and fertile terrain on the west coast, and the large, dense jungle along the south-western coast, known for it's high concentration of precious stones.
+The largest faction on the continent is the [[The Empire of Kelpis|Empire of Kelpis]], who also lay claim to the large island off the west coast. This island has one of the few outward facing ports, allowing transport and trade to some of the [[The Singualian Territories|Singualian Territories]], as well as a start point for those few who wish to expedition beyond the archipelago.
+
+Also on the continent, is [[The Free City of Nakur]] on the north eastern coast, and the [[The Duchy of Bunelia|Duchy of Bunelia]] on the south.
+
+There is an ongoing [[conflict between Bunelia and Kelpis]] over the ownership of the dense and gem rich jungles of the south west coast, as well as laying claim to much of the land of [[The Free City of Nakur |Nakur]].

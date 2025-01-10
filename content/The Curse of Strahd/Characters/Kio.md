@@ -1,0 +1,2 @@
+![[kio.png|500]]
+Kio is the familiar of [[Erlanor Valhorn]] and takes the form of an owl. When in [[Borovia]], Kio's form is decaying and undead. Most of the feathers on her right side are missing, exposing a bony wing, but she is still able to fly normally.

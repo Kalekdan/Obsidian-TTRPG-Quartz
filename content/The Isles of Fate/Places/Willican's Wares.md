@@ -1,0 +1,1 @@
+Willican's Wares is a shop in [[Pinapota]] run by [[Willican O'Reilly]].

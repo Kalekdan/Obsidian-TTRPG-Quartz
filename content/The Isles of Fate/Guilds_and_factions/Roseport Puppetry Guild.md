@@ -1,0 +1,7 @@
+The Roseport Puppetry Guild is a group of talented puppeteers who create elaborate, magical puppet shows for the people of the city. The guild is made up of a diverse group of artists, musicians, and storytellers who work together to bring their fantastical creations to life.
+
+The guild's performances take place in a grand theater located in the heart of [[Roseport]], where they use a variety of techniques, including shadow puppetry, marionettes, and giant puppets, to tell stories that are both entertaining and thought-provoking. The guild's performances are beloved by people of all ages, and tickets to their shows are always in high demand.
+
+In addition to their regular performances, the Roseport Puppetry Guild also offers workshops and classes for those interested in learning more about the art of puppetry. Whether you are a seasoned performer or a complete novice, there is something for everyone at the guild.
+
+The guild is known for their innovative, boundary-pushing shows, and they are always looking for new and exciting ways to engage and inspire their audience. If you are in Roseport, be sure to check out a performance by the Roseport Puppetry Guild - you won't be disappointed!

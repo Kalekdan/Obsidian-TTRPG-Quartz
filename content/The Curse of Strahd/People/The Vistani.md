@@ -1,0 +1,2 @@
+![[vistani.jpg|500]]
+The Vistani are a travelling group, who [[Stanamir]] is travelling with, and who the party join when heading to meet [[Madame Ava]] in the [[The Curse of Strahd - Session 1 | first session]].

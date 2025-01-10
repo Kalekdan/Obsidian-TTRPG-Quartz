@@ -1,0 +1,7 @@
+Arin is a skilled human blacksmith and inventor living in the bustling coastal city of [[Roseport]]. Arin has always been fascinated by the sea and the creatures that inhabit it, and has spent years studying and learning about the various materials and techniques used to create durable, seaworthy vessels.
+
+In his workshop ([[Arin's Sea Forge| the sea forge]]), Arin creates a variety of custom-made items for sailors and fishermen, ranging from sturdy anchor chains to intricate navigation instruments. He is also known for his innovative designs, such as a waterproof lantern that can be hung from the mast of a ship to provide light in rough weather, and a collapsible fishing net that can be easily stored on board.
+
+In addition to his practical creations, Arin also enjoys dabbling in more whimsical projects. He has a particular fondness for creating intricate metal figurines of sea creatures, which he sells to tourists and collectors.
+
+Despite his busy schedule, Arin always makes time to help out his fellow craftsmen in the city and share his knowledge and expertise with the next generation. He is well-respected in the community and his work is in high demand, making him a valuable and integral part of life in [[Roseport]].

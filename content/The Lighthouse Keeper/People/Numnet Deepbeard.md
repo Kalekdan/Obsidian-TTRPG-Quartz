@@ -1,0 +1,1 @@
+Numnet Deepbeard is a dwarven lighthouse keeper. He is completely enthralled by the Harpy Matriarch which has taken up residence in the top of the lighthouse and is crashing ships to prey on the sailors aboard.

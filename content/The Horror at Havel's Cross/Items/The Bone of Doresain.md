@@ -1,0 +1,2 @@
+![[bone_of_doresain_stats.png]]
+The Bone of Doresain is a magical item that attunes to an evil creature allowing them to revive themselves. It is encountered by the party in [[The Horror at Havel's Cross]] where it is wielded by [[Calador]] who uses it to revive himself multiple times before it is destroyed by being jumped on by [[Bralvian Silverstone]]. The remains are used once more the revive the party member [[Seid]].

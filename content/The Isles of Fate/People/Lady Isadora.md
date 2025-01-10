@@ -1,0 +1,1 @@
+Lady Isadora is a powerful individual in [[Bres]] and a known spymaster. She is on the council of [[Duke Alosrin Eclipsus]], and is making a play for his title after his death.

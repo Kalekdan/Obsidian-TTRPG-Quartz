@@ -1,0 +1,5 @@
+![[the_salty_swill.jpg|700]]
+> Approaching the dock, most of the work has died down for the evening, but one boat seems to remain lively. A raucous cheer goes up and a pair of gnomes walk out of the cabin and stagger over the gangway onto the docks. One slips and falls in, much to the amusement of his companion. As you get closer, you see a relatively ordinary boat, but with a smoking chimney and a set of tables laid out on the deck. A sign labels the floating tavern as The Salty Swill.
+Found moored up at ports around the lands, this floating tavern is always busy, but only for a week or so before it sails off to it's next destination. Who knows when you'll bump into it again!
+
+Famed for the owner's stories and fables they have collected on their travels from the tavern's many patrons, as well as world famous bards who often travel along with it. Of course we can't forget to mention the exotic drinks and food they have picked up on the way!

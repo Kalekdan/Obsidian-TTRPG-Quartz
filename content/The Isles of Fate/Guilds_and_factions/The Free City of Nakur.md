@@ -1,0 +1,5 @@
+The Free City of Nakur is by far the largest and most successful of the independent states in the Isles of Fate, situated on the north east coast of [[The Gem of the West | the westernmost continent]], close to [[The Kingdom of Errun | Errun]].
+
+It has only survived due to it's aggressive military presence on its borders, and it's location which has allowed it to foster a very successful trading economy. However it is one of the poorer states, and the regular conflicts with [[The Empire of Kelpis|Kelpis]] have weakened it significantly. There is therefore a huge amount of poverty seen amongst civilians living in and around Nakur, the majority of whom are farmers and other manual workers.
+
+Most people expect [[The Empire of Kelpis|Kelpis]] to launch a large scale attack at some point, but it would likely be challenged by other nearby states, who would lay claim to the land, even if Nakur themselves, would not be able to put up much of a fight. The proximity to [[The Kingdom of Errun | Errun]] also makes it a risky location for potential invaders to fortify an army without alarming the [[The King of Errun|King of Errun]].

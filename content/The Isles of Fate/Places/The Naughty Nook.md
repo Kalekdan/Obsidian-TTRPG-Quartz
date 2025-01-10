@@ -1,0 +1,1 @@
+A brothel located in [[Bres]] and managed by [[Madame Zephyra]].

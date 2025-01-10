@@ -1,0 +1,1 @@
+The Dominion of Savaria is one of the largest of the political powers in the Isles of Fate, due to the vast area of land it owns. The land owned (mostly on [[The Northern Wilds]]) is largely unpopulated and untraversable, but the scale alone makes Savaria a significant provider of resources, and virtually impossible for anyone to consider an invasion of.

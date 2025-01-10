@@ -1,0 +1,23 @@
+###  The Past Catches Up 
+After defeating the beserkers, Yevgeni and Szoldar make notches on their weapons to count the kills. (They have a lot on there already.) Yevgeni thinks Strahd sent the bandits. 
+
+As they turn left, they arrive at a crossroads with a weather worn sign:
+* N krezk - stone bridge
+* E vallaki - road slopes
+* SW - wizard of wines, slopes down
+Erlanor see's a silhouette to the far side of the clearing. He has pointed ears and a very fancy blue coat. Behind him in the forest is a faint light and a carriage with 2 horses. He approaces the party and introduces himself as Rahadin. He says that Strahd sent him to look for them, and extends to them an invite to Strahd and Tatyana's wedding in 7 days. He then rides off.
+
+It suddenly appears to be much later in the evening, so the party decide not to go all the way to Wizards of Wine this evening, and instead camp near Krezk. They camp next to the lake, in the middle of which is a tower. Apparently Rictavio used to live there. They light a fire to keep werewolves at bay. They decide to take turns going on watch. Yevgeni and Szoldar go first, followed by Jeff and Ellion. During their watch, they don't notice, but someone approaches Ellion from behind and slits his throat before pulling out a bottle and throwing it on the fire causing it to explode in flames.
+
+They all wake up and fight him. He screams 'Ill see you soon father!'. Thety to kill him and as he dies he throws his book to stop it burning in the fire. Erlanor searches his body, and finds an amulet around his neck. In one side is a picture of Donovich, and in the other side is a picture of this man, and a person who looks like Doru. Grog looks at the book on him, and reads a letter from Donovich ('Donovich's goodbye') confirming that this was Doru's brother and Donovich's son.
+
+###  The Wizards of Wine 
+Szoldar speaks with the party as they head towards the Wizards of Wine. He tells them that there used to be a town nearby called Berez which was destroyed. Strahd used to have another girl called Meredith. He took her into the forest and fed on her. The burgomaster colluded with the priest to cure her, but ended up killing her instead. Strahd flooded the town in revenge and massacred them all. The town is now a wasteland, near the crossroads near Vallaki.
+
+After a few miles, the road becomes a muddy trail out of the woods. They come to the vineyard to their west. A light rain begins to fall. Fog is seen swirling between the vines. To the N of the trail, they see a man stood on the treeline, beckoning them. Chunk approaches him, and notices 5 or 6 other figures with feathers weaved into their cloaks. The man in the middle (Davian Marikov) is a hunched man with an ornate wooden cane and lots of bright silver trinkets. He tells them that a group of druids and blights attacked the winery and drove them out. There were about 20 of them, and they looked like trees.
+
+They decide that Chunk and Jeff will stealth around to see what they can see, whilst the others will go to the front door as a distraction, and to try a more diplomatic approach. To the side of the building, Chunk and Jeff find an outhouse and a well. The walk past the windows, and see no light on the ground floor. On the first floor, there are some lit rooms, but most seem empty except 1 where they see a druid-like figure. The second floor is very lit up and there is a lot of movement.
+
+Erlanor magically magically knocks very loudly on the front door. They hear a cracking of branches around them, and see lots of trees running towards them from behind. They run inside and close the door. Inside, they can see a figure wearing a gown of furs and a crown of horns on the upper levels. They also see a swarm of small twig blights skittering towards them. They manage to fight them all off, and kill the woman overseeing them. She has a necklace around her neck made of human teeth - they appear to have been taken from a living, or very recently deceased person.
+
+Jeff sneaks ahead through the building, and sees a creepy man with blood on his hands, apparently doing some kind of magic. He comes back and informs the group, and they all attempt to sneak up on him. The man notices them, and blood is oozing from his staff. He jumps down the hole in the floor through which the winch runs. The party fight him, meanwhile he is apparently trying to protect the staff at any cost. Erlanor casts suggestion to make him drop the wand. They manage to kill him, and Erlanor pockets the wand, despite the presence of it making him feel very unseasy.

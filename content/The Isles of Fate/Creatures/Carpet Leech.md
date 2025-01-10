@@ -1,0 +1,3 @@
+The carpet leech is always a fear for any individual travelling through the deeper parts of the jungles in the Isles of Fate. Despite being completely blind, the carpet leech is incredibly sensitive to vibrations in close proximity to itself. Carpet leeches exist in large colonies and will spread themselves over a 4-5m square area of jungle floor. Their leafy brown skin makes them difficult to spot especially to the untrained eye. Any animal unlucky enough to step within detectable range of a single leech from the colony is immediately swarmed by the entirety of the colony. An individual carpet leech can launch itself a couple of meters in a single jump.
+
+The most infamous area for finding these creatures is the dense jungle in the south of [[The Gem of the West]].

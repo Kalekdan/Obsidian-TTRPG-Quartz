@@ -1,0 +1,3 @@
+The Whispering Exchange is a hidden market and community located in a series of caves beneath lake [[Aethermere]], under the floating city of [[Aetheria]]. Traders deal in illicit goods, forbidden tomes, and unregistered magical relics. The ceiling often drips water from the lake, and during it's regular 'boiling', a loud rumble can be heard from around the cave.
+
+The exchange is run and 'managed' by an organised crime syndicate, known as [[The Veils]], which includes a few notable members of the city of [[Aetheria]], including [[Eira Solwyn]].

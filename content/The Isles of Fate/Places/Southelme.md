@@ -1,0 +1,7 @@
+Southelme is a small, secluded city located on a rocky stretch of coastline in the far south of [[The Northern Wilds]] and is part of the [[The Dominion of Savaria|Dominion of Savaria]]. The city is surrounded by towering cliffs on one side and the restless sea on the other, making it a natural fortress that has protected it from invaders for centuries.
+
+Despite its remote location, Southelme has a rich history and a vibrant culture. The city is home to a large community of artists, writers, and musicians who have been drawn to its serene beauty and isolation. It is also home to a thriving fishing industry, with a fleet of small boats that ply the rough waters off the coast in search of the day's catch.
+
+Unlike other coastal cities, Southelme does not see much trade. The city's isolation has made it difficult for merchants to access, and as a result, it relies mostly on its own resources for survival. However, this isolation has also given Southelme a unique character and a strong sense of community. The people of Southelme are fiercely independent and proud of their city's rich history and culture.
+
+Despite its lack of trade, Southelme is a city with a bright future. Its beautiful setting and rich cultural heritage make it a popular destination for tourists and travelers seeking a peaceful escape from the hustle and bustle of the outside world. And with its strong sense of community and resilience, Southelme is poised to weather any challenges that may come its way.

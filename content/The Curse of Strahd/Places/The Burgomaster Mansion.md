@@ -1,0 +1,1 @@
+The Burgomaster Mansion is a large property in [[Borovia]] where [[Ireena Kolyana]] lived with her father until he died. It is regularly under attack at night from werewolves and other of [[Strahd]]'s thralls, trying to get hold of [[Ireena Kolyana | Ireena]].

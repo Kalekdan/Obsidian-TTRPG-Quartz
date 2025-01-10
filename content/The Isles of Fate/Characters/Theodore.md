@@ -1,0 +1,4 @@
+Theodore Horndew is a Fire Genasi bard played by [[James N]].
+
+###  Appearance 
+Theodore is a slight warrior, with narrow shoulders and large hair. He wears skins, pelts and wraps that have built up to the point that they look almost crusted together with sweat and grime. His hair is a deep copper and seems to float around his serious face. On his face there’s none of the excitement that his hair might suggest, instead his pale skin is scarred, his cheeks blistered and his iris split with copper colours glowing through the wounds. Across his back there is a large ornate greatsword, and a small wooden lute at his side.

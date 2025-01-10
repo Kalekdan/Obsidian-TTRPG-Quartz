@@ -1,0 +1,1 @@
+Wizzle Nimbledigit is a gnomish artificer, played by [[Christian]].

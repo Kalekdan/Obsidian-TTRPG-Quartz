@@ -1,0 +1,1 @@
+Sliber is a sort of archaeologist who the party encountered in [[Goliaths Alehouse]] who told them more about Jottenheimr, and also about another Artifact of the Tempest. He is in fact tricking [[Theodore|Theo]] into giving up [[Stormforged]].

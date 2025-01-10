@@ -1,0 +1,9 @@
+'The Northern Wilds' refers to the largest yet least inhabited of the 4 major landmasses in the Isles of Fate. Its vast expanses of dense jungle, rolling hills, and towering mountain ranges are home to a wide variety of flora and fauna, much of which remains undiscovered by science. 
+
+Despite its isolation, there are a few pockets of civilization scattered throughout The Northern Wilds. The largest of these is [[Southelme]], a bustling port city located on the southern coast of the continent. [[Castinfort]] and [[Ardsey]]are also major centers of trade and culture, though they are smaller in size and population compared to [[Castinfort]].
+
+It is mostly part of the [[The Dominion of Savaria|Dominion of Savaria]], which is able to hold its own politically due to the vast area and coast it covers, and therefore the resources it is able to provide and trade. The only other power on this island is the significantly smaller, but very wealthy [[The Principality of Sal|Principality of Sal]] who hold the rich mines in the north west of the island.
+
+In addition to these larger cities, there are also a number of smaller settlements dotted throughout The Northern Wilds, such as [[Haven]], which is located near the northern coast. These smaller communities tend to be more isolated and self-sufficient, relying on local resources and trade with nearby settlements for their survival.
+
+Despite the presence of these cities and settlements, much of The Northern Wilds remains wild and untamed, with vast stretches of dense jungle and rugged mountain ranges that have yet to be explored. It is a place of great beauty and mystery, offering endless opportunities for adventure and discovery to those brave enough to venture into its depths.

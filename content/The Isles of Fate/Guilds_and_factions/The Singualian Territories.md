@@ -1,0 +1,5 @@
+The Singualian Territories is a name given factions spanning the collection of islands which surround the 4 major continents in the Isles of Fate. They are mostly independent states, and manage to remain so by fending off attackers with their significant knowledge of the surrounding seas and islands. They are therefore mostly left to their own devices by the central powers.
+
+Some of the islands are very scarcely inhabited, but some of the large islands have a few large towns and settlements, such as [[Stanskirk]] in the north east, and [[Farcury]] in the west.
+
+Some of the smaller islands in the south, are particularly difficult to get to, due to the rough seas and rocky cliffs. These islands are not inhabited by any significant number of settlers, though there are a few indigenous groups, such as the [[Salt Dwellers]], who live in some of the caves.

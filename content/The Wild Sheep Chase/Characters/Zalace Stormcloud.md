@@ -1,0 +1,1 @@
+Zalace Stormcloud is a halfling fighter, played by [[Christian]]

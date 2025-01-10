@@ -1,0 +1,3 @@
+Aled Hendrick is an old human who lives in [[Pinapota]] and frequents [[The Swift Steed]]. He wrote an old book 'Jottunheimr; The Truth Behind the Lies', but is widely regarded to be a bit senile, and was not taken seriously.
+
+The book tells of his time as a younger man travelling the far oceans and exploring, and encountering a land of giants, who were intelligent and incredibly magically advanced. It was so far away, and the seas so treacherous that he barely made it back alive.

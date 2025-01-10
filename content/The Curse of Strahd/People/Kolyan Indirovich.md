@@ -1,0 +1,1 @@
+Kolyan Indirovich is the father of [[Ireena Kolyana | Ireena]] and [[Ismark the Lesser | Ismark]], who the party first encounter after his death at the [[Burgomaster Mansion]].

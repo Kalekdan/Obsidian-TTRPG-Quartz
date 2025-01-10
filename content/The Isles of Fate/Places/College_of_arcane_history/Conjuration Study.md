@@ -1,0 +1,3 @@
+> The conjuration study has very little in the way of furniture. There is just a rack of scrolls against the far wall. There are a few hooded figures walking back and forth carrying these scrolls to some of the students.
+> You notice one of the students sit down, and a chair appears beneath him as he sits.
+> The room is lit by glowing white orbs of energy, which each person seems to have one following them.

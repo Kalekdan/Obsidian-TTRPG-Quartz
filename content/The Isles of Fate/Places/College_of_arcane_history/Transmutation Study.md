@@ -1,0 +1,2 @@
+>This room has a assortment of random trinkets laid on each of the tables. A few have candlesticks made of brass; a few more have similar candlesticks made of what appears to be solid gold.
+>As one student sits down, a stool walks and stops under him.

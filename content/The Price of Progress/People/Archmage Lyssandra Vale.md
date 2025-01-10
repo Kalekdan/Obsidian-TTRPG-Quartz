@@ -1,0 +1,1 @@
+Lyssandra Vale is a half-giant mage, and the head of [[The Arcanist Consortium]] in [[Aetheria]].

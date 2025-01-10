@@ -1,0 +1,5 @@
+![[the_tin_box.png|500]]
+> As the door swings open, a waft of perfumed smoke spills onto the street. As you enter the shop, you see a wide assortment of all kinds of items scattered haphazardly around. The walls are mostly covered by draping cloths, giving the feeling of being in a tent. Behind the counter sits a small old gnomish man, with his feet resting on the table, puffing away at a pipe. He is mostly bald, aside from some long greasy grey hair around the edge. Purple smoke drifts from the pipe as he watches you intently.
+The Tin Box is a broker in [[Pinapota]] run by [[Starnley Higgs]]. They sell an assortment of all kinds of trinkets, most of which are probably worthless, but Starnley will try and charge you a large sum for. There are some gems in the rough however.
+
+As a pawn shop, this location can also be good for selling things back, but you won't often get a very good price.

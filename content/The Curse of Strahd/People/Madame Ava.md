@@ -1,0 +1,1 @@
+Madame Ava is a fortune teller who the party encounter at the [[Tser Pool Encampment]] in [[The Curse of Strahd - Session 4]] where she reads their fortunes. She also fills the party in on more details about [[Strahd]] who she knew before he became a vampire.

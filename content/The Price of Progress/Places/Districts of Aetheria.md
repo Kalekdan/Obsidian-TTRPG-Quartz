@@ -1,0 +1,15 @@
+[[Aetheria]] is made up of 5 major districts, each a cluster of floating islands and buildings. The districts are grouped as follows
+- Central district
+	- [[The Council Spire]]
+	- [[The Heart of Aetheria]]
+	- [[The Aetherforge]]
+- North district ('whimsical' - the most lived in area)
+	- [[The Sky Bazaar]]
+- South district (fancy)
+	- [[Gilded Promenade]]
+	- [[The Shifting Amphitheatre]]
+	- [[The Emberglass Tavern]]
+- East district (structured (where the watch are based etc.))
+	- [[The Archives]]
+	- [[The Sentinel Towers]]
+- West district

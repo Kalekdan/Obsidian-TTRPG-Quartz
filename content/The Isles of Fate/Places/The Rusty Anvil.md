@@ -1,0 +1,8 @@
+![[the_rusty_anvil.jpg|500]]
+>The rusty anvil is a very worn looking pub, but full of life and character. Wooden planks cover the outer walls, and the thatched roof is mossy and dark. There is a plume of smoke rising from the chimney, and you can hear chatter from inside - this tavern is clearly very busy today, partly due to the busy market. News of the attack appears to have not made it this far yet, as everyone looks very at ease. A few patrons sit on stools and barrels outside the pub, laughing and drinking.
+>Inside the pub is the distinct smell of ale, and as you walk in, you notice slight stickyness of the dark wooden floor. There is a [[Poppo Threadborne | bard]] playing a lyre in the corner and singing. The music is somewhat melancholy given the lively atmosphere, and most people seem to be disinterested. [[TTRPGs & Worldbuilding/The Isles of Fate/Quests/The Hanging Tree| Not far from the bard sits an elderly lady, cheeks damp with tears]]. You can also see a large log fire, with a hog roasting over it. The fire spits as fat drips onto the embers. A few bearded men sit in the corner, with small piles of coin, and are [rolling dice](https://twitter.com/matthewmercer/status/774357425272922112/photo/1).
+>++(Passive Perception >=10) |
+In [[The Rusty Anvil]] they will see a man sitting alone with the same tattoos as the thugs from earlier. ++
+The Rusty Anvil is a traditional pub in the settlements surrounding [[Pinapota]]. It is situated near the river, opposite [[Pinapota Metalworks]]. It is owned and run by [[ Otto Brownlock]], and frequented by most of those who live around the city.
+
+Also working at the Rusty Anvil is a bard called [[Poppo Threadborne]].

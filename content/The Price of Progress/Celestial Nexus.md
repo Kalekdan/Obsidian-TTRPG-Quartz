@@ -1,0 +1,3 @@
+The Celestial Nexus is a powerful magic item set to be unveiled at the [[Radiance Festival]]. It has the ability to manipulate elemental forces in a way not seen before. 
+- It can amplify magic (i.e. a mage that could previously lift a pebble might be able to channel through it and lift a house).
+- It can stabilise elemental forces (change the weather, prevent earthquakes) (in the end, might have been what [[Visil]] utilised to flood and ultimately destroy [[Jotunheimr]])

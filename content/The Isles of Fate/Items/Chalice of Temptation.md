@@ -1,0 +1,3 @@
+~~A single use chalice that can heal any wound or disease, but also curses the drinker. Once cursed, any source of healing only heals for half the amount. Once used it must be drunk from every day, or the individual takes a point of exhaustion. This can be lifted by a 5th level remove curse.~~
+
+A single use chalice that can heal any wound or disease, but also curses the drinker. Once cursed, the the individual's soul can no longer pass from the material plane, but is stuck wondering as a spirit forever. They also cannot be revived. They cannot be seen by others except those who have also drunk from the chalice.

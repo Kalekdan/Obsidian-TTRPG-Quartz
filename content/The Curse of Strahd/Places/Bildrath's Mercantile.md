@@ -1,0 +1,1 @@
+Bildrath's Mercantile is a store in [[Borovia]], selling food and supplies to the few remaining residents, or any intrepid adventurers who pass through.

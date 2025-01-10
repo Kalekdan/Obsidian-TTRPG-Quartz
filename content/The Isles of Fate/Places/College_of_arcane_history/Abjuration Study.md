@@ -1,0 +1,1 @@
+>There is a strong feeling like being observed when you walk into this room, like there is some other presence beyond those that you see. The people in here that are studying, are mostly doing so without books, and seem to be mutterring and praying instead.

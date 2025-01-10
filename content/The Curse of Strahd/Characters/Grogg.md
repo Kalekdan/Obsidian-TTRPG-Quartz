@@ -1,0 +1,1 @@
+Grogg is a human barbarian, who was a baker, played by [[Lucas]].

@@ -1,0 +1,1 @@
+Mayor Rudie is the mayor of [[Tinsel Town]]. He is a large drunk man with a red nose. He first met Nicolas in the woods when Nicolas was lost (one foggy Christmas eve).

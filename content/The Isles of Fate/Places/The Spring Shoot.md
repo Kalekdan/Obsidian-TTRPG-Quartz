@@ -1,0 +1,1 @@
+The Spring Shoot is an inn in [[Ardsey]] on the [[The Northern Wilds| Northern Wilds]]. It is frequented by merchants travelling over from [[Roseport]] in [[The Kingdom of Errun]] to trade. [[ Professor Winsome Landy]] stays here for a few years whilst she studies and excavates an old elven ruin, a few miles north at [[Havel's Cross]].
