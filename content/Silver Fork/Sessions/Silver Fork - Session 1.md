@@ -4,14 +4,17 @@ The party start off in The Rusty Spur, a bar in a mining town called Silver Fork
 **At the bar**:
 - Marty Shwartz (the bartender)
 - ***Cormac O'Rielly***
+
 **Poker Table**:
 - Young handsome man - waistcoat, well put together (Calvin Klien)
 - Older silver fox, looking pensive (Henry Buchannan) - the dealer
 - ***Cleetus McGee***
 - ***Bartholemew 'Barty' Winthrop***
 - Young boy - milky bar kid
+
 **In the corner:**
 - ***"Wire"/"Howling Wolf"***
+
 **At a second table:**
 - Sean Striklin
 - ***Vincent Kane***

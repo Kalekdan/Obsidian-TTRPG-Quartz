@@ -4,3 +4,4 @@
 * [[Brain]]
 * [[Ellion]]
 * [[Theodore]]
+* [[Vincent Kane]]
