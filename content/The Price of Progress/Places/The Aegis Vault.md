@@ -1,4 +1,4 @@
-The Aegis Vault is a high security vault in [[Aetheria]]. It keeps dangerous artefacts, and high security prisoners. It is guarded by [[the Watch]] and [[the Sentinel Towers]] which overlook it.
+The Aegis Vault is a high security vault in [[Aetheria]]. It keeps dangerous artefacts, and high security prisoners. It is guarded by [[the Watch]] and [[The Sentinel Towers]] which overlook it.
 
 Inside the vault are many dangerous items such as:
 - 
