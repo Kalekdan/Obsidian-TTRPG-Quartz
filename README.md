@@ -1,3 +1,11 @@
+Quartz site for my TTRPG obsidian vault
+To build:
+
+``npx quartz create``
+
+``npx quartz sync``
+
+
 # Quartz v4
 
 > “[One] who works with the door open gets all kinds of interruptions, but [they] also occasionally gets clues as to what the world is and what might be important.” — Richard Hamming
