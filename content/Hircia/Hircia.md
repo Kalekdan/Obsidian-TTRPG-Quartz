@@ -10,10 +10,10 @@ This page is the landing point for the shared world bible. The goal is to keep c
 * [[Moons of Hircia]] - the moons, calendar cues, and religion links.
 * [[Legends]] - myths, rumours, and stories that may or may not be true.
 * [[Flora & Fauna]] - shared creatures, plants, and oddities across the world.
-* Geography and regions - landmasses, seas, major settlements, and travel routes.
-* Politics and powers - kingdoms, duchies, city states, alliances, and rivalries.
-* Magic and planar lore - how magic works, what the planes are, and what changed after the big disasters.
-* Religions and cosmology - deities, faiths, creation stories, and the meaning of the moons.
+* [[Geography and Regions of Hircia]] - landmasses, seas, major settlements, and travel routes.
+* [[Politics and powers]] - kingdoms, duchies, city states, alliances, and rivalries.
+* [[Magic and planar lore]] - how magic works, what the planes are, and what changed after the big disasters.
+* [[Religions and cosmology]] - deities, faiths, creation stories, and the meaning of the moons.
 
 ### Cross-Campaign Reference
 
@@ -23,10 +23,10 @@ This page is the landing point for the shared world bible. The goal is to keep c
 
 ### Continuity Toolkit
 
-* Canon decisions - what is definitely true in-world.
-* Soft canon - things that are broadly true but can still shift if a future campaign needs it.
-* Retcons and fixes - places where two notes disagree and the cleaner version wins.
-* Open questions - unresolved lore that needs later source material.
+* [[Canon decisions]] - what is definitely true in-world.
+* [[Soft canon]] - things that are broadly true but can still shift if a future campaign needs it.
+* [[Retcons and fixes]] - places where two notes disagree and the cleaner version wins.
+* [[Open questions]] - unresolved lore that needs later source material.
 
 ### Practical Rule
 

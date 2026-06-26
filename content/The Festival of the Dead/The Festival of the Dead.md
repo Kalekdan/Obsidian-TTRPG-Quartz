@@ -8,6 +8,10 @@
 * [[The Festival of the Dead - Session 1]] - Arriving in [[Virellis]]
 * [[The Festival of the Dead - Session 2]]
 * [[The Festival of the Dead - Session 3]]
+* [[The Festival of the Dead - Session 4]]
+* [[The Festival of the Dead - Session 5]]
+* [[The Festival of the Dead - Session 6]]
+* [[The Festival of the Dead - Session 7]]
 
 #### Introduction 
 The Festival of the Dead is a medium/long form D&D campaign. The campaign starts in the city of [[Virellis]], a coastal town perched on the edge of a cliff with views over the ocean. The preparations for [[the festival]] are underway, with [[Jaskia Boneheart]] decided as [[the hero]] of the town. However she hasn't been seen for a few days, and the undead will start waking at midnight...
