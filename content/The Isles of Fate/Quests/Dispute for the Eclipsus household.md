@@ -1,13 +1,13 @@
 When speaking to people in Bres, they will establish everyone thought the duke had no sons, so his bastard [[Ser Gideon Stormborn]] has showed up to try and claim his inheritance of the position.
 
-[[Helvetria]], the botanist, who gave aevor the sword, is the only person who knows he is still alive, and is being threatened by Gideon not to tell anyone.
+[[Helvetria]], the botanist, who gave [[Aevorilius Eclipsus|Aevor]] the sword, is the only person who knows he is still alive, and is being threatened by Gideon not to tell anyone.
 
-**The party must find a way to prove to the rest of the council that aevor is the rightful heir, or they will be tried for treason**
+**The party must find a way to prove to the rest of the council that [[Aevorilius Eclipsus|Aevor]] is the rightful heir, or they will be tried for treason**
 
 Members of the council:
 * [[Ser Gideon Stormborn]] (newest member since showing up out of the blue)
     * **Motivation**: Gideon seeks recognition and legitimacy. He believes that by claiming to be the bastard son of the late duke, he can secure a position of power and influence within the city.
-    * **Useful Information**: Gideon may have some knowledge of the late duke's affairs or secrets that could be valuable to the party. However, he is also a potential rival to Aevor's claim to the throne, and his motives should be carefully scrutinized.
+    * **Useful Information**: Gideon may have some knowledge of the late duke's affairs or secrets that could be valuable to the party. However, he is also a potential rival to [[Aevorilius Eclipsus|Aevor]]'s claim to the throne, and his motives should be carefully scrutinized.
     * Evidence *for* him being duke:
     * Owns the dukes signet ring (high DC it is fake - family in jewelry trade)
     * Has the dukes will (text is scrawled as though drugged/manipulated)
@@ -26,7 +26,7 @@ Members of the council:
 
 * [[Lady Isadora]] - The Spymaster
     * **Motivation**: Isadora operates in the shadows, gathering intelligence and manipulating events to serve her own agenda. She seeks to maintain her position as the Spymaster and ensure that the council's decision aligns with her interests.
-    * **Useful Information**: Isadora has a network of spies and informants at her disposal, allowing her to uncover secrets and manipulate events behind the scenes. She may possess incriminating evidence against certain council members or candidates that could be used to sway the vote in Aevor's favor.
+    * **Useful Information**: Isadora has a network of spies and informants at her disposal, allowing her to uncover secrets and manipulate events behind the scenes. She may possess incriminating evidence against certain council members or candidates that could be used to sway the vote in [[Aevorilius Eclipsus|Aevor]]'s favor.
     * Reasons for/against Ser Gideon as Duke:
     * Can **manipulate** Ser Gideon easily
     * May be unstable

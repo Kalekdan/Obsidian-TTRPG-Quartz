@@ -6,7 +6,7 @@ The party start off in The Rusty Spur, a bar in a mining town called Silver Fork
 - ***Cormac O'Rielly***
 
 **Poker Table**:
-- Young handsome man - waistcoat, well put together (Calvin Klien)
+- Young handsome man - waistcoat, well put together (Calvin Klein)
 - Older silver fox, looking pensive (Henry Buchannan) - the dealer
 - ***Cleetus McGee***
 - ***Bartholemew 'Barty' Winthrop***
@@ -29,6 +29,7 @@ Shortly after, 3 men walk into the bar, commanding respect and fear in equal mea
 - Blake Murphy
 - Michael McGreggor
 - Connor McGreggor
+
 Murphy also has a help wanted poster from Langstone, who he explains lives at the end of the street. He asks that the party come see him tomorrow evening after having spoken with Langston. His camp is a couple of miles north of town.
 
 

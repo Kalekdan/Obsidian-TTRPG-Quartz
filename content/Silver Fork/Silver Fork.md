@@ -21,9 +21,19 @@ One-shot wild west campaign run by [[Tom]]
 - Cleetus McGee played by [[Aly]]
 
 Ammo: I I I I I I
+Ammo: I I I I I I
 Risk taker slots: _ _ _
+HP 16/16
+AC 14
+Initiative +3
 
+STR: 10 (+0)
+DEX: 16 (+3)
+CON: 12 (+1)
+INT: 15 (+2)
+WIS: 16 (+3)
+CHA: 18 (+4)
 ### Sessions
 - [[Silver Fork - Session 1]] - 21/01/2025
-
+- [[Silver Fork - Session 2]] - 17/06/2025
 

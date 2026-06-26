@@ -1,0 +1,8 @@
+- IRL potions [[The Forgotten Alchemist]]
+	- where each ingredient has an effect, can make cocktails to drink
+- Magic shop selling dodgy magic items [[Malakar's Emporium]]
+	- Think rick and morty episode - deal with the devil
+- Monster/Dragon hunter guild
+	- Where party join a guild and work their way up. Lots of research to be done before each battle, to prep and give the best chance. All dragons should have unique behaviours etc.
+	- Could be a west marches style?
+- 

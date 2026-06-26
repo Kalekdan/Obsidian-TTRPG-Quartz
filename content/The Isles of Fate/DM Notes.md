@@ -13,15 +13,15 @@ This is in fact all overseen by the demon from the astral plane who is using Sur
 ###  Session Planning 
 [[Summary]]
 
-* [[Session 0]] - [[Surzak]] employs [[The Iron Company]] to kidnap [[Bishop Fearson]] to help reverse his lichdom.
+* [[TTRPGs & Worldbuilding/The Isles of Fate/Dm/Session 0]] - [[Surzak]] employs [[The Iron Company]] to kidnap [[Bishop Fearson]] to help reverse his lichdom.
 * [[TTRPGs & Worldbuilding/The Isles of Fate/Dm/Session 1]]
-* [[Session 2]]
-* [[Session 3]]
-* [[Session 4]] (Tom's Birthday One-Shot)
+* [[TTRPGs & Worldbuilding/The Isles of Fate/Dm/Session 2]]
+* [[TTRPGs & Worldbuilding/The Isles of Fate/Dm/Session 3]]
+* [[TTRPGs & Worldbuilding/The Isles of Fate/Dm/Session 4]] (Tom's Birthday One-Shot)
 * [[Session 4.5]] (Alex's One-Shot)
-* [[Session 5]]
-* [[Session 6]]
-* [[Session 7]]
+* [[TTRPGs & Worldbuilding/The Isles of Fate/Dm/Session 5]]
+* [[TTRPGs & Worldbuilding/The Isles of Fate/Dm/Session 6]]
+* [[TTRPGs & Worldbuilding/The Isles of Fate/Dm/Session 7]]
 * [[Session 8]]
 * [[Session 9]]
 * [[Session 10]]
@@ -78,7 +78,7 @@ Also after a player has been to the astral plane, they are bound to it in some w
 ++++
 ++++ Aevor Backstory ideas | 
 * Ancestral weapon - maybe has to prove he is part of the family to be able to use it?
-* Messenger turns up (someone who helped raise aevor [[Mercoth Vask]] - Duke is on his death bed, need him to return otherwise Kelpis will use the moment of weakness to strike) 
+* Messenger turns up (someone who helped raise [[Aevorilius Eclipsus|Aevor]], [[Mercoth Vask]] - Duke is on his death bed, need him to return otherwise Kelpis will use the moment of weakness to strike) 
 * Party hear about [[The Sacrosanct]], and their distaste for the royalty 
 ++++
 ++++ Echo DM Notes |

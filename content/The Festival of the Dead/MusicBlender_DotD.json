@@ -1,0 +1,69 @@
+{
+    "scenes": [
+        {
+            "sceneName": "Virellis",
+            "tracks": [
+                {
+                    "trackId": "fXA8zHLdYF0",
+                    "trackAlias": "Slow town music",
+                    "trackVolume": "65"
+                }
+            ]
+        },
+        {
+            "sceneName": "Last Orders Tavern",
+            "tracks": [
+                {
+                    "trackId": "orgikrTCKTc",
+                    "trackAlias": "Tavern Music",
+                    "trackVolume": "65"
+                },
+                {
+                    "trackId": "gaGrHUekGrc",
+                    "trackAlias": "Cafe Ambience",
+                    "trackVolume": "5"
+                }
+            ]
+        },
+        {
+            "sceneName": "Combat",
+            "tracks": [
+                {
+                    "trackId": "8Q7cioftmKs",
+                    "trackAlias": "Ambush Music",
+                    "trackVolume": "65"
+                },
+                {
+                    "trackId": "oBsHWwmXbcM",
+                    "trackAlias": "Sword ambience",
+                    "trackVolume": "5"
+                }
+            ]
+        },
+        {
+            "sceneName": "Cemetary",
+            "tracks": [
+                {
+                    "trackId": "H14z_OGKPwM",
+                    "trackAlias": "Cemetary Music",
+                    "trackVolume": "65"
+                }
+            ]
+        },
+        {
+            "sceneName": "The Festival",
+            "tracks": [
+                {
+                    "trackId": "igxUAaNl5zw",
+                    "trackAlias": "Festival Music (Ornn)",
+                    "trackVolume": "65"
+                },
+                {
+                    "trackId": "rEfKdWSlcUo",
+                    "trackAlias": "Festival Ambience",
+                    "trackVolume": "30"
+                }
+            ]
+        }
+    ]
+}

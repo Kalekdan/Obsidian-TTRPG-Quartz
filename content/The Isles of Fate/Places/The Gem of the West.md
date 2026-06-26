@@ -3,4 +3,4 @@ The largest faction on the continent is the [[The Empire of Kelpis|Empire of Kel
 
 Also on the continent, is [[The Free City of Nakur]] on the north eastern coast, and the [[The Duchy of Bunelia|Duchy of Bunelia]] on the south.
 
-There is an ongoing [[conflict between Bunelia and Kelpis]] over the ownership of the dense and gem rich jungles of the south west coast, as well as laying claim to much of the land of [[The Free City of Nakur |Nakur]].
+There is an ongoing [[Conflict between Bunelia and Kelpis]] over the ownership of the dense and gem rich jungles of the south west coast, as well as laying claim to much of the land of [[The Free City of Nakur |Nakur]].

@@ -7,7 +7,7 @@ Minimum prep checklist:
     * [[Chromatic rose]]
 * [[Iron company encampment]]
 ###  Welcome to the Isles of Fate 
->Welcome to [[Hircia]], or as it's more commonly known, [[The Isles of Fate]]. The year is 748, over 4 generations since the Kindom of Errun rose to power over the central landmasses after a violent and bloody war.
+>Welcome to [[Hircia]], or as it's more commonly known, [[The Isles of Fate]]. The year is 648, over 4 generations since the Kindom of Errun rose to power over the central landmasses after a violent and bloody war.
 >The known world consists of four large continents, surrounded by an archipelago of independent territories. The continents are controlled by several primary states, each of them constantly bustling for influence and power. Even at a time of relative peace such that we find ourselves in, conflict and battles are not uncommon, especially in the further reaches, where the Kingdom of Errun is unable to exert it's leadership. Despite it's position, [[the Kingdom of Errun]] does not hold as much influence as it once did, and some believe it's years of reign may be nearing their end, with rumour of another bloody war imminent.
 >Our story begins in the heart of Errun, on the central continent of the same name. Occupied by a very traditional monarchy, Errun is an incredibly wealthy state and, due to it's central location, it is a hive of trade. Despite the authority that it claims, the monarchy have become quite complacent, and live in luxury, living off the vast riches that their interconnected trade routes provide them. The capital of Errun is [[Pinapota]], and is where the King of Errun resides, and where our story shall begin...
 
