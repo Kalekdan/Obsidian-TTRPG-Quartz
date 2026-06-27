@@ -1,0 +1,2 @@
+![[mad_mary.jpg]]
+Mad Mary is an individual the party encounter in [[Borovia]] in [[The Curse of Strahd - Session 4]] after hearing a crying non stop from her house. They find she has lost her daughter [[Gertruda]].

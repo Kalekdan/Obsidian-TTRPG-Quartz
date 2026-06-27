@@ -1,0 +1,1 @@
+> As you walk into this room, you feel a warm sense of welcome, and immediately feel at ease with everyone around you. The few scholars sat studying, appear very amiable and smile broadly as you welcome. A few large smoking pipes lay smouldering on some of the tables.

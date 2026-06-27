@@ -1,0 +1,1 @@
+Ellion is an elven palladin, played by [[James N]]

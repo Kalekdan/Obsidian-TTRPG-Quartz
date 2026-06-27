@@ -1,0 +1,3 @@
+> This room is quite large, with some long sections which appear to have been set aside for some kind of target practice. There are a few smouldering targets at the end of each.
+> The room is lit by an assortment of flames and balls of crackling energy which slowly glide around just below the cieling.
+> A couple of the tables in here are broken, but the others are heavily occupied with people reading intently. As you walk around, the candles on the desks ignite and extinguish based on your proximity.

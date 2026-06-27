@@ -1,0 +1,3 @@
+Nitari are a species of bird in the Isles of Fate found in any forested area of the continent. They tend to nest high up in trees to protect themselves from predators as they are quite easy to spot at night. During the day, the Nitari are very plain looking black birds with long tail feathers but when the sun sets, these feathers glow in vibrant colors.  The tail feathers spread into a fan when the bird flies to help stabilize in the air but it can also raise its feathers to create a brilliant display used to attract a mate much like a peacock.
+
+Nitari feathers are also often used for decoration, and in producing potions for alchemical lights.

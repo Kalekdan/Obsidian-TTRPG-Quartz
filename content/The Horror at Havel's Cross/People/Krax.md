@@ -1,0 +1,1 @@
+Krax is a hobgoblin who is first met by the party in [[The Horror at Havel's Cross]] where he is encountered looting the corpses of the ghouls victims at [[Havel's Cross]] Inn. He leaves upon being confronted by the party.

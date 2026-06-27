@@ -1,0 +1,2 @@
+![[milivoj.jpg]]
+Milivoj is a boy who the party encounter in [[The Curse of Strahd - Session 6]]. He is in a coma following an altercation with [[Felix]]. He works as a gravedigger in the church next door to an orphanage where he works for the priest [[Lucian Petrovich]].

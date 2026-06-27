@@ -1,0 +1,4 @@
+![[cartine.jpg]]
+A Cartine is a large horse like creature with two large horns running up the center of its nose. An adult Cartine is 6-8m tall and its diet consists mainly of grasses and shrubbery. In the wild they live in groups of 4 or 5 adults with a single male and the rest females. The horns are used in fights between rivals but also offer protection from predators. If they feel threatened, a group of Cartines will stand in a circle all facing outwards to form a relatively impenetrable circle.
+
+Cartines have also been domesticated and are used for transport over large distances. Due to their strength and stamina they are able to carry large loads for long periods of time. Harnesses are put on the animals backs so they can take many people at any time.

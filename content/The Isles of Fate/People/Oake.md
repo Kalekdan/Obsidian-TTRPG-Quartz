@@ -1,0 +1,2 @@
+![[oake.png|500]]
+Oake is a Dryad who defends the fey [[Sylvaris]] who takes the form of a unicorn. He is found corrupted by the disease seeping through the planes, and comes across as an old man. If cured, he will become his much younger looking self. He will be grateful for saving him, unless Sylvaris is left to die, in which case he may need some consoling.

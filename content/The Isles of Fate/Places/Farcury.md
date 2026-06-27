@@ -1,0 +1,1 @@
+Farcury is one of the large settlements on the westernmost island of the [[The Singualian Territories|Singualian Territories]]. It is a mostly fishing community who have lived on the islands for generations.

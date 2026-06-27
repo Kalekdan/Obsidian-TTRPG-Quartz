@@ -1,0 +1,1 @@
+Elira Solwyn is an elvish bard from the city of [[Aetheria]] in [[Jotunheimr]]. She regularly performs at [[The Emberglass Tavern]], where important and influential clientele are regular patrons. She however lives a double life, and a key member of a dangerous crime syndicate ([[The Veils]]) based in [[The Whispering Exchange]] beneath lake [[Aethermere]].

@@ -1,0 +1,1 @@
+The Sentinel Towers are 2 tall lighthouse type structures on the western district of [[Aetheria]]. They are where [[the Watch]] are based and work, but also function as automated lookout towers in their own right, spotlighting dangerous activity they detect in a red light.

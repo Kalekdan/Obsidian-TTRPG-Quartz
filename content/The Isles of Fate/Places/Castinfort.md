@@ -1,0 +1,1 @@
+Castinfort is the northern most settlement on [[The Northern Wilds]], and is the capital of the [[The Principality of Sal|Principality of Sal]]. It is a heavily fortified coastal city, with a large castle overlooking the busy docks. It is just a few miles north of the vast network of mines, owned by [[The Principality of Sal|Sal]] which provide almost all of their income.

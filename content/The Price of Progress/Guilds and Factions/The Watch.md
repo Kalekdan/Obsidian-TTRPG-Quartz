@@ -1,0 +1,1 @@
+The Watch is the name for the policing guards in [[Aetheria]]. They are mostly non-magic users, and police in the traditional manner. They are often at odds with [[The Stone Aegis]], the private militant group who work for [[The Arcanist Consortium]].

@@ -1,0 +1,5 @@
+When travelling by sky, many scenarios can occur. This roll table can trigger some unexpected ones. Possibly roll 1 each day, but can adjust for a specific campaign. These have been taken from all over, so I can't claim them all as original.
+
+| Dice Roll | Encounter | Details |
+|---|---|---|
+| 1 | [Wyvern](https://5e.tools/bestiary.html#wyvern_mm) Defending Hoard | A [Wyvern](https://5e.tools/bestiary.html#wyvern_mm) is seen defending a hoard of treasure (5000g). If the party get too close it will attack. Attempting to step on the cloud they will fall through, as will some of the gold, so must find some way of recovering the treasure. If the serpent dies, the gold will start to fall through the cloud as it disintegrates. Potentially also 1d4 [Wyrmlings](https://5e.tools/bestiary.html#silver%20dragon%20wyrmling_mm). [Boots of Elvenkind](https://www.dndbeyond.com/magic-items/4587-boots-of-elvenkind) and Cloak of FeatherFall (once a day) |

@@ -1,0 +1,4 @@
+![[Pasted image 20250708192855.png|350]]
+Elaris was once a revered monk of the **Shrine of the Unquiet Souls**, a sect devoted to easing restless spirits into peace. Once known for his compassion and calm insight, Elaris has since become a shadow of the man he was — frail, fevered, and haunted by visions of something ancient stirring beneath the veil between life and death.
+
+As his illness worsened, Elaris turned from prayer to desperation. In his search for meaning beyond mortality, he communed with an ancient demon [[Anhural]], the one cursed for defying the gods and birthing the first Festival of the Dead. Through this pact, Elaris has become a **warlock**, channeling [[Anhural]]’s power in secret.

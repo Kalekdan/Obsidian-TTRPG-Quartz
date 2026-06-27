@@ -1,0 +1,1 @@
+Vallaki is a walled town north west of [[Borovia]] and west of [[Ravenloft]]. It is the location [[Ireena Kolyana]] wished to be taken to help her escape from [[Strahd]]. In [[The Curse of Strahd - Session 5]], the party take her there.

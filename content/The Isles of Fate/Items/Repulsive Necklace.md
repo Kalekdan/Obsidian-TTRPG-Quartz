@@ -1,0 +1,1 @@
+The repulsive necklace is magic item. It is a tarnished silver chain, with a broken stone heart as a pendant. It gives the wearer advantage in any saving throws against being charmed.

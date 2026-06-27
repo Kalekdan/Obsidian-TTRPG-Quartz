@@ -1,0 +1,1 @@
+![[yevgeni_krushkin.jpg]]

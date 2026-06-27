@@ -1,0 +1,3 @@
+[[The Duchy of Bunelia|Bunelia]] and [[The Empire of Kelpis|Kelpis]] have been in regular conflict almost as long as the two civilisations have existed. The primary conflic it usually related to the dense and gem rich jungles of the south west coast, which they both vie for.
+
+[[The Free City of Nakur]] has also managed to remain largeley independent, but both [[The Duchy of Bunelia|Bunelia]] and particularly [[The Empire of Kelpis|Kelpis]] seek to absorb the free peoples into their own faction.

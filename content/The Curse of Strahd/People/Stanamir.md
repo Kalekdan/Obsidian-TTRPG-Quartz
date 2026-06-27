@@ -1,0 +1,2 @@
+![[stanamir.jpg]]
+Stanamir is an elderly man, seemingly with significant magical capabilities, who is travelling with the [[The Vistani]] and asks for the party's assistance to help [[Strahd]]. He has a breif altercation with [[Chunk]] [[The Curse of Strahd - Session 1 | when they first meet]], and [[Chunk]] is mildly cursed for a few days.

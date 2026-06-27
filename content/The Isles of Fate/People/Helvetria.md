@@ -1,0 +1,1 @@
+Helvetria was the chief botanist for [[Aevorilius Eclipsus | Aevor's]] family in [[Bres]], she visited Aevor in [[Pinapota]] and gifted him the [[Eclipsus Sword | sword of his family]]. She resides in the [[Bres Palace]] attached to the [[bres lighthouse | lighthouse]].

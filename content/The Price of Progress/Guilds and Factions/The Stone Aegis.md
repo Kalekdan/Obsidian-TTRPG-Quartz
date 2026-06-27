@@ -1,0 +1,3 @@
+The Stone Aegis are a militant group in [[Aetheria]], funded and controlled by [[The Arcanist Consortium]]. They are mostly focused on protecting individuals in the consortium, as well as protecting the city from larger external threats (where [[The Watch]] are more focused on crime within the city). There are often altercations with [[The Watch]] however, where debate about each others jurisdiction comes into question.
+
+They receive a large amount of funding from [[The Arcanist Consortium]], and their use of magic is encouraged, so they can often be seen patrolling the outskirts of [[Aetheria]], riding flying constructs.

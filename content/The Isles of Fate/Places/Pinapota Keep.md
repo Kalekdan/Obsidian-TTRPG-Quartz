@@ -1,0 +1,1 @@
+Pinapota Keep is a heavily fortified castle situated on a large hill in the centre of [[Pinapota]] in [[The Kingdom of Errun| Errun]]. It is the primary residence of the [[The King of Errun|King of Errun]]

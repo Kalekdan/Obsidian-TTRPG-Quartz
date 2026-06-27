@@ -1,0 +1,1 @@
+The Eastern Isle is one of the four large continents in the Isles of Fate. It is generally quite politically stable, with only minor conflict between primary factions.

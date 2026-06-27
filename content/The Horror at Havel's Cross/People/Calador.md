@@ -1,0 +1,3 @@
+![[calador_character_sheet.png]]
+
+Calador is an elf who the party meets in [[The Horror at Havel's Cross]]. He was a colleague of [[Professor Winsome Landy]] and was assisting in studying and exacavating an elven ruin of a necromantic cult. However, he discovered [[The Bone of Doresain]] and was corrupted by it, using its power to revive himself multiple times before it was destroyed and he was killed.

@@ -1,0 +1,3 @@
+The Aethermere (also known as the boiling lake) is an enormous lake, which sits in the centre of the continent, over which [[Aetheria]] hovers. The lake regularly bubbles aggressively, making traversal challenging, and it is therefore rarely used recreationally or otherwise. This unknown bubbling is also where the Aethermere gets its colloquial name of the boiling lake, though the cause is unknown.
+
+A network of caves sit beneath the lake, most of which are unexplored and rather dangerous. Criminal activity, as well as an array of undocumented creatures are said to exist in these tunnels. One such hub of criminality, is [[The Whispering Exchange]], a marketplace and community for the criminals of [[Jotunheimr]].

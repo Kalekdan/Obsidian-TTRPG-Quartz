@@ -1,0 +1,1 @@
+![[stricken_sea.jpg|500]]

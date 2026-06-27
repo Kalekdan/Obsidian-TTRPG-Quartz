@@ -1,0 +1,1 @@
+Havel's Cross is an inn at a crossroads north of [[Ardsey]] on [[The Northern Wilds]]. It is popular among merchants travelling north from [[Ardsey]] to sell wares to the smaller settlements around the island. It is also where [[Professor Winsome Landy]]'s archaeologist colleagues stayed when working on the dig at the elven ruins a few hundred metres away.

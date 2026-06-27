@@ -1,0 +1,1 @@
+Preston Carter is a dock hand, and the brother of [[Donovan Carter]]. He frequents The Tasty Battleaxe, the inn in the centre of town. He has spent most nights (and days) there since his brothers death in the the shipwreck.

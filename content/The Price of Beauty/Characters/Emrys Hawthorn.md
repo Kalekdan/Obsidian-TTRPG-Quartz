@@ -1,0 +1,1 @@
+Emrys Hawthorn is an elvish druid played by [[Joe]].

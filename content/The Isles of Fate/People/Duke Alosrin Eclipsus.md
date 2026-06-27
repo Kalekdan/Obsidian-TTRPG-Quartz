@@ -1,0 +1,7 @@
+Duke Alosrin Eclipsus is the powerful and influential ruler of the city of Bres. A member of the city's aristocratic elite, the Duke is known for his wealth, refinement, and impeccable taste.
+
+Despite his privileged position, Duke Alosrin is unfortunately ignorant of the economic realities facing the people of Bres. He is more concerned with throwing lavish parties and indulging in his own lavish lifestyle, rather than addressing the growing poverty and inequality in the city.
+
+In public, Duke Alosrin is the epitome of elegance and poise. He is often seen at society events, mingling with the city's most influential figures and charming all those who come into contact with him. However, behind closed doors, the Duke is known to be a selfish and self-absorbed leader, who is more concerned with his own status and wealth than the welfare of his subjects.
+
+As a result of his ignorance and neglect, the city of Bres, and the entire state of Bunelia is on the verge of collapse. The gap between the rich and the poor grows wider every day, and the once-prosperous city is now on the brink of ruin. It remains to be seen whether Duke Alosrin will be able to turn things around before it is too late.

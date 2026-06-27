@@ -1,0 +1,9 @@
+> The Swift Steed is probably some kind of converted mansion; there is far too much artistry in the construction of the absolutely spotless tavern's split log fixtures, and the decor is entirely too garish to not come from money. The flag of a [[The Duchy of Bunelia]] hangs on one wall of the tavern, getting passing glares from patrons. The tavern is packed with patrons, and you're pushed to the side as somebody makes for the latrine in a hurry.
+> 
+> Behind the counter is who you would assume to be the bartender, a bony male halfling who is currently reading a newspaper with the headline 'Conflict in Bunelia wages on'. You walk up to the bar, and strike up conversation with the man, who introduces himself as [[Wes Porridgepot]], the owner of The Swift Steed.
+
+The Swift Steed is a classy tavern located in the [[Pinapota]] [[The New City|New City]].
+
+> This renowned establishment is famed not only for its exquisite cuisine and fine wines but also for the air of mystery that seems to cling to its walls. It's said that beneath the polished veneer of "The Swift Steed" lies a labyrinthine network of hidden rooms and secret passages, once used by smugglers and spies during the city's tumultuous past. Some patrons whisper of ghostly apparitions that are said to roam the halls, while others come in search of adventure, hoping to uncover the tavern's well-guarded secrets.
+>
+> Tonight, amid the soft strains of a harpist's melody and the gentle clinking of crystal glasses, you have been drawn to "The Swift Steed" by a cryptic message, an invitation, or perhaps just a desire for respite from your adventures. Little do you know that within these elegant walls, fate may have a unique and intriguing journey in store for you.

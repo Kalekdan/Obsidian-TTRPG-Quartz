@@ -1,0 +1,1 @@
+Donovan Carter is a human sailor. His boat was shipwrecked after encountering the Harpy Matriarch in the lighhouse.

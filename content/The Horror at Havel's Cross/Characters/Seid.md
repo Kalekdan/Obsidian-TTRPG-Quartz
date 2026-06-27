@@ -1,0 +1,1 @@
+Seid is a ranger gnome, played by [[James N]]

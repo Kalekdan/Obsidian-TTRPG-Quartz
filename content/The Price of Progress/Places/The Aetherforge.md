@@ -1,0 +1,1 @@
+The Aetherforge is a 'smithy' in [[Aetheria]], who create weapons and armour in such a way that they are intrinsically imbued with elemental magic. It is based in the central island of [[Aetheria]], where the magical fires which keep the city afloat also fuel the forge.

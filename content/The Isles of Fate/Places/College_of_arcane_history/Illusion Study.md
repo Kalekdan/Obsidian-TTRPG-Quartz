@@ -1,0 +1,1 @@
+> Walking through the doorway, you find yourself on a narrow wooden walkway, between the bookshelves. Looking down, you see a long drop with jagged stone walls, and about 50ft down, a thick mist obscuring the bottom. There is a pleasant floral scent in the air. (wisdom save DC15 to see it's an illusion, and the most boring room of them all)
