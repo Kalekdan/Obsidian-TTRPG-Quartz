@@ -31,7 +31,7 @@ This page is the landing point for the shared world bible. The goal is to keep c
 ### Practical Rule
 
 If something is only relevant to one campaign, keep it in that campaign's notes.
-If something changes the wider world, it belongs on Hircia.
+If something changes the wider world, it belongs on [[Hircia]].
 
 ## Timeline
 AO (Anno Ocassus) refers to events 'After the dawn' of the last era on Hircia.
