@@ -21,14 +21,14 @@ The [[Moons of Hircia]] are central to both cosmology and religion.
 This is the clearest named religion connected to Hircia’s moons. It is likely the most direct expression of the three-deity creation myth. Many of the smaller sects within the isles of fate, choose to focus their worship at one of the three deities (the Matron, the Farmer or the Warrior)
 ### Faith post-convergence
 #### The faith of the Matron
-After the events of The Isles of Fate, the Matron becomes a major religious force in Bunelia. This is less a peaceful religion and more an instrument of rule, fear, and control (see [[Epilogue]]]].
+After the events of The Isles of Fate, the Matron becomes a major religious force in [[The Duchy of Bunelia|Bunelia]]. This is less a peaceful religion and more an instrument of rule, fear, and control (see [[Epilogue]]]].
 ### Local and surviving faiths
 Smaller communities likely keep their own beliefs, saints, legends, and cults, especially in places that are far from Bunelian power.
 
 ## Myth and belief
-* The lost land of Jotunheimr becomes a legend as much as history.
+* The lost land of [[Jotunheimr]] becomes a legend as much as history.
 * The sunken city beneath the Stricken Sea is another example of history turning into story.
-* Religion in Hircia is often not separate from politics or magic.
+* Religion in [[Hircia]] is often not separate from politics or magic.
 
 ## Cosmology notes
 * The sky matters.
