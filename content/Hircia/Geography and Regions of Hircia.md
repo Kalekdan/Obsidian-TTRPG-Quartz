@@ -17,6 +17,7 @@ The 4 main landmasses, and the primary ruling powers (as of the [[Hircia#Timelin
     * [[Lanian Republic]]
 * [[The Kingdom of Errun]]
 	* [[The Kingdom of Errun]]
+
 There is a vast array archipelago's surrounding the main continents, including the scattered islands which are primarily [[the Singualian Territories]] as well as the larger, but mostly unexplored [[Isle of Monza]].
 
 There was also a territory significantly beyond the scope of the map above known as [[Jotunheimr]], which was destroyed in the [[Hircia#Timeline|year 492]].
