@@ -4,3 +4,4 @@
     * [[Republic of Teshi]]
 	    * Mentioned briefly in [[The Kingdom of Errun]] regarding trade difficulties 
     * [[Lanian Republic]]
+* How did the 'tools of creation' come into existence? Left behind by [[The First Pantheon]]? (see [[Religions and Cosmology]])

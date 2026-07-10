@@ -1,0 +1,1 @@
+NB: Some of Arator's creations following [[The Divine War#1. The Breaking of Logic]] are what exists in post [[The Convergence|convergence]] world, and detailed in [[Epilogue]]

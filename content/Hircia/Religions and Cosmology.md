@@ -8,10 +8,10 @@ One common story (under [[Church of the Trinity]]) says Hircia was shaped by thr
 * The Plough, associated with the Farmer, carved the land.
 * The Flask, associated with [[Visil|The Matron]], flooded the seas.
 * The Sword, associated with the Warrior, created life and death.
-These tools are often treated as lost relics, and temples may claim to hold them.
+These tools are often treated as lost relics, and temples may claim to hold them. This creation myth is false, but a leftover of the alliance formed by 3 of [[The First Pantheon]]. The tools do however exist...
 
 ## The Moons
-The [[Moons of Hircia]] are central to both cosmology and religion.
+The [[Moons of Hircia]] are central to both cosmology and religion. The were formed during [[The Divine War]] ([[pre-dawn]])
 * The three primary moons are tied to the [[Church of the Trinity]] (Morta, Straxus and Cultor, related to the Matron, the Warrior and the Farmer respectively).
 * A smaller moon (Infuscus) travels on a monthly cycle and is used for calendar keeping.
 * The sky itself is part of the religious language of Hircia.

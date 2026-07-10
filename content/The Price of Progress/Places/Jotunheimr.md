@@ -8,4 +8,4 @@ At the north of the continent, is a large forest, called the [[Mistwood]], and a
 
 The south of the island features a large bay, known as the [[Hollow Basin]], and a mountain range making exploration of the southern portion of the continent not for the faint of heart.
 
-It's population is about 50% giant, or giant-like, but most of the cities are populated with individuals who are a mix of races and species. The more remote settlements are where you might encounter more traditional 20ft 'giants'.
+It's population is about 50% giant, or giant-like, but most of the cities are populated with individuals who are a mix of races and species. The more remote settlements are where you might encounter more traditional 20ft 'giants'. The giant bloodline is thought to be imbued with magic from the [[pre-dawn]] events in the year 0.

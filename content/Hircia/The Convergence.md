@@ -1,0 +1,1 @@
+The Convergence describes the event in the year 649 where the planar boundaries collapsed as a result of the machine [[Surzak]] built to forcefully resurrect his wife and child. It was orchestrated by [[Visil]], 
