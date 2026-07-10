@@ -392,3 +392,25 @@ describe("resolveRelative", () => {
     assert.strictEqual(path.resolveRelative("abc/def" as FullSlug, "ghi/" as SimpleSlug), "../ghi/")
   })
 })
+
+describe("rebaseUrlWithBasePath", () => {
+  const basePath = "/Obsidian-TTRPG-Quartz"
+  const destination = "https://kalekdan.github.io/hircia/festival-of-the-dead/"
+
+  test("preserves the deployment prefix for relative links", () => {
+    const rebased = path.rebaseUrlWithBasePath("../players/joe", destination, basePath)
+    assert.strictEqual(rebased.pathname, "/Obsidian-TTRPG-Quartz/hircia/players/joe")
+  })
+
+  test("prefixes root-relative links when deployed under a subpath", () => {
+    const rebased = path.rebaseUrlWithBasePath("/players/joe", destination, basePath)
+    assert.strictEqual(rebased.pathname, "/Obsidian-TTRPG-Quartz/players/joe")
+  })
+
+  test("keeps search and hash fragments", () => {
+    const rebased = path.rebaseUrlWithBasePath("/players/joe?draft=1#bio", destination, basePath)
+    assert.strictEqual(rebased.pathname, "/Obsidian-TTRPG-Quartz/players/joe")
+    assert.strictEqual(rebased.search, "?draft=1")
+    assert.strictEqual(rebased.hash, "#bio")
+  })
+})

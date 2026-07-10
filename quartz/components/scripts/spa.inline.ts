@@ -1,5 +1,11 @@
 import micromorph from "micromorph"
-import { FullSlug, RelativeURL, getFullSlug, normalizeRelativeURLs } from "../../util/path"
+import {
+  FullSlug,
+  RelativeURL,
+  getFullSlug,
+  normalizeRelativeURLs,
+  rebaseUrlWithBasePath,
+} from "../../util/path"
 import { fetchCanonical } from "./util"
 
 // adapted from `micromorph`
@@ -20,7 +26,7 @@ const isLocalUrl = (href: string) => {
 
 const isSamePage = (url: URL): boolean => {
   const sameOrigin = url.origin === window.location.origin
-  const samePath = url.pathname === window.location.pathname
+  const samePath = sameNormalizedPath(url, new URL(window.location.toString()))
   return sameOrigin && samePath
 }
 
@@ -32,8 +38,18 @@ const getOpts = ({ target }: Event): { url: URL; scroll?: boolean } | undefined 
   if ("routerIgnore" in a.dataset) return
   const { href } = a
   if (!isLocalUrl(href)) return
-  return { url: new URL(href), scroll: "routerNoscroll" in a.dataset ? false : undefined }
+  return {
+    url: rebaseWithSiteBase(new URL(href)),
+    scroll: "routerNoscroll" in a.dataset ? false : undefined,
+  }
 }
+
+const getBasePath = () => document.body.dataset.basepath?.replace(/\/$/, "") ?? ""
+
+const rebaseWithSiteBase = (url: URL) => rebaseUrlWithBasePath(url.toString(), url, getBasePath())
+
+const sameNormalizedPath = (left: URL, right: URL) =>
+  rebaseWithSiteBase(left).pathname === rebaseWithSiteBase(right).pathname
 
 function notifyNav(url: FullSlug) {
   const event: CustomEventMap["nav"] = new CustomEvent("nav", { detail: { url } })
@@ -68,17 +84,18 @@ async function _navigate(url: URL, isBack: boolean = false) {
   isNavigating = true
   startLoading()
   p = p || new DOMParser()
-  const contents = await fetchCanonical(url)
+  const nextUrl = rebaseWithSiteBase(url)
+  const contents = await fetchCanonical(nextUrl)
     .then((res) => {
       const contentType = res.headers.get("content-type")
       if (contentType?.startsWith("text/html")) {
         return res.text()
       } else {
-        window.location.assign(url)
+        window.location.assign(nextUrl)
       }
     })
     .catch(() => {
-      window.location.assign(url)
+      window.location.assign(nextUrl)
     })
 
   if (!contents) return
@@ -92,7 +109,7 @@ async function _navigate(url: URL, isBack: boolean = false) {
   cleanupFns.clear()
 
   const html = p.parseFromString(contents, "text/html")
-  normalizeRelativeURLs(html, url)
+  normalizeRelativeURLs(html, nextUrl, getBasePath())
 
   let title = html.querySelector("title")?.textContent
   if (title) {
@@ -129,7 +146,7 @@ async function _navigate(url: URL, isBack: boolean = false) {
   // delay setting the url until now
   // at this point everything is loaded so changing the url should resolve to the correct addresses
   if (!isBack) {
-    history.pushState({}, "", url)
+    history.pushState({}, "", nextUrl)
   }
 
   notifyNav(getFullSlug(window))
@@ -143,7 +160,7 @@ async function navigate(url: URL, isBack: boolean = false) {
     await _navigate(url, isBack)
   } catch (e) {
     console.error(e)
-    window.location.assign(url)
+    window.location.assign(rebaseWithSiteBase(url))
   } finally {
     stopLoading()
     isNavigating = false
@@ -163,7 +180,7 @@ function createRouter() {
       if (isSamePage(url) && url.hash) {
         const el = document.getElementById(decodeURIComponent(url.hash.substring(1)))
         el?.scrollIntoView()
-        history.pushState({}, "", url)
+        history.pushState({}, "", rebaseWithSiteBase(url))
         return
       }
 
@@ -172,7 +189,12 @@ function createRouter() {
 
     window.addEventListener("popstate", (event) => {
       const { url } = getOpts(event) ?? {}
-      if (window.location.hash && window.location.pathname === url?.pathname) return
+      if (
+        window.location.hash &&
+        url &&
+        sameNormalizedPath(url, new URL(window.location.toString()))
+      )
+        return
       navigate(new URL(window.location.toString()), true)
       return
     })
@@ -180,7 +202,7 @@ function createRouter() {
 
   return new (class Router {
     go(pathname: RelativeURL) {
-      const url = new URL(pathname, window.location.toString())
+      const url = rebaseWithSiteBase(new URL(pathname, window.location.toString()))
       return navigate(url, false)
     }
 

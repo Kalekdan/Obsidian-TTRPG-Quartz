@@ -95,7 +95,7 @@ async function mouseEnterHandler(
     default:
       const contents = await response.text()
       const html = p.parseFromString(contents, "text/html")
-      normalizeRelativeURLs(html, targetUrl)
+      normalizeRelativeURLs(html, targetUrl, document.body.dataset.basepath?.replace(/\/$/, "") ?? "")
       // prepend all IDs inside popovers to prevent duplicates
       html.querySelectorAll("[id]").forEach((el) => {
         const targetID = `popover-internal-${el.id}`
