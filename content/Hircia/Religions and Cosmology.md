@@ -1,4 +1,8 @@
-The primary religion in [[Hircia]] is the [[Church of the Trinity]], though other religions do exist.
+[[Pre-dawn]]/pre AO, the state of religion in [[Hircia]] was unrecognizably different, with gods and mortals living alongside each other (see [[The First Pantheon]]). However following [[The Divine War]], godhood and those beneath them were seperated, and religions as they are now known begin to emerge. It wasn't until the year 649AO ([[the conjunction]]), where the gods were freed once more thanks to [[Visil]]'s involvement, that the religions of the past several centuries began to fracture and shift once again.
+
+The primary religion in [[Hircia]], pre-conjunction is the [[Church of the Trinity]], though other religions do exist.
+
+Post-conjunction,many other religions began to pop up,including the Church of the Matron,a more secular sect of [[the Church of the Trinity]] who regard [[Visil]] (aka The Matron), as a primary and omnipotent god.
 
 ## Creation myths
 
