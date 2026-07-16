@@ -4,7 +4,7 @@
 
 Long before Virellis existed, before kingdoms had names, there was a man — or something close to one — known as **Anhural**.
 
-He was a high priest, scholar, or oracle who _refused to accept death as final_. His **twin** (or lover, or child) was taken by a **death god**, one of the old and cold ones, and Anhural **petitioned endlessly** for their return.
+He was a high priest, scholar, or oracle who _refused to accept death as final_. His **brother** was taken by a **death god**, one of the old and cold ones, and Anhural **petitioned endlessly** for their return.
 
 When denied, he did the unthinkable:  
 He **entered the realm of the dead** not as a soul, but as a living intruder, and tried to **steal back the dead**.

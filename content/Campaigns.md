@@ -1,3 +1,5 @@
+The set of campaigns I've played or run. Most of those I've run have been set within [[Hircia]] (explicitly or otherwise).
+
 | Campaign Name                   | Role   | Start Date | End Date | Description                                                                                                                                                               |
 | ------------------------------- | ------ | ---------- | -------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [[The Isles of Fate]]           | DM     | 15/03/23   | 10/08/24 | Long form campaign set in [[Hircia]]. An evil lich is attempting to forcibly revive his wife and child by breaking down planar boundaries.                                |
@@ -13,7 +15,7 @@
 | [[Trouble in Tinsel Town]]      | DM     | 19/12/24   | 19/12/24 | A Christmas one-shot, where the magical protective 'Jingle Bell' has been stolen and must be recovered!                                                                   |
 | [[The Price of Progress]]       | DM     |            |          | Long form campaign set in [[Hircia]]. The Radiance Festival is in progress and new inventions are being announced which have the potential to change the world forever... |
 | [[Silver Fork]]                 | Player | 21/01/24   |          | Short-form wild west campaign.                                                                                                                                            |
-| [[The Festival of the Dead]]    | DM     |            |          | Long form campaign. When the dead walk the streets and the prophesised saviour is among them, the party must take it upon themselves to save the living.                  |
+| [[The Festival of the Dead]]    | DM     | 08/10/25   |          | Long form campaign. When the dead walk the streets and the prophesised saviour is among them, the party must take it upon themselves to save the living.                  |
 #### Other D&D Notes and Resources
 - [[Homebrew Content]]
 - [[Resources]]
