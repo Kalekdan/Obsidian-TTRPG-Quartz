@@ -14,3 +14,7 @@
 - buff up further
 - confront the veil, and tell them to keep their distance
 - go see parson smelt and finley jugg for advice/info about the monster
+
+To prep
+- [ ] cards for each player boons
+- [ ] cards for each players magic items
