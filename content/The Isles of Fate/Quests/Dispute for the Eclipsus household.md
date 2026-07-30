@@ -39,7 +39,7 @@ Members of the council:
     * **Motivation**: Valeria is driven by a thirst for arcane knowledge and power. She seeks to ensure the city's safety from magical threats and may be willing to support the candidate who can demonstrate a strong connection to the mystical arts.
     * **Useful Information**: Valeria possesses extensive knowledge of ancient magic and artifacts, as well as access to potent potions and spells. She may have insights into any magical disturbances or anomalies occurring within the city that could influence the council's decision.
 
-##  Dirt against the council 
+## Dirt against the council 
 Lady Isadora knows various bits of incriminating details against each of the council members.
 * [[Ser Gideon Stormborn]]
     * Has his family tree (including blacksmith father)

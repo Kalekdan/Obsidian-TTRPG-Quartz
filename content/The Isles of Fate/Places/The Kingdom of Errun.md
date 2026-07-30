@@ -7,8 +7,7 @@ On the northern coast sits one of the busiest shipping ports, [[Roseport]], whic
 
 Just to the north east of Errun is the infamous [[The Stricken Sea|Stricken Sea]], a particularly dangerous stretch of water that makes trade with the [[Republic of Teshi]] particularly difficult.
 
-####  Towns/Cities 
+#### Towns/Cities 
 * [[Pinapota]] (Capital)
 * [[Roseport]]
 * [[Banwarf]]
-*
