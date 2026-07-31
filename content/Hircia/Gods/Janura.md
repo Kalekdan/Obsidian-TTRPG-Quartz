@@ -1,3 +1,4 @@
+![[Pasted image 20260730103323.png| 350]]
 ## The Goddess of The Spaces Between
 Janura is the gentle, nomadic planar orchestrator of [[The First Pantheon]]. Before the world broke, she held absolute, effortless authority over the thresholds separating reality, possessing the unique ability to step between planes of existence at will. A largely peaceful and neutral deity, Janura acted as the cosmic guide and guardian for those who sought to travel between worlds.
 
