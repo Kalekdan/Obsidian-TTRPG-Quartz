@@ -1,3 +1,4 @@
+![[Pasted image 20260803092227.png|350]]
 ## The God of Order and Innovation
 Mechanos is the deity of architecture, metalworking, cosmic structures, and absolute logic within [[The First Pantheon]]. Possessing staggering, absolute knowledge of the fundamental underpinnings of the universe, Mechanos holds the unique ability to define, catalog, and manipulate the magic of [[Hircia]] using strict reason, geometry, and equations. He rejects the concept of magic as a force of raw emotion, viewing it instead as a precise, universal science.
 ### The Divine Engineer and Mortals

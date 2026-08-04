@@ -1,0 +1,1 @@
+The Gods of [[Hircia]] are primarily the immortals of [[The First Pantheon]], who once walked freely but are now resigned to their own planes of existence with much more limited interaction with the mortals.

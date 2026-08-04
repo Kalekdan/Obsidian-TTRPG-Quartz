@@ -1,5 +1,5 @@
+![[Pasted image 20260803092957.png|350]]
 ## The God of Life & Death
-
 Letheon is one of the oldest, most absolute, and formidable entities within [[The First Pantheon]]. Holding absolute dominion over mortality itself, he possesses the ultimate authority to grant or revoke life, death, and immortality at his whim. Unlike the chaotic deities of the rogue alliance, Letheon represents an unyielding, cold cosmic law.
 ### The Cursing of Anhural
 During the height of [[The Divine War]], a mortal scholar named [[Anhural]] refused to accept the passing of his brother, whose life had been taken by Letheon's inescapable design. Fuelled by grief and hubris, [[Anhural]] managed to do what no mortal had ever achieved: he successfully navigated a path directly into Letheon’s absolute realm of death to confront the god face-to-face.
