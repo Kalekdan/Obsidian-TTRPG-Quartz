@@ -1,3 +1,174 @@
 @use "./variables.scss" as *;
 
-// put your custom CSS here!
+:root {
+  --bg: #f5efe3;
+  --light: #f9f3e8;
+  --lightgray: #d9c4a1;
+  --gray: #7b6652;
+  --darkgray: #2a2118;
+  --dark: #1a120d;
+  --secondary: #8c5d2b;
+  --tertiary: #b7793e;
+  --highlight: rgba(184, 123, 62, 0.14);
+  --textHighlight: rgba(184, 123, 62, 0.2);
+  --headerFont: "Georgia", "Palatino Linotype", "Times New Roman", serif;
+  --bodyFont: "Georgia", "Times New Roman", serif;
+}
+
+html {
+  background: #120d09;
+}
+
+body {
+  background:
+    radial-gradient(circle at top, rgba(214, 175, 110, 0.12), transparent 38%),
+    linear-gradient(180deg, #f5efe3 0%, #efe1c7 100%);
+  color: var(--darkgray);
+  text-rendering: optimizeLegibility;
+}
+
+.page {
+  & > #quartz-body {
+    gap: 0.45rem;
+    margin-left: -0.15rem;
+    margin-right: -0.15rem;
+  }
+
+  .sidebar {
+    background: linear-gradient(180deg, rgba(130, 92, 53, 0.09), rgba(130, 92, 53, 0.02));
+    border: 1px solid rgba(85, 62, 40, 0.15);
+    border-radius: 3px;
+    backdrop-filter: blur(2px);
+    box-sizing: border-box;
+  }
+
+  .sidebar.left {
+    margin-left: -0.15rem;
+  }
+
+  .sidebar.right {
+    margin-right: -0.15rem;
+  }
+
+  .page-header,
+  .page-footer,
+  .center > article,
+  footer {
+    border: 1px solid rgba(96, 70, 47, 0.14);
+    border-radius: 2px;
+    background: rgba(255, 251, 245, 0.7);
+    box-shadow: 0 10px 30px rgba(63, 42, 24, 0.05);
+    padding: 1.5rem 2rem;
+    box-sizing: border-box;
+  }
+
+  .center > article {
+    padding: 1.5rem 1.75rem;
+  }
+
+  .page-footer,
+  footer {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+thead {
+  letter-spacing: 0.02em;
+  text-shadow: 0 1px 0 rgba(255, 255, 255, 0.4);
+}
+
+h1,
+h2,
+h3 {
+  color: var(--dark);
+  border-bottom: 1px solid rgba(122, 92, 61, 0.18);
+  padding-bottom: 0.35rem;
+}
+
+blockquote {
+  margin: 1.25rem 0;
+  border-left: 4px solid var(--secondary);
+  background: rgba(139, 93, 43, 0.06);
+  padding: 0.9rem 1rem 0.9rem 1.2rem;
+  border-radius: 0 12px 12px 0;
+  color: var(--dark);
+}
+
+p,
+li,
+td,
+th,
+figcaption {
+  line-height: 1.75;
+}
+
+strong {
+  color: var(--dark);
+}
+
+a {
+  color: var(--secondary);
+
+  &:hover {
+    color: var(--tertiary);
+  }
+
+  &.internal {
+    background: rgba(180, 121, 61, 0.1);
+    border: 1px solid rgba(140, 93, 43, 0.18);
+    box-shadow: inset 0 0 0 1px rgba(255, 255, 255, 0.15);
+  }
+}
+
+pre,
+code,
+figure[data-rehype-pretty-code-figure] > [data-rehype-pretty-code-title] {
+  border-color: rgba(135, 102, 70, 0.2);
+}
+
+pre {
+  background: rgba(42, 33, 24, 0.98);
+  color: #f0e4cf;
+  box-shadow: inset 0 1px 0 rgba(255, 255, 255, 0.04);
+}
+
+img {
+  border-radius: 3px;
+  box-shadow: 0 8px 20px rgba(35, 24, 18, 0.08);
+}
+
+.table {
+  border-collapse: collapse;
+  overflow: hidden;
+  border-radius: 3px;
+}
+
+table th,
+table td {
+  border-color: rgba(122, 92, 61, 0.22);
+}
+
+::selection {
+  background: rgba(183, 121, 62, 0.24);
+}
+
+@media all and ($mobile) {
+  .page {
+    .center > article {
+      padding: 1.1rem 1rem;
+    }
+
+    .sidebar {
+      background: rgba(255, 247, 236, 0.7);
+      border-radius: 14px;
+      border: 1px solid rgba(96, 70, 47, 0.14);
+    }
+  }
+}
