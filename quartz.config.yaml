@@ -1,7 +1,7 @@
 # yaml-language-server: $schema=./quartz/plugins/quartz-plugins.schema.json
 configuration:
-  pageTitle: Worldbuilding Wiki
-  pageTitleSuffix: "Hircia & beyond."
+  pageTitle: Quartz 5
+  pageTitleSuffix: ""
   enableSPA: true
   enablePopovers: true
   analytics:
