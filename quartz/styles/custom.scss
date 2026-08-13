@@ -1,28 +1,67 @@
 @use "./variables.scss" as *;
 
 :root {
-  --bg: #f5efe3;
+  --fantasy-bg: #f5efe3;
+  --fantasy-bg-2: #efe1c7;
+  --fantasy-surface: rgba(255, 251, 245, 0.7);
+  --fantasy-panel: rgba(130, 92, 53, 0.09);
+  --fantasy-border: rgba(96, 70, 47, 0.14);
+  --fantasy-shadow: rgba(63, 42, 24, 0.05);
+  --fantasy-text: #2a2118;
+  --fantasy-text-strong: #1a120d;
+  --fantasy-accent: #8c5d2b;
+  --fantasy-accent-strong: #b7793e;
+  --fantasy-highlight: rgba(184, 123, 62, 0.14);
+  --fantasy-highlight-strong: rgba(184, 123, 62, 0.2);
+
+  --bg: var(--fantasy-bg);
   --light: #f9f3e8;
   --lightgray: #d9c4a1;
   --gray: #7b6652;
-  --darkgray: #2a2118;
-  --dark: #1a120d;
-  --secondary: #8c5d2b;
-  --tertiary: #b7793e;
-  --highlight: rgba(184, 123, 62, 0.14);
-  --textHighlight: rgba(184, 123, 62, 0.2);
+  --darkgray: var(--fantasy-text);
+  --dark: var(--fantasy-text-strong);
+  --secondary: var(--fantasy-accent);
+  --tertiary: var(--fantasy-accent-strong);
+  --highlight: var(--fantasy-highlight);
+  --textHighlight: var(--fantasy-highlight-strong);
   --headerFont: "Georgia", "Palatino Linotype", "Times New Roman", serif;
   --bodyFont: "Georgia", "Times New Roman", serif;
 }
 
+:root[saved-theme="dark"] {
+  --fantasy-bg: #120d09;
+  --fantasy-bg-2: #1d130f;
+  --fantasy-surface: rgba(28, 21, 17, 0.8);
+  --fantasy-panel: rgba(200, 154, 89, 0.08);
+  --fantasy-border: rgba(190, 146, 93, 0.2);
+  --fantasy-shadow: rgba(0, 0, 0, 0.28);
+  --fantasy-text: #f2e4d0;
+  --fantasy-text-strong: #fff3e2;
+  --fantasy-accent: #d9a165;
+  --fantasy-accent-strong: #e8c08a;
+  --fantasy-highlight: rgba(217, 161, 101, 0.17);
+  --fantasy-highlight-strong: rgba(232, 192, 138, 0.23);
+
+  --bg: var(--fantasy-bg);
+  --light: #1b1411;
+  --lightgray: #3a2e26;
+  --gray: #b49773;
+  --darkgray: var(--fantasy-text);
+  --dark: var(--fantasy-text-strong);
+  --secondary: var(--fantasy-accent);
+  --tertiary: var(--fantasy-accent-strong);
+  --highlight: var(--fantasy-highlight);
+  --textHighlight: var(--fantasy-highlight-strong);
+}
+
 html {
-  background: #120d09;
+  background: var(--fantasy-bg);
 }
 
 body {
   background:
-    radial-gradient(circle at top, rgba(214, 175, 110, 0.12), transparent 38%),
-    linear-gradient(180deg, #f5efe3 0%, #efe1c7 100%);
+    radial-gradient(circle at top, rgba(214, 175, 110, 0.14), transparent 38%),
+    linear-gradient(180deg, var(--fantasy-bg) 0%, var(--fantasy-bg-2) 100%);
   color: var(--darkgray);
   text-rendering: optimizeLegibility;
 }
@@ -35,8 +74,8 @@ body {
   }
 
   .sidebar {
-    background: linear-gradient(180deg, rgba(130, 92, 53, 0.09), rgba(130, 92, 53, 0.02));
-    border: 1px solid rgba(85, 62, 40, 0.15);
+    background: linear-gradient(180deg, var(--fantasy-panel), rgba(130, 92, 53, 0.02));
+    border: 1px solid var(--fantasy-border);
     border-radius: 3px;
     backdrop-filter: blur(2px);
     box-sizing: border-box;
@@ -52,17 +91,17 @@ body {
 
   .page-header,
   .page-footer,
-  .center > article,
+  .center > .popover-hint,
   footer {
-    border: 1px solid rgba(96, 70, 47, 0.14);
+    border: 1px solid var(--fantasy-border);
     border-radius: 2px;
-    background: rgba(255, 251, 245, 0.7);
-    box-shadow: 0 10px 30px rgba(63, 42, 24, 0.05);
+    background: var(--fantasy-surface);
+    box-shadow: 0 10px 30px var(--fantasy-shadow);
     padding: 1.5rem 2rem;
     box-sizing: border-box;
   }
 
-  .center > article {
+  .center > .popover-hint {
     padding: 1.5rem 1.75rem;
   }
 
@@ -70,6 +109,10 @@ body {
   footer {
     margin-left: 0;
     margin-right: 0;
+  }
+
+  .page-footer:empty {
+    display: none;
   }
 }
 
@@ -161,14 +204,14 @@ table td {
 
 @media all and ($mobile) {
   .page {
-    .center > article {
+    .center > .popover-hint {
       padding: 1.1rem 1rem;
     }
 
     .sidebar {
-      background: rgba(255, 247, 236, 0.7);
+      background: var(--fantasy-surface);
       border-radius: 14px;
-      border: 1px solid rgba(96, 70, 47, 0.14);
+      border: 1px solid var(--fantasy-border);
     }
   }
 }
