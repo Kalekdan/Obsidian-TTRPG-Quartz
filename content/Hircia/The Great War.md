@@ -18,7 +18,7 @@ Prior to the outbreak of the war, the world was dominated by the old guard of em
 
 The tension reached a boiling point in the winter of 537. Aethelgard's inquisitors marched on [[Roseport]] with orders to execute a prominent group of rebel mages—the early founders of the Errun movement. 
 
-Knowing they lacked the steel and military might to survive the purge, the Errun resistance sent a desperate plea across the sea to [[the Duchy of Bunelia]]. Seeing a golden opportunity to break Aethelgard's global monopoly, Bunelia answered. Utilizing the thick fogs and the navigational expertise of their navy, Bunelia secretly moved a massive fleet of warships, weapons, and raw iron into Roseport harbor.
+Knowing they lacked the steel and military might to survive the purge, the Errun resistance sent a desperate plea across the sea to [[the Duchy of Bunelia]]. Seeing a golden opportunity to break Aethelgard's global monopoly, Bunelia answered. Utilizing the thick fogs and the navigational expertise of their navy, Bunelia secretly moved a massive fleet of warships, weapons, and raw iron into Roseport harbor and the various hidden coves along the coast.
 
 When the Aethelgard forces arrived, they were caught completely off guard, walking into a devastating crossfire of Bunelian steel and experimental [[Pinapota]] artillery. 
 
@@ -41,7 +41,7 @@ By the time the dust settled decades later, the map of [[Hircia]] had been compl
 ### The Rise of Errun
 The victorious resistance officially unified the Central Landmasses under a new banner, establishing [[the Kingdom of Errun]]. Vowing never to let mages rule unchecked again, they structured a new society balancing the utilitarian science of [[Pinapota]] and the expressive freedom of [[Roseport]].
 ### The Grand Alliance
-Bound by decades of shared sacrifice and shed blood, [[the Kingdom of Errun]] and [[the Duchy of Bunelia]] formed an unshakable alliance. Errun emerged as the primary global power, while Bunelia secured absolute dominance over [[the Gem of the West]]. This massive shift in power paved the way for Bunelia's eventual terrifying religious rise under [[The Matron]] (649 AO).
+Bound by decades of shared sacrifice and shed blood, [[the Kingdom of Errun]] and [[the Duchy of Bunelia]] formed an unshakable alliance. Errun emerged as the primary global power, while Bunelia secured absolute dominance over [[the Gem of the West]]. This massive shift in power paved the way for Bunelia's eventual terrifying religious rise under [[Aevorilius Eclipsus|the new Duke Eclipsus]], with the support of [[the Matron]]s forces (649 AO).
 ### The Bitter Losers
 [[The Empire of Kelpis]] was left humiliated, economically crippled, and deeply bitter. This resentment cemented their modern, enduring rivalry with Bunelia.
 
