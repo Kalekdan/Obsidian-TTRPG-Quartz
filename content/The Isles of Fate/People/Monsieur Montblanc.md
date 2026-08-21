@@ -1,0 +1,1 @@
+Monsieur Montblanc is a large moustached man, and the landlord at [[Goliaths Alehouse]] in [[Bres]]. He is over 7ft tall, and thought to have some long lost giants blood.

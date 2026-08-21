@@ -1,0 +1,1 @@
+In the year 649, [[The Duchy of Bunelia|Bunelia]] becomes the ruling power in [[Hircia]], making use of [[the convergence]] beasts and forming the Bunelian Empire, ruled by King [[Aevorilius Eclipsus|Aevorilius]]

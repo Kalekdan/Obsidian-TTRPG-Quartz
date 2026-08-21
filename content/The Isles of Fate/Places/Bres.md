@@ -19,7 +19,7 @@ Overall, Bres is a city of great wealth and refinement, where the elite of socie
     * [[The Velvet Vixen]] (Brothel, classy, near the palace)
     * [[The Naughty Nook]] (Brothel, seedy, near the outskirts of town)
 * **Craftsmen:**
-    * 
+    * [[Starlit Stones Jewelers]]
 * **Government Buildings:**
     * [[Bres Lighthouse | The Lighthouse]]
 * **Public Services:**

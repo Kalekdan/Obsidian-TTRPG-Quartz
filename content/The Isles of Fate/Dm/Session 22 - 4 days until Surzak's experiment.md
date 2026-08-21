@@ -1,6 +1,6 @@
 * Found the teleportation circle - got 2x invites from [[Archmage Valeria Nightshade]] to come back and show the wound that Bramble sustained from his magic dagger -requires an item from the destination, and 1000GP
 * Aevor insulted Ser Gideon in public, they arranged meeting with lord Aric Ironhand
-* They visited Ser Gideons mother (Elowa Goldleaf, workes at the starlits stones jewelers)
+* They visited Ser Gideons mother ([[Elowa Goldleaf]], workes at the starlits stones jewelers)
 ####  Journey to The Surzak Manor - 2/3 days north 
 * Along river/road
     * Longer journey, more likely to encounter people on the road, less likely to get lost

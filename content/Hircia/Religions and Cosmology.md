@@ -2,7 +2,7 @@
 
 The primary religion in [[Hircia]], pre-conjunction is the [[Church of the Trinity]], though other religions do exist.
 
-Post-conjunction,many other religions began to pop up,including the Church of the Matron,a more secular sect of [[the Church of the Trinity]] who regard [[Visil]] (aka The Matron), as a primary and omnipotent god.
+Post-conjunction, many other religions began to pop up, including the Church of the Matron, a more secular sect of the [[Church of the Trinity]] who regard [[Visil]] (aka The Matron), as a primary and omnipotent god. Though not strictly a religion, 'The Echos' formed a rebellious resistance after [[the Convergence]] and often herald [[Bramble]] (of 'the forgotten three') as a god due to the many unknowns regarding his origin.
 
 ## Creation myths
 

@@ -2,6 +2,8 @@
 Aevorilius is a human fighter played by [[Lucas]].
 
 As the son of the Duke, he was raised in Bunelia, and grew up their until he attempted to stage a coup to overthrow the Duke for the sake of maintaining a semblance of the power that his father was whittling away. When uncovered, this caused a rift in the already strained relationship between the father and son, and Aevorilius (Aevor) was disowned.
+
+Following the events of [[The Isles of Fate]], Aevor formed a new [[The Bunelian Empire|Bunelian Empire]], and crowned himself king.
 ###  Questions to clarify 
 1.  What is Aevor doing in Pinapota? Is he looking for someone/something or just trying to get away from his family? 
 
