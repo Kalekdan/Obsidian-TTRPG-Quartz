@@ -1,3 +1,5 @@
+> "Magic is a tool until it starts behaving like a warning." - Pinapota lecture note
+
 Magic is everywhere in Hircia, but it is not used the same way everywhere. Some places treat it like a science, some like a craft, and some like a religious or dangerous force.
 ## Core ideas
 ### Magic is ambient

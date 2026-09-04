@@ -12,6 +12,7 @@
 * [[The Festival of the Dead - Session 5]]
 * [[The Festival of the Dead - Session 6]]
 * [[The Festival of the Dead - Session 7]]
+* [[The Festival of the Dead - Session 8]]
 
 #### Introduction 
 The Festival of the Dead is a medium/long form D&D campaign. The campaign starts in the city of [[Virellis]], a coastal town perched on the edge of a cliff with views over the ocean. The preparations for [[the festival]] are underway, with [[Jaskia Boneheart]] decided as [[the hero]] of the town. However she hasn't been seen for a few days, and the undead will start waking at midnight...
@@ -27,7 +28,8 @@ The party arrive in town having heard of work - a bandit camp nearby is causing 
 [[Elaris the Dying Monk]], was once a monk of the unquiet souls, but has fallen ill and is dying and living in the [[House of Final Rest]]. Faced with death, he has communed with the demon ([[Anhural]]), and become a warlock - he wants to help him let the dead and living live alongside each other, even if it means being a slave/member of an undead army. 
 
 
-
+## Post Campaign Summary
+In a desire to not die, [[Elaris the Dying Monk|Elaris]] (an ex-monk of the [[Shrine of the Unquiet Souls]]) tries to foil the festival of the dead. He kidnaps the hero [[Jaskia Boneheart]], such that [[Anhural]] does not get sent back and the festival never ends. The party manage to save [[Jaskia Boneheart|Jaskia]], and stop [[Elaris the Dying Monk|Elaris]]. They fulfil the hero's task with [[Jaskia Boneheart|Jaskia]], and drive [[Anhural]] back into his plane so the festival can continue next year.
 
 
 

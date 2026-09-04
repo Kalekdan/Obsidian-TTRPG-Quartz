@@ -1,3 +1,5 @@
+> "The third lecture began with the professor drawing a circle and ending with half the room refusing to touch the chalk again." - from _Notes on Ambient Thaumaturgy_
+
 ![[college_of_arcane_history.jpg|500]]
 
 The College of Arcane History, situated in central [[Pinapota]], is one of the larger estabilshments on the Isles of Fate where one can commit to a life of study of the arcane. It has one of the largest libraries on the continents, with a vast collection of historical tomes.
