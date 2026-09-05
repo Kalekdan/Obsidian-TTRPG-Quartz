@@ -1,6 +1,6 @@
 Virellis is a small coastal town, perched on the edge of a cliff overlooking the ocean. It is a sacred town, with the [[Shrine of the Unquiet Souls]] based in the centre. There is a huge graveyard surrounding the town.
 
-Virellis is famed for its yearly [[the festival|Festival of the Dead]], where all those buried in and around the town walk the earth once more. Pilgrims from all over visit for this incredibly event.
+Virellis is famed for its yearly [[the festival of the dead|Festival of the Dead]], where all those buried in and around the town walk the earth once more. Pilgrims from all over visit for this incredibly important event.
 
 There is a steep path down the cliff leading to a cave in the cliffside where [[The Hero]] faces the demon every year to end the festival.
 

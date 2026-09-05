@@ -4,7 +4,7 @@
 
 Surzak is a lich, and the main villain of [[the Isles of Fate]]. He became a lich to save his son, and remain living with his wife. He is now searching for a way to resurrect her, and revert his lichdom.
 
-####  Before Lichdom 
+#### Before Lichdom 
 Before becoming a lich, Surzak was known as Surzak Valrel and was a human married to an elvish woman [[Fayeth Valrel | Fayeth]], with a son called [[Elword Valrel | Elword]]. He was the head of a smaller house in the [[The Duchy of Bunelia|Duchy of Bunelia]]. Their son was ill from a young age, so Surzak spent his entire life studying how to cure him, becoming a recluse in the process. Even after their son died, he began investigating necromancy as an option to bring him back.
 
 After a lifetime of study, with no results he was near death, whilst his elven wife would continue to live on. He decided to take the step to become a lich so he could continue his work, and use the power provided to continue to attempt to resurrect his son.

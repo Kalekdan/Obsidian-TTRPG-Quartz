@@ -11,6 +11,6 @@ The gods in the First Pantheon include:
 ### Key Figures Affected by the Pantheon
 - **[[Anhural]]:** once mortal, Anhural had the audacity to challenge the absolute authority of the heavens, and [[Letheon]] in particular. He was deified by [[Letheon]] and sentenced to immortality as a punishment for daring to defy him, and banished eternally to the Plane of Death, setting the stage for [[The Festival of the Dead]].
 
-Unless otherwise specified, these gods continue to exist post-war, but in a weakened state and mostly sealed away from mortals.
+Unless otherwise specified, these gods continue to exist post-divine-war, but in a weakened state and mostly sealed away from mortals.
 ### The Origin of the Cataclysm
 [[Visil]], [[Carnifex]], and [[Arator]] formed a desperate, cataclysmic alliance that initiated [[The Divine War]]. The ensuing magical and physical fallout that beheld [[Hircia]] rearranged the cosmos, ultimately resulting in the formation of the three primary [[Moons of Hircia|moons]] named after them and their ancient roles in the pantheon: **Morta, Straxus, and Cultor**.
