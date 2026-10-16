@@ -5,7 +5,7 @@ The primary religion in [[Hircia]], pre-conjunction is the [[Church of the Trini
 Post-conjunction, many other religions began to pop up, including [[the Church of the Matron]], a more secular sect of the [[Church of the Trinity]] who regard [[Visil]] (aka The Matron), as a primary and omnipotent god. Though not strictly a religion, 'The Echos' formed a rebellious resistance after [[the Convergence]] and often herald [[Bramble]] (of 'the forgotten three') as a god due to the many unknowns regarding his origin.
 
 ## Religions
-Whilst their are only a fixed number of deified beings (the gods of [[the First Pantheon]]), religion over the ages has evolved in various ways depending on culture, and what is known by its followers. For many years after year 0AO, knowledge of the gods was lost, with just glimpses noticed which fuelled the religions.
+Whilst their are only a fixed number of deified beings (the gods of [[the First Pantheon]]), religion over the ages has evolved in various across cultures and historical eras. For many years after year 0AO, knowledge of the gods was lost, with just glimpses noticed which fuelled the religions.
 
 | Religion/Pantheon                                    | Primary Region/Worshippers                     | Views on religion & cosmology                                                                                                                                                            | Year of majority |
 | ---------------------------------------------------- | ---------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
@@ -13,6 +13,7 @@ Whilst their are only a fixed number of deified beings (the gods of [[the First 
 | [[The Church of the Matron]]                         | [[The Bunelian Empire]]                        | Elevates "The Matron" ([[Visil]]) as a supreme ruler; enforces worship through military terror.                                                                                          | 688AO            |
 | [[The Echos]]/[[The Echos\|The Bramblers]]           | Underground resistance and anti-Bunelian cells | Revere [[Bramble]] as a god of joy, joviality, and resistance against tyranny.                                                                                                           | 688AO            |
 | [[The Order of Logic]]                               | [[Jotunheimr]], Secret scholars                | Reject divine faith; revere [[Mechanos]]'s geometry, equations, and lost blueprints.                                                                                                     | 490AO            |
+
 Beyond these, there are smaller groups who pray to other elements of their culture or 'god-like' entities, be that deep sea leviathans (in [[the Singualian Territories]]), stone golems or spirits of the jungles (in [[the Northern Wilds]]).
 ## Creation myths
 
@@ -22,6 +23,7 @@ One common story (under [[Church of the Trinity]]) says [[Hircia]] was shaped by
 * The Plough, associated with the Farmer, carved the land.
 * The Flask, associated with [[Visil|The Matron]], flooded the seas.
 * The Sword, associated with the Warrior, created life and death.
+
 These tools are often treated as lost relics, and temples may claim to hold them. This creation myth is false, but a leftover of the alliance formed by 3 of [[The First Pantheon]]. The tools do however exist...
 
 ## The Moons
