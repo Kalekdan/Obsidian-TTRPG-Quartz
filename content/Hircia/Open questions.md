@@ -1,3 +1,5 @@
+These are areas that either require additional worldbuilding, or are up for anyone running a game in [[Hircia]] to fill in the gaps for.
+
 - What is on the [[Isle of Monza]] (aside from [[Farcury]])?
 - The specifics of politics of [[The Eastern Isle]]:
 	* [[City State of Momalia]]
@@ -6,3 +8,4 @@
     * [[Lanian Republic]]
 * How did the 'tools of creation' come into existence? Left behind by [[The First Pantheon]]? (see [[Religions and Cosmology]])
 * What are [[Mechanos]] lost artefacts? What can they do?
+* Are there other planets in the universe?

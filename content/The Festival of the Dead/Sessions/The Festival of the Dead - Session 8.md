@@ -23,12 +23,12 @@ Nyx's husband and crew will come and help fight (4 individuals inc the husband?)
 ## Final battle:
 legenedary actions
 - [x] action 1 ✅ 2026-09-02
-- [ ] action 2
+- [x] action 2 ✅ 2026-09-14
 # Anhural
 https://5e.tools/bestiary/shadow-demon-mm.html - 75hp - 73 - 
 **+2 legendary resistances**
 - [x] resistance 1 ✅ 2026-09-02
-- [ ] resistance 2
+- [x] resistance 2 ✅ 2026-09-14
 **+2 legendary actions:**
 - **Shadow Slip (1 Action)**  
 	- Anhural moves up to half his speed without provoking opportunity attacks.

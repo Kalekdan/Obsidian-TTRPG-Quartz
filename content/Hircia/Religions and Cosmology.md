@@ -1,14 +1,24 @@
-[[Pre-dawn]]/pre AO, the state of religion in [[Hircia]] was unrecognizably different, with gods and mortals living alongside each other (see [[The First Pantheon]]). However following [[The Divine War]], godhood and those beneath them were seperated, and religions as they are now known begin to emerge. It wasn't until the year 649AO ([[the conjunction]]), where the gods were freed once more thanks to [[Visil]]'s involvement, that the religions of the past several centuries began to fracture and shift once again.
+[[Pre-dawn]]/pre AO, the state of religion in [[Hircia]] was unrecognisably different, with gods and mortals living alongside each other (see [[The First Pantheon]]). However following [[The Divine War]], godhood and those beneath them were separated, and religions as they are now known begin to emerge. It wasn't until the year 649AO ([[the convergence]]), where the gods were freed once more thanks to [[Visil]]'s involvement, that the religions of the past several centuries began to fracture and shift once again.
 
 The primary religion in [[Hircia]], pre-conjunction is the [[Church of the Trinity]], though other religions do exist.
 
-Post-conjunction, many other religions began to pop up, including the Church of the Matron, a more secular sect of the [[Church of the Trinity]] who regard [[Visil]] (aka The Matron), as a primary and omnipotent god. Though not strictly a religion, 'The Echos' formed a rebellious resistance after [[the Convergence]] and often herald [[Bramble]] (of 'the forgotten three') as a god due to the many unknowns regarding his origin.
+Post-conjunction, many other religions began to pop up, including [[the Church of the Matron]], a more secular sect of the [[Church of the Trinity]] who regard [[Visil]] (aka The Matron), as a primary and omnipotent god. Though not strictly a religion, 'The Echos' formed a rebellious resistance after [[the Convergence]] and often herald [[Bramble]] (of 'the forgotten three') as a god due to the many unknowns regarding his origin.
 
+## Religions
+Whilst their are only a fixed number of deified beings (the gods of [[the First Pantheon]]), religion over the ages has evolved in various ways depending on culture, and what is known by its followers. For many years after year 0AO, knowledge of the gods was lost, with just glimpses noticed which fuelled the religions.
+
+| Religion/Pantheon                                    | Primary Region/Worshippers                     | Views on religion & cosmology                                                                                                                                                            | Year of majority |
+| ---------------------------------------------------- | ---------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------- |
+| [[Church of the Trinity\|The Church of the Trinity]] | [[The Kingdom of Errun]], Central Landmasses   | Worships The Matron ([[Visil]]), The Soldier ([[Carnifex]]), and The Farmer ([[Arator]]) as benevolent creator deities who hold the "Tools of Creation". Known only by their psuedonyms. | 552AO            |
+| [[The Church of the Matron]]                         | [[The Bunelian Empire]]                        | Elevates "The Matron" ([[Visil]]) as a supreme ruler; enforces worship through military terror.                                                                                          | 688AO            |
+| [[The Echos]]/[[The Echos\|The Bramblers]]           | Underground resistance and anti-Bunelian cells | Revere [[Bramble]] as a god of joy, joviality, and resistance against tyranny.                                                                                                           | 688AO            |
+| [[The Order of Logic]]                               | [[Jotunheimr]], Secret scholars                | Reject divine faith; revere [[Mechanos]]'s geometry, equations, and lost blueprints.                                                                                                     | 490AO            |
+Beyond these, there are smaller groups who pray to other elements of their culture or 'god-like' entities, be that deep sea leviathans (in [[the Singualian Territories]]), stone golems or spirits of the jungles (in [[the Northern Wilds]]).
 ## Creation myths
 
 ### The Tools of Creation
 
-One common story (under [[Church of the Trinity]]) says Hircia was shaped by three deities, each carrying a tool.
+One common story (under [[Church of the Trinity]]) says [[Hircia]] was shaped by three deities, each carrying a tool.
 * The Plough, associated with the Farmer, carved the land.
 * The Flask, associated with [[Visil|The Matron]], flooded the seas.
 * The Sword, associated with the Warrior, created life and death.

@@ -18,4 +18,5 @@ My list of characters and ideas for characters.
 | [[Baba O'Dean]]               | Halfling   | Barbarian | [[The Wild Sheep Chase\|Played]]       | Classic drunk rowdy barbarian                                                                        |
 | [[Emrys Hawthorn]]            |            |           | [[The Price of Beauty\|Played]]        |                                                                                                      |
 |                               | Lemon      | Warlock   |                                        | Missread summoning scroll for 'demon', and now has a lemon patron. Refuses to admit it was a mistake |
+
 For characters I previously played (before creating this page), they can be found in [[Joe|my player page]].

@@ -11,3 +11,5 @@ The Dukes son, [[Aevorilius Eclipsus]], attempted to stage a coup to overthrow t
 There are several powerful houses in the Duchy of Bunelia, as well as some smaller houses, such as the one [[Surzak | Surzak Valrel's]] family belongs to.
 
 The state capital of Bunelia, and where the Eclipsus dukedom reside, is [[Bres]].
+
+After the events of [[The Isles of Fate]], Bunelia became one of the primary ruling powers in [[Hircia]], joining forces with [[Visil]]. They form [[the Bunelian Empire]], and rule with an iron fist.
