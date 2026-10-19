@@ -1,1 +1,5 @@
-The Eastern Isle is one of the four large continents in the Isles of Fate. It is generally quite politically stable, with only minor conflict between primary factions.
+The Eastern Isle is one of the four major continental landmasses of Hircia. Characterized by its rolling plains, extensive river networks, and long, jagged coastlines, it stands as a politically fragmented, highly decentralised, and maritime-focused continent.
+
+Unlike the centralised monarchies or aggressive military empires of the central and western lands, The Eastern Isle is defined by a delicate balance of independent republics, mercantile city-states, and maritime trade networks. Prior to The Convergence (649 AO), it was widely regarded as one of the most politically stable regions in [[Hircia]], maintaining its autonomy primarily by balancing rival external superpowers against one another.
+
+It is made up of three large political factions, the [[City State of Momalia]], [[Republic of Teshi]] and the [[Lanian Republic]].
