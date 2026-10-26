@@ -2,6 +2,7 @@
 .gitignore
 node_modules
 public
+hexmap-plugin/dist/
 prof
 tsconfig.tsbuildinfo
 .obsidian

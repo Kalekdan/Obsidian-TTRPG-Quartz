@@ -241,6 +241,12 @@ plugins:
     enabled: true
     options: {}
     order: 50
+  - source: ./hexmap-plugin
+    enabled: true
+    order: 35
+    layout:
+      position: beforeBody
+      priority: 40
   - source: github:quartz-community/note-properties
     enabled: true
     options:
