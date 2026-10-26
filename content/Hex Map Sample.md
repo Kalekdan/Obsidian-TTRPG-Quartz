@@ -25,12 +25,52 @@ hexmap:
       r: 6
       hexType: coast
       link: /notes/waterline
-      label: Shore
+      label: 
+    - q: 35
+      r: 6
+      hexType: coast
+      link: /notes/waterline
+      label: 
     - q: 36
       r: 6
       hexType: grassland
       link: /notes/verdant-plains
       label: Verdant
+    - q: 37
+      r: 6
+      hexType: coast
+      link: /notes/waterline
+      label: 
+    - q: 38
+      r: 6
+      hexType: coast
+      link: /notes/waterline
+      label: 
+    - q: 34
+      r: 7
+      hexType: coast
+      link: /notes/waterline
+      label:     
+    - q: 35
+      r: 7
+      hexType: coast
+      link: /notes/waterline
+      label: 
+    - q: 36
+      r: 7
+      hexType: coast
+      link: /notes/waterline
+      label: 
+    - q: 37
+      r: 7
+      hexType: coast
+      link: /notes/waterline
+      label: 
+    - q: 38
+      r: 7
+      hexType: coast
+      link: /notes/waterline
+      label: 
 ---
 
 # Hex Map Sample
