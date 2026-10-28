@@ -1844,8 +1844,8 @@ hexmap:
     - q: 12
       r: 5
       hexType: plains
-      link: ""
-      label: ""
+      link: "[[Virellis]]"
+      label: Virellis
     - q: 12
       r: 6
       hexType: plains
@@ -1943,12 +1943,12 @@ hexmap:
       label: ""
     - q: 12
       r: 25
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 12
       r: 26
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 12
@@ -2024,8 +2024,8 @@ hexmap:
     - q: 13
       r: 11
       hexType: plains
-      link: ""
-      label: ""
+      link: "[[Southelme]]"
+      label: Southelme
     - q: 13
       r: 12
       hexType: sea
@@ -2093,12 +2093,12 @@ hexmap:
       label: ""
     - q: 13
       r: 25
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 13
       r: 26
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 13
@@ -2129,8 +2129,8 @@ hexmap:
     - q: 14
       r: 2
       hexType: plains
-      link: ""
-      label: ""
+      link: "[[Castinfort]]"
+      label: Castinfort
     - q: 14
       r: 3
       hexType: plains
@@ -2143,27 +2143,27 @@ hexmap:
       label: ""
     - q: 14
       r: 5
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 14
       r: 6
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 14
       r: 7
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 14
       r: 8
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 14
       r: 9
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 14
@@ -2184,8 +2184,8 @@ hexmap:
     - q: 14
       r: 13
       hexType: plains
-      link: ""
-      label: ""
+      link: "[[Dodbro]]"
+      label: Dodbro
     - q: 14
       r: 14
       hexType: plains
@@ -2238,7 +2238,7 @@ hexmap:
       label: ""
     - q: 14
       r: 24
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 14
@@ -2283,37 +2283,37 @@ hexmap:
       label: ""
     - q: 15
       r: 3
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 15
       r: 4
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 15
       r: 5
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 15
       r: 6
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 15
       r: 7
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 15
       r: 8
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 15
       r: 9
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 15
@@ -2349,8 +2349,8 @@ hexmap:
     - q: 15
       r: 16
       hexType: plains
-      link: ""
-      label: ""
+      link: "[[Mira]]"
+      label: Mira
     - q: 15
       r: 17
       hexType: plains
@@ -2388,7 +2388,7 @@ hexmap:
       label: ""
     - q: 15
       r: 24
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 15
@@ -2423,52 +2423,52 @@ hexmap:
       label: ""
     - q: 16
       r: 1
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 16
       r: 2
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 16
       r: 3
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 16
       r: 4
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 16
       r: 5
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 16
       r: 6
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 16
       r: 7
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 16
       r: 8
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 16
       r: 9
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 16
       r: 10
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 16
@@ -2534,8 +2534,8 @@ hexmap:
     - q: 16
       r: 23
       hexType: plains
-      link: ""
-      label: ""
+      link: "[[Bres]]"
+      label: Bres
     - q: 16
       r: 24
       hexType: sea
@@ -2573,47 +2573,47 @@ hexmap:
       label: ""
     - q: 17
       r: 1
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 17
       r: 2
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 17
       r: 3
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 17
       r: 4
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 17
       r: 5
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 17
       r: 6
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 17
       r: 7
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 17
       r: 8
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 17
       r: 9
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 17
@@ -2624,8 +2624,8 @@ hexmap:
     - q: 17
       r: 11
       hexType: plains
-      link: ""
-      label: ""
+      link: "[[Ardsey]]"
+      label: Ardsey
     - q: 17
       r: 12
       hexType: sea
@@ -2723,47 +2723,47 @@ hexmap:
       label: ""
     - q: 18
       r: 1
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 18
       r: 2
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 18
       r: 3
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 18
       r: 4
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 18
       r: 5
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 18
       r: 6
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 18
       r: 7
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 18
       r: 8
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 18
       r: 9
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 18
@@ -2873,47 +2873,47 @@ hexmap:
       label: ""
     - q: 19
       r: 1
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 19
       r: 2
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 19
       r: 3
-      hexType: plains
+      hexType: rainforest
       link: ""
       label: ""
     - q: 19
       r: 4
-      hexType: plains
+      hexType: rainforest
       link: ""
       label: ""
     - q: 19
       r: 5
-      hexType: plains
+      hexType: rainforest
       link: ""
       label: ""
     - q: 19
       r: 6
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 19
       r: 7
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 19
       r: 8
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 19
       r: 9
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 19
@@ -2969,8 +2969,8 @@ hexmap:
     - q: 19
       r: 20
       hexType: plains
-      link: ""
-      label: ""
+      link: "[[Norleigh]]"
+      label: Norleigh
     - q: 19
       r: 21
       hexType: sea
@@ -3023,52 +3023,52 @@ hexmap:
       label: ""
     - q: 20
       r: 1
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 20
       r: 2
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 20
       r: 3
-      hexType: plains
+      hexType: rainforest
       link: ""
       label: ""
     - q: 20
       r: 4
-      hexType: plains
-      link: ""
-      label: ""
+      hexType: rainforest
+      link: "[[Haven]]"
+      label: Haven
     - q: 20
       r: 5
-      hexType: plains
+      hexType: rainforest
       link: ""
       label: ""
     - q: 20
       r: 6
-      hexType: plains
+      hexType: rainforest
       link: ""
       label: ""
     - q: 20
       r: 7
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 20
       r: 8
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 20
       r: 9
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 20
       r: 10
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 20
@@ -3173,57 +3173,57 @@ hexmap:
       label: ""
     - q: 21
       r: 1
-      hexType: plains
+      hexType: mountain
       link: ""
       label: ""
     - q: 21
       r: 2
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 21
       r: 3
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 21
       r: 4
-      hexType: plains
+      hexType: rainforest
       link: ""
       label: ""
     - q: 21
       r: 5
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 21
       r: 6
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 21
       r: 7
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 21
       r: 8
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 21
       r: 9
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 21
       r: 10
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 21
       r: 11
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 21
@@ -3323,52 +3323,52 @@ hexmap:
       label: ""
     - q: 22
       r: 1
-      hexType: plains
+      hexType: mountain
       link: ""
       label: ""
     - q: 22
       r: 2
-      hexType: plains
+      hexType: mountain
       link: ""
       label: ""
     - q: 22
       r: 3
-      hexType: plains
+      hexType: mountain
       link: ""
       label: ""
     - q: 22
       r: 4
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 22
       r: 5
-      hexType: plains
+      hexType: mountain
       link: ""
       label: ""
     - q: 22
       r: 6
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 22
       r: 7
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 22
       r: 8
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 22
       r: 9
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 22
       r: 10
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 22
@@ -3478,47 +3478,47 @@ hexmap:
       label: ""
     - q: 23
       r: 2
-      hexType: plains
+      hexType: mountain
       link: ""
       label: ""
     - q: 23
       r: 3
-      hexType: plains
+      hexType: mountain
       link: ""
       label: ""
     - q: 23
       r: 4
-      hexType: plains
+      hexType: mountain
       link: ""
       label: ""
     - q: 23
       r: 5
-      hexType: plains
+      hexType: mountain
       link: ""
       label: ""
     - q: 23
       r: 6
-      hexType: plains
+      hexType: mountain
       link: ""
       label: ""
     - q: 23
       r: 7
-      hexType: plains
+      hexType: mountain
       link: ""
       label: ""
     - q: 23
       r: 8
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 23
       r: 9
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 23
       r: 10
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 23
@@ -3648,22 +3648,22 @@ hexmap:
       label: ""
     - q: 24
       r: 6
-      hexType: plains
+      hexType: mountain
       link: ""
       label: ""
     - q: 24
       r: 7
-      hexType: plains
+      hexType: mountain
       link: ""
       label: ""
     - q: 24
       r: 8
-      hexType: plains
+      hexType: forest
       link: ""
       label: ""
     - q: 24
       r: 9
-      hexType: plains
+      hexType: forest
       link: ""
       label: ""
     - q: 24
@@ -3808,7 +3808,7 @@ hexmap:
       label: ""
     - q: 25
       r: 8
-      hexType: plains
+      hexType: forest
       link: ""
       label: ""
     - q: 25
@@ -3874,8 +3874,8 @@ hexmap:
     - q: 25
       r: 21
       hexType: plains
-      link: ""
-      label: ""
+      link: "[[Piltash]]"
+      label: Piltash
     - q: 25
       r: 22
       hexType: plains
@@ -4129,8 +4129,8 @@ hexmap:
     - q: 27
       r: 12
       hexType: plains
-      link: ""
-      label: ""
+      link: "[[Andosea]]"
+      label: Andosea
     - q: 27
       r: 13
       hexType: plains
@@ -4449,8 +4449,8 @@ hexmap:
     - q: 29
       r: 16
       hexType: plains
-      link: ""
-      label: ""
+      link: "[[Veskas]]"
+      label: Veskas
     - q: 29
       r: 17
       hexType: plains
