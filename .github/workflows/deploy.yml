@@ -48,6 +48,12 @@ jobs:
       - name: Install Quartz plugins from config
         run: npx quartz plugin install --from-config
 
+      - name: Build local Hex Map plugin
+        working-directory: hexmap-plugin
+        run: |
+          npm install --ignore-scripts --no-package-lock
+          npm run build
+
       - name: Build Quartz
         run: npx quartz build
 
