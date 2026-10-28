@@ -49,7 +49,11 @@ Unrecognized terrain names use the default color.
 
 ## Development
 
-Build from this directory with `npm run build` before building Quartz; the local plugin loader consumes `dist`.
+Install from this directory with `npm install --ignore-scripts --no-package-lock`, then run `npm run build` before building Quartz; the local plugin loader consumes `dist`.
+
+The runtime utilities dependency uses a published npm release containing compiled output. Do not replace it with a GitHub source dependency: script-disabled installs do not build that dependency, and Quartz can silently omit the component when its import fails. If an existing installation retains the old GitHub copy, run `npm install @quartz-community/utils@1.0.1 --save-exact --ignore-scripts --no-package-lock`.
+
+After building, run `node --test built-package.test.mjs` from this directory to test the actual JavaScript package (without a TypeScript loader). The Pages workflow runs this check and verifies that the generated sample page contains all 1,200 tiles before uploading it.
 
 Run regression tests from the repository root (using its existing test dependencies):
 
