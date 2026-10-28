@@ -2,7 +2,7 @@ import { parse, stringify } from "yaml"
 import "./style.css"
 
 const terrains = {
-  "deep-ocean": "#1e3a8a", ocean: "#2563eb", coast: "#93c5fd", river: "#38bdf8", lake: "#0ea5e9",
+  "deep-ocean": "#1e3a8a", ocean: "#2563eb", sea: "#5685ea", coast: "#93c5fd", river: "#38bdf8", lake: "#0ea5e9",
   grassland: "#4ade80", plains: "#86efac", forest: "#15803d", woodland: "#22c55e", jungle: "#166534",
   rainforest: "#14532d", hills: "#84cc16", mountain: "#64748b", snow: "#f1f5f9", tundra: "#cbd5e1",
   ice: "#bae6fd", desert: "#fde047", badlands: "#c2410c", savanna: "#d9a441", swamp: "#3f6212",
