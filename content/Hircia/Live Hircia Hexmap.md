@@ -6016,4 +6016,244 @@ hexmap:
       hexType: deep-ocean
       link: ""
       label: ""
+    - q: 1
+      r: -1
+      hexType: deep-ocean
+    - q: 5
+      r: -1
+      hexType: deep-ocean
+    - q: 4
+      r: -1
+      hexType: deep-ocean
+    - q: 3
+      r: -1
+      hexType: deep-ocean
+    - q: 2
+      r: -1
+      hexType: deep-ocean
+    - q: 6
+      r: -1
+      hexType: deep-ocean
+    - q: 7
+      r: -1
+      hexType: deep-ocean
+    - q: 8
+      r: -1
+      hexType: deep-ocean
+    - q: 9
+      r: -1
+      hexType: deep-ocean
+    - q: 10
+      r: -1
+      hexType: deep-ocean
+    - q: 11
+      r: -1
+      hexType: deep-ocean
+    - q: 12
+      r: -1
+      hexType: deep-ocean
+    - q: 13
+      r: -1
+      hexType: deep-ocean
+    - q: 14
+      r: -1
+      hexType: deep-ocean
+    - q: 16
+      r: -1
+      hexType: deep-ocean
+    - q: 15
+      r: -1
+      hexType: deep-ocean
+    - q: 0
+      r: -1
+      hexType: deep-ocean
+    - q: 0
+      r: -2
+      hexType: deep-ocean
+    - q: 1
+      r: -2
+      hexType: deep-ocean
+    - q: 2
+      r: -2
+      hexType: deep-ocean
+    - q: 3
+      r: -2
+      hexType: deep-ocean
+    - q: 4
+      r: -2
+      hexType: deep-ocean
+    - q: 5
+      r: -2
+      hexType: deep-ocean
+    - q: 6
+      r: -2
+      hexType: deep-ocean
+    - q: 7
+      r: -2
+      hexType: deep-ocean
+    - q: 8
+      r: -2
+      hexType: deep-ocean
+    - q: 9
+      r: -2
+      hexType: deep-ocean
+    - q: 10
+      r: -2
+      hexType: deep-ocean
+    - q: 11
+      r: -2
+      hexType: deep-ocean
+    - q: 12
+      r: -2
+      hexType: deep-ocean
+    - q: 13
+      r: -2
+      hexType: deep-ocean
+    - q: 14
+      r: -2
+      hexType: deep-ocean
+    - q: 15
+      r: -2
+      hexType: deep-ocean
+    - q: 16
+      r: -2
+      hexType: deep-ocean
+    - q: 17
+      r: -2
+      hexType: deep-ocean
+    - q: 17
+      r: -1
+      hexType: deep-ocean
+    - q: 18
+      r: -1
+      hexType: deep-ocean
+    - q: 18
+      r: -2
+      hexType: deep-ocean
+    - q: 19
+      r: -2
+      hexType: deep-ocean
+    - q: 19
+      r: -1
+      hexType: deep-ocean
+    - q: 20
+      r: -1
+      hexType: deep-ocean
+    - q: 20
+      r: -2
+      hexType: deep-ocean
+    - q: 21
+      r: -2
+      hexType: deep-ocean
+    - q: 21
+      r: -1
+      hexType: deep-ocean
+    - q: 22
+      r: -1
+      hexType: deep-ocean
+    - q: 22
+      r: -2
+      hexType: deep-ocean
+    - q: 23
+      r: -2
+      hexType: deep-ocean
+    - q: 23
+      r: -1
+      hexType: deep-ocean
+    - q: 24
+      r: -1
+      hexType: deep-ocean
+    - q: 24
+      r: -2
+      hexType: deep-ocean
+    - q: 25
+      r: -2
+      hexType: deep-ocean
+    - q: 25
+      r: -1
+      hexType: deep-ocean
+    - q: 26
+      r: -2
+      hexType: deep-ocean
+    - q: 26
+      r: -1
+      hexType: deep-ocean
+    - q: 27
+      r: -2
+      hexType: deep-ocean
+    - q: 27
+      r: -1
+      hexType: deep-ocean
+    - q: 28
+      r: -2
+      hexType: deep-ocean
+    - q: 28
+      r: -1
+      hexType: deep-ocean
+    - q: 29
+      r: -2
+      hexType: deep-ocean
+    - q: 29
+      r: -1
+      hexType: deep-ocean
+    - q: 30
+      r: -2
+      hexType: deep-ocean
+    - q: 30
+      r: -1
+      hexType: deep-ocean
+    - q: 31
+      r: -2
+      hexType: deep-ocean
+    - q: 31
+      r: -1
+      hexType: deep-ocean
+    - q: 32
+      r: -2
+      hexType: deep-ocean
+    - q: 32
+      r: -1
+      hexType: deep-ocean
+    - q: 33
+      r: -2
+      hexType: deep-ocean
+    - q: 33
+      r: -1
+      hexType: deep-ocean
+    - q: 34
+      r: -2
+      hexType: deep-ocean
+    - q: 34
+      r: -1
+      hexType: deep-ocean
+    - q: 35
+      r: -2
+      hexType: deep-ocean
+    - q: 35
+      r: -1
+      hexType: deep-ocean
+    - q: 36
+      r: -1
+      hexType: deep-ocean
+    - q: 36
+      r: -2
+      hexType: deep-ocean
+    - q: 37
+      r: -2
+      hexType: deep-ocean
+    - q: 37
+      r: -1
+      hexType: deep-ocean
+    - q: 38
+      r: -1
+      hexType: deep-ocean
+    - q: 38
+      r: -2
+      hexType: deep-ocean
+    - q: 39
+      r: -2
+      hexType: deep-ocean
+    - q: 39
+      r: -1
+      hexType: deep-ocean
 ---
