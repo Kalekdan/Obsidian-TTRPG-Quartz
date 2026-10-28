@@ -1,7 +1,7 @@
 ---
 hexmap:
   id: 69293d63-95c2-469d-bc7c-4827c8ab1e0f
-  name: Untitled Map
+  name: Hircia
   description: ""
   settings:
     width: 40
@@ -6017,7 +6017,3 @@ hexmap:
       link: ''
       label: ''  
 ---
-
-# Hex Map Sample
-
-This page demonstrates the local HexMap plugin rendering a JSON-backed hex map from page frontmatter.
