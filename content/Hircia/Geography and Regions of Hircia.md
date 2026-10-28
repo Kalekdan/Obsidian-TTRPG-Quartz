@@ -1,5 +1,5 @@
 ![[isles_of_fate_political_world_map.png | 700]]
-
+[[Live Hircia Hexmap]]
 
 [[Hircia]], is the name of the world, widely called [[The Isles of Fate]]. It consists of 4 continents, surrounded by an array of archipelagos.
 
