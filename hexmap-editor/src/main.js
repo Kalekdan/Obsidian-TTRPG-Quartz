@@ -38,15 +38,16 @@ app.innerHTML = `
   <header class="topbar"><a class="brand" href="#">HEX<span>MAP</span> STUDIO</a><div class="top-actions"><button id="sample" class="button quiet">Load example</button><button id="copy" class="button primary">Copy frontmatter <span>↗</span></button></div></header>
   <main class="layout">
     <section class="editor-panel"><div class="panel-heading"><div><span class="eyebrow">01 / SOURCE</span><h1>Bring your map to life.</h1></div><span class="live-dot">LIVE</span></div><p class="intro">Paste the <code>hexmap:</code> frontmatter from your Quartz page. Your map stays in this browser.</p><label class="field-label" for="source">PAGE FRONTMATTER <span>YAML</span></label><textarea id="source" spellcheck="false" aria-label="Paste page frontmatter"></textarea><div class="source-footer"><span id="status">Waiting for frontmatter</span><span id="tile-count">0 HEXES</span></div><div class="tip"><span>✳</span><p>Paste the contents between <code>---</code> markers, or paste the complete frontmatter block.</p></div></section>
-    <section class="canvas-panel"><div class="panel-heading canvas-heading"><div><span class="eyebrow">02 / CANVAS</span><h2>Your hex map</h2></div><div class="view-controls"><button id="zoom-out" class="icon-button" aria-label="Zoom out">−</button><span id="zoom-label">100%</span><button id="zoom-in" class="icon-button" aria-label="Zoom in">+</button><span class="divider"></span><button id="fit" class="text-button">FIT</button></div></div><div class="canvas-wrap"><div id="canvas" class="canvas"><svg id="map" role="img" aria-label="Editable hex map"></svg></div><div id="empty" class="empty-state"><span>⌘</span><h3>Your canvas awaits</h3><p>Paste valid hexmap frontmatter to start editing.</p></div></div><div class="canvas-footer"><div><span class="legend-dot"></span> TERRAIN</div><span>CLICK A HEX TO EDIT · CLICK EMPTY SPACE TO ADD</span></div></section>
-    <aside class="inspector"><div class="panel-heading"><div><span class="eyebrow">03 / INSPECTOR</span><h2>Map settings</h2></div></div><div class="inspector-body"><label class="control-label">ORIENTATION<select id="orientation"><option value="pointy">Pointy top</option><option value="flat">Flat top</option></select></label><label class="control-label">HEX SIZE <span id="size-value">30</span><input id="size" type="range" min="12" max="60" value="30"></label><div class="toggle-row"><span>Grid lines</span><label class="switch"><input id="grid" type="checkbox"><i></i></label></div><div class="toggle-row"><span>Tile labels</span><label class="switch"><input id="labels" type="checkbox"><i></i></label></div><div class="toggle-row"><span>Coordinates</span><label class="switch"><input id="coordinates" type="checkbox"><i></i></label></div><div class="selection" id="selection"><div class="selection-heading"><span class="eyebrow">SELECTED HEX</span><button id="delete" class="delete-button" title="Delete selected hex">DELETE</button></div><div class="coord-line"><span>Q</span><input id="q" type="number" aria-label="Hex q coordinate"><span>R</span><input id="r" type="number" aria-label="Hex r coordinate"></div><label class="control-label">TERRAIN<select id="terrain"></select></label><label class="control-label">LABEL<input id="label" type="text" placeholder="A place name"></label><label class="control-label">LINK<input id="link" type="text" placeholder="[[Page#Heading|Alias]]"></label></div><div class="inspector-hint">Select a hex on the canvas to change its terrain, label, link, or position.</div></div><div class="inspector-bottom"><button id="add" class="button add-button">＋ &nbsp; Add hex</button><button id="clear" class="text-button clear-button">Clear map</button></div></aside>
+    <section class="canvas-panel"><div class="panel-heading canvas-heading"><div><span class="eyebrow">02 / CANVAS</span><h2>Your hex map</h2></div><div class="view-controls"><button id="zoom-out" class="icon-button" aria-label="Zoom out">−</button><span id="zoom-label">100%</span><button id="zoom-in" class="icon-button" aria-label="Zoom in">+</button><span class="divider"></span><button id="fit" class="text-button">FIT</button></div></div><div class="canvas-wrap"><div id="canvas" class="canvas"><svg id="map" role="img" aria-label="Editable hex map"></svg></div><div id="empty" class="empty-state"><span>⌘</span><h3>Your canvas awaits</h3><p>Paste valid hexmap frontmatter to start editing.</p></div></div><div class="canvas-footer"><div><span class="legend-dot"></span> TERRAIN</div><span>CLICK A HEX TO EDIT · DRAG TO SELECT · CLICK EMPTY SPACE TO ADD</span></div></section>
+    <aside class="inspector"><div class="panel-heading"><div><span class="eyebrow">03 / INSPECTOR</span><h2>Map settings</h2></div></div><div class="inspector-body"><label class="control-label">ORIENTATION<select id="orientation"><option value="pointy">Pointy top</option><option value="flat">Flat top</option></select></label><label class="control-label">HEX SIZE <span id="size-value">30</span><input id="size" type="range" min="12" max="60" value="30"></label><div class="toggle-row"><span>Grid lines</span><label class="switch"><input id="grid" type="checkbox"><i></i></label></div><div class="toggle-row"><span>Tile labels</span><label class="switch"><input id="labels" type="checkbox"><i></i></label></div><div class="toggle-row"><span>Coordinates</span><label class="switch"><input id="coordinates" type="checkbox"><i></i></label></div><div class="selection" id="selection"><div class="selection-heading"><span class="eyebrow" id="selection-count">SELECTED HEX</span><button id="delete" class="delete-button" title="Delete selected hexes">DELETE</button></div><div class="coord-line" id="coordinates-edit"><span>Q</span><input id="q" type="number" aria-label="Hex q coordinate"><span>R</span><input id="r" type="number" aria-label="Hex r coordinate"></div><label class="control-label">TERRAIN<select id="terrain"></select></label><label class="control-label" id="label-control">LABEL<input id="label" type="text" placeholder="A place name"></label><label class="control-label" id="link-control">LINK<input id="link" type="text" placeholder="[[Page#Heading|Alias]]"></label></div><div class="inspector-hint">Click a hex to edit it, or drag across the canvas to select multiple hexes.</div></div><div class="inspector-bottom"><button id="add" class="button add-button">＋ &nbsp; Add hex</button><button id="clear" class="text-button clear-button">Clear map</button></div></aside>
   </main><footer class="app-footer"><span>HEX MAP STUDIO <span class="muted">· A local tool for Quartz</span></span><span>NO DATA LEAVES YOUR DEVICE</span></footer><div id="toast" class="toast" role="status"></div>
 `
 
 const $ = (selector) => document.querySelector(selector)
 const source = $("#source")
-const state = { map: null, selected: null, zoom: 1 }
+const state = { map: null, selected: new Set(), zoom: 1, dragging: false, dragged: false }
 const terrainSelect = $("#terrain")
+terrainSelect.add(new Option("Mixed terrain", ""))
 for (const name of Object.keys(terrains).filter((name) => name !== "default")) terrainSelect.add(new Option(name.replaceAll("-", " "), name))
 function key(hex) { return `${hex.q},${hex.r}` }
 function defaultMap() { return { settings: { width: 40, height: 30, hexSize: 30, orientation: "pointy", showGrid: true, showLabels: true, showCoordinates: false }, hexes: [] } }
@@ -82,19 +83,26 @@ function syncControls() {
   $("#grid").checked = settings.showGrid !== false
   $("#labels").checked = settings.showLabels !== false
   $("#coordinates").checked = settings.showCoordinates === true
-  const selected = state.map.hexes.find((hex) => key(hex) === state.selected)
-  $("#selection").classList.toggle("visible", Boolean(selected))
-  if (!selected) return
-  $("#q").value = selected.q; $("#r").value = selected.r
-  $("#terrain").value = terrains[selected.hexType] ? selected.hexType : "grassland"
-  $("#label").value = selected.label ?? ""; $("#link").value = selected.link ?? ""
+  const selected = state.map.hexes.filter((hex) => state.selected.has(key(hex)))
+  const multiple = selected.length > 1
+  $("#selection").classList.toggle("visible", selected.length > 0)
+  $("#selection-count").textContent = multiple ? `${selected.length} HEXES SELECTED` : "SELECTED HEX"
+  $("#coordinates-edit").hidden = multiple
+  $("#label-control").hidden = multiple
+  $("#link-control").hidden = multiple
+  $("#delete").title = `Delete ${multiple ? "selected hexes" : "selected hex"}`
+  if (!selected.length) return
+  $("#q").value = selected[0].q; $("#r").value = selected[0].r
+  const terrainTypes = new Set(selected.map((hex) => hex.hexType))
+  $("#terrain").value = terrainTypes.size === 1 && terrains[selected[0].hexType] ? selected[0].hexType : ""
+  $("#label").value = selected[0].label ?? ""; $("#link").value = selected[0].link ?? ""
 }
 function render() {
   if (!state.map) { $("#empty").classList.remove("hidden"); $("#map").replaceChildren(); $("#tile-count").textContent = "0 HEXES"; return }
   const { settings, hexes } = state.map
   const orientation = settings.orientation === "flat" ? "flat" : "pointy", size = Math.max(1, Number(settings.hexSize) || 30)
   const coords = hexes.map((hex) => ({ hex, ...center(hex.q, hex.r, size, orientation) }))
-  if (!coords.length) { $("#map").setAttribute("viewBox", "0 0 120 100"); $("#map").replaceChildren(); $("#empty").classList.remove("hidden") }
+  if (!coords.length) { $("#map").setAttribute("viewBox", "-60 -50 120 100"); $("#map").replaceChildren(); $("#empty").classList.remove("hidden") }
   else {
     $("#empty").classList.add("hidden")
     const xs = coords.map(({ x }) => x), ys = coords.map(({ y }) => y), pad = size * 1.7
@@ -104,12 +112,12 @@ function render() {
     for (const { hex, x, y } of coords) {
       const angle = orientation === "flat" ? 0 : -30
       const polygonPoints = Array.from({ length: 6 }, (_, i) => { const a = Math.PI / 180 * (60 * i + angle); return `${(x + size * Math.cos(a)).toFixed(2)},${(y + size * Math.sin(a)).toFixed(2)}` }).join(" ")
-      const tile = svgElement("g", { class: `tile${key(hex) === state.selected ? " selected" : ""}`, tabindex: 0, role: "button", "aria-label": `Hex ${hex.q}, ${hex.r}, ${hex.hexType}` })
+      const tile = svgElement("g", { class: `tile${state.selected.has(key(hex)) ? " selected" : ""}`, tabindex: 0, role: "button", "aria-label": `Hex ${hex.q}, ${hex.r}, ${hex.hexType}` })
       tile.append(svgElement("polygon", { points: polygonPoints, fill: terrains[hex.hexType] || terrains.default, stroke: settings.showGrid === false ? "none" : "#d5c9a866", "stroke-width": 1.5 }))
       const text = settings.showLabels !== false && hex.label ? hex.label : settings.showCoordinates ? `${hex.q},${hex.r}` : ""
       if (text) { const label = svgElement("text", { x, y: y + 4, "text-anchor": "middle", "font-size": Math.max(9, size * 0.25), fill: "#f8fafc" }); label.textContent = text.length > 16 ? `${text.slice(0, 15)}…` : text; tile.append(label) }
-      tile.addEventListener("click", (event) => { event.stopPropagation(); state.selected = key(hex); syncControls(); render() })
-      tile.addEventListener("keydown", (event) => { if (event.key === "Enter" || event.key === " ") { event.preventDefault(); tile.dispatchEvent(new MouseEvent("click", { bubbles: true })) } })
+      tile.dataset.key = key(hex)
+      tile.addEventListener("keydown", (event) => { if (event.key === "Enter" || event.key === " ") { event.preventDefault(); state.selected = new Set([key(hex)]); syncControls(); render() } })
       group.append(tile)
     }
     $("#map").replaceChildren(group)
@@ -120,11 +128,11 @@ function render() {
 }
 function updateSource() { if (state.map) source.value = toFrontmatter(state.map); render() }
 function parseAndRender() {
-  try { state.map = parseSource(source.value); state.selected = null; $("#status").textContent = state.map ? "Frontmatter parsed" : "Waiting for frontmatter"; $("#status").classList.remove("error"); source.classList.remove("invalid"); render() }
-  catch (error) { state.map = null; $("#status").textContent = error.message; $("#status").classList.add("error"); source.classList.add("invalid"); render() }
+  try { state.map = parseSource(source.value); state.selected.clear(); $("#status").textContent = state.map ? "Frontmatter parsed" : "Waiting for frontmatter"; $("#status").classList.remove("error"); source.classList.remove("invalid"); render() }
+  catch (error) { state.map = null; state.selected.clear(); $("#status").textContent = error.message; $("#status").classList.add("error"); source.classList.add("invalid"); render() }
 }
-function selectedHex() { return state.map?.hexes.find((hex) => key(hex) === state.selected) }
-function editSelected(edit) { const hex = selectedHex(); if (!hex) return; edit(hex); updateSource() }
+function selectedHex() { return state.map?.hexes.find((hex) => state.selected.has(key(hex))) }
+function editSelected(edit) { if (!selectedHex()) return; for (const hex of state.map.hexes) if (state.selected.has(key(hex))) edit(hex); updateSource() }
 let parseTimer
 source.value = sample; parseAndRender()
 source.addEventListener("input", () => { clearTimeout(parseTimer); parseTimer = setTimeout(parseAndRender, 200) })
@@ -132,33 +140,99 @@ $("#sample").addEventListener("click", () => { source.value = sample; parseAndRe
 $("#orientation").addEventListener("change", (e) => { if (state.map) { state.map.settings.orientation = e.target.value; updateSource() } })
 $("#size").addEventListener("input", (e) => { if (state.map) { state.map.settings.hexSize = Number(e.target.value); $("#size-value").textContent = e.target.value; updateSource() } })
 for (const [selector, field] of [["#grid", "showGrid"], ["#labels", "showLabels"], ["#coordinates", "showCoordinates"]]) $(selector).addEventListener("change", (e) => { if (state.map) { state.map.settings[field] = e.target.checked; updateSource() } })
-$("#terrain").addEventListener("change", (e) => editSelected((hex) => { hex.hexType = e.target.value }))
+$("#terrain").addEventListener("change", (e) => { if (e.target.value) editSelected((hex) => { hex.hexType = e.target.value }) })
 $("#label").addEventListener("input", (e) => editSelected((hex) => { if (e.target.value) hex.label = e.target.value; else delete hex.label }))
 $("#link").addEventListener("input", (e) => editSelected((hex) => { if (e.target.value) hex.link = e.target.value; else delete hex.link }))
 for (const selector of ["#q", "#r"]) $(selector).addEventListener("change", () => {
   const hex = selectedHex(); if (!hex) return
   const q = selector === "#q" ? Number($("#q").value) : hex.q, r = selector === "#r" ? Number($("#r").value) : hex.r
   if (state.map.hexes.some((item) => item !== hex && item.q === q && item.r === r)) { notify("Those coordinates are already occupied"); syncControls(); return }
-  hex.q = q; hex.r = r; state.selected = key(hex); updateSource()
+  hex.q = q; hex.r = r; state.selected = new Set([key(hex)]); updateSource()
 })
-function addHex(q, r) { if (!state.map.hexes.some((hex) => hex.q === q && hex.r === r)) { const hex = { q, r, hexType: "grassland" }; state.map.hexes.push(hex); state.selected = key(hex); updateSource(); return true } return false }
+function addHex(q, r) { if (!state.map.hexes.some((hex) => hex.q === q && hex.r === r)) { const hex = { q, r, hexType: "grassland" }; state.map.hexes.push(hex); state.selected = new Set([key(hex)]); updateSource(); return true } return false }
+function rebaseCoordinates() {
+  const hexes = state.map.hexes
+  const minQ = Math.min(...hexes.map((hex) => hex.q)), minR = Math.min(...hexes.map((hex) => hex.r))
+  const orientation = state.map.settings.orientation === "flat" ? "flat" : "pointy"
+  const qShift = minQ < 0 ? (orientation === "flat" ? Math.ceil(-minQ / 2) * 2 : -minQ) : 0
+  const rShift = minR < 0 ? (orientation === "pointy" ? Math.ceil(-minR / 2) * 2 : -minR) : 0
+  if (!qShift && !rShift) return
+  for (const hex of hexes) { hex.q += qShift; hex.r += rShift }
+  state.selected = new Set([...state.selected].map((coordinate) => {
+    const [q, r] = coordinate.split(",").map(Number)
+    return `${q + qShift},${r + rShift}`
+  }))
+}
+function addHexAboveMap() {
+  const hexes = state.map.hexes
+  if (!hexes.length) { addHex(0, 0); return }
+  const orientation = state.map.settings.orientation === "flat" ? "flat" : "pointy"
+  const size = Number(state.map.settings.hexSize) || 30
+  const occupied = new Set(hexes.map(key)), candidates = new Map()
+  for (const hex of hexes) {
+    for (let dq = -1; dq <= 1; dq++) for (let dr = -1; dr <= 1; dr++) {
+      if (!dq && !dr) continue
+      const q = hex.q + dq, r = hex.r + dr, candidateKey = `${q},${r}`
+      if (occupied.has(candidateKey)) continue
+      const position = center(q, r, size, orientation)
+      if (Math.hypot(position.x - center(hex.q, hex.r, size, orientation).x, position.y - center(hex.q, hex.r, size, orientation).y) < size * 1.75) candidates.set(candidateKey, { q, r, ...position })
+    }
+  }
+  const topY = Math.min(...hexes.map((hex) => center(hex.q, hex.r, size, orientation).y))
+  const middleX = (Math.min(...hexes.map((hex) => center(hex.q, hex.r, size, orientation).x)) + Math.max(...hexes.map((hex) => center(hex.q, hex.r, size, orientation).x))) / 2
+  const above = [...candidates.values()].filter((candidate) => candidate.y < topY).sort((a, b) => a.y - b.y || Math.abs(a.x - middleX) - Math.abs(b.x - middleX))
+  if (!above.length) return
+  const { q, r } = above[0]
+  const hex = { q, r, hexType: "grassland" }
+  hexes.push(hex)
+  state.selected = new Set([key(hex)])
+  rebaseCoordinates()
+  updateSource()
+}
 $("#add").addEventListener("click", () => {
   if (!state.map) { state.map = defaultMap(); source.value = toFrontmatter(state.map) }
-  const hexes = state.map.hexes, maxQ = Math.max(-1, ...hexes.map((h) => h.q)), maxR = Math.max(-1, ...hexes.map((h) => h.r))
-  const q = hexes.length && !hexes.some((h) => h.q === maxQ + 1 && h.r === 0) ? maxQ + 1 : 0
-  const r = q === 0 && hexes.some((h) => h.q === 0 && h.r === maxR + 1) ? maxR + 1 : 0
-  addHex(q, r)
+  addHexAboveMap()
 })
-$("#delete").addEventListener("click", () => { const hex = selectedHex(); if (!hex) return; state.map.hexes = state.map.hexes.filter((item) => item !== hex); state.selected = null; updateSource() })
-$("#clear").addEventListener("click", () => { if (state.map && confirm("Remove every hex from this map?")) { state.map.hexes = []; state.selected = null; updateSource() } })
+$("#delete").addEventListener("click", () => { if (!state.selected.size) return; state.map.hexes = state.map.hexes.filter((hex) => !state.selected.has(key(hex))); state.selected.clear(); updateSource() })
+$("#clear").addEventListener("click", () => { if (state.map && confirm("Remove every hex from this map?")) { state.map.hexes = []; state.selected.clear(); updateSource() } })
+$("#map").addEventListener("pointerdown", (event) => {
+  const tile = event.target.closest(".tile")
+  if (!tile || event.button !== 0) return
+  event.preventDefault()
+  state.dragging = true
+  state.dragged = false
+  state.selected = new Set([tile.dataset.key])
+})
+document.addEventListener("pointermove", (event) => {
+  if (!state.dragging) return
+  const tile = document.elementFromPoint(event.clientX, event.clientY)?.closest(".tile")
+  if (tile && !state.selected.has(tile.dataset.key)) {
+    state.dragged = true
+    state.selected.add(tile.dataset.key)
+    for (const selectedTile of $("#map").querySelectorAll(".tile")) selectedTile.classList.toggle("selected", state.selected.has(selectedTile.dataset.key))
+  }
+})
+document.addEventListener("pointerup", () => {
+  if (!state.dragging) return
+  state.dragging = false
+  render()
+})
 $("#map").addEventListener("click", (event) => {
   if (!state.map || event.target.closest(".tile")) return
-  const svg = $("#map"), rect = svg.getBoundingClientRect(), vb = svg.viewBox.baseVal, x = vb.x + (event.clientX - rect.left) / rect.width * vb.width, y = vb.y + (event.clientY - rect.top) / rect.height * vb.height
-  const size = Number(state.map.settings.hexSize) || 30, orientation = state.map.settings.orientation, qValues = state.map.hexes.map((h) => h.q), rValues = state.map.hexes.map((h) => h.r)
-  const range = Math.max(5, Math.max(...qValues, ...rValues, 0) - Math.min(...qValues, ...rValues, 0) + 3)
+  const svg = $("#map"), point = svg.createSVGPoint()
+  point.x = event.clientX; point.y = event.clientY
+  const { x, y } = point.matrixTransform(svg.getScreenCTM().inverse())
+  const size = Number(state.map.settings.hexSize) || 30, orientation = state.map.settings.orientation
+  const qValues = state.map.hexes.map((hex) => hex.q), rValues = state.map.hexes.map((hex) => hex.r)
+  const minQ = qValues.length ? Math.min(...qValues) - 3 : -5, maxQ = qValues.length ? Math.max(...qValues) + 3 : 5
+  const minR = rValues.length ? Math.min(...rValues) - 3 : -5, maxR = rValues.length ? Math.max(...rValues) + 3 : 5
   let best = null, distance = Infinity
-  for (let q = -range; q <= range; q++) for (let r = -range; r <= range; r++) { const c = center(q, r, size, orientation), d = (x - c.x) ** 2 + (y - c.y) ** 2; if (d < distance) { distance = d; best = [q, r] } }
-  if (best && distance < (size * 1.1) ** 2 && !addHex(best[0], best[1])) { const existing = state.map.hexes.find((hex) => hex.q === best[0] && hex.r === best[1]); state.selected = key(existing); syncControls(); render() }
+  for (let q = minQ; q <= maxQ; q++) for (let r = minR; r <= maxR; r++) { const c = center(q, r, size, orientation), d = (x - c.x) ** 2 + (y - c.y) ** 2; if (d < distance) { distance = d; best = [q, r] } }
+  if (best && distance < (size * 1.1) ** 2) {
+    if (addHex(best[0], best[1])) return
+    const existing = state.map.hexes.find((hex) => hex.q === best[0] && hex.r === best[1])
+    state.selected = new Set([key(existing)]); syncControls(); render()
+  }
 })
 $("#zoom-in").addEventListener("click", () => setZoom(state.zoom + 0.15))
 $("#zoom-out").addEventListener("click", () => setZoom(state.zoom - 0.15))
