@@ -4,7 +4,7 @@ import type { FullSlug } from "@quartz-community/types"
 export const TERRAIN_COLORS: Record<string, string> = {
   "deep-ocean": "#1e3a8a",
   ocean: "#2563eb",
-  coast: "#93c5fd",
+  coast: "#5685ea",
   river: "#38bdf8",
   lake: "#0ea5e9",
   grassland: "#4ade80",
