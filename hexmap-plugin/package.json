@@ -31,10 +31,14 @@
     "hexmap",
     "ttrpg"
   ],
+  "dependencies": {
+    "@quartz-community/utils": "github:quartz-community/utils"
+  },
   "peerDependencies": {
     "preact": "^10.0.0"
   },
   "devDependencies": {
+    "@quartz-community/types": "github:quartz-community/types",
     "tsup": "^8.5.0",
     "typescript": "^5.9.3",
     "preact": "^10.28.2"

@@ -59,9 +59,11 @@ export function normalizeHexMapData(input: unknown): Record<string, any> | null 
 
 type HexMapViewerProps = {
   fileData?: Record<string, any>
+  allFiles?: Array<Record<string, any>>
+  allSlugs?: string[]
 }
 
-const HexMapViewerComponent = ({ fileData }: HexMapViewerProps) => {
+const HexMapViewerComponent = ({ fileData, allFiles = [], allSlugs = [] }: HexMapViewerProps) => {
   const frontmatterMap =
     fileData?.frontmatter?.hexmap ??
     fileData?.frontmatter?.hexMap ??
@@ -80,7 +82,19 @@ const HexMapViewerComponent = ({ fileData }: HexMapViewerProps) => {
 
   if (!mapData) return null
 
-  return <HexMap mapData={mapData} />
+  return (
+    <HexMap
+      mapData={mapData}
+      currentSlug={fileData?.slug ?? ""}
+      allSlugs={
+        allSlugs.length > 0
+          ? allSlugs
+          : allFiles
+              .map((file) => file.slug)
+              .filter((slug): slug is string => typeof slug === "string")
+      }
+    />
+  )
 }
 
 export default function HexMapViewer() {

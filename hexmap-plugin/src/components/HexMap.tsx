@@ -1,34 +1,10 @@
-const TERRAIN_COLORS: Record<string, string> = {
-  "deep-ocean": "#1e3a8a",
-  ocean: "#2563eb",
-  coast: "#93c5fd",
-  grassland: "#4ade80",
-  forest: "#15803d",
-  mountain: "#64748b",
-  hills: "#84cc16",
-  desert: "#fde047",
-  swamp: "#3f6212",
-  default: "#e2e8f0",
-}
+import { offsetToPixel, resolveHexLink, TERRAIN_COLORS } from "./hexMapUtils"
 
-function axialToPixel(q: number, r: number, size: number, orientation = "pointy") {
-  if (orientation === "flat") {
-    return {
-      x: size * ((3 / 2) * q),
-      y: size * (Math.sqrt(3) * r + (Math.sqrt(3) / 2) * q),
-    }
-  }
-
-  return {
-    x: size * (Math.sqrt(3) * q + (Math.sqrt(3) / 2) * r),
-    y: size * ((3 / 2) * r),
-  }
-}
-
-function getHexPoints(centerX: number, centerY: number, size: number) {
+function getHexPoints(centerX: number, centerY: number, size: number, orientation: string) {
   const points: string[] = []
+  const angleOffset = orientation === "flat" ? 0 : -30
   for (let i = 0; i < 6; i++) {
-    const angleRad = (Math.PI / 180) * (60 * i - 30)
+    const angleRad = (Math.PI / 180) * (60 * i + angleOffset)
     const px = centerX + size * Math.cos(angleRad)
     const py = centerY + size * Math.sin(angleRad)
     points.push(`${px.toFixed(2)},${py.toFixed(2)}`)
@@ -39,9 +15,13 @@ function getHexPoints(centerX: number, centerY: number, size: number) {
 export default function HexMap({
   mapData,
   onHexClick,
+  currentSlug = "",
+  allSlugs = [],
 }: {
   mapData?: any
   onHexClick?: (hex: any) => void
+  currentSlug?: string
+  allSlugs?: string[]
 }) {
   if (!mapData || !Array.isArray(mapData.hexes)) return null
 
@@ -55,7 +35,7 @@ export default function HexMap({
   let maxY = -Infinity
 
   const calculatedHexes = hexes.map((hex: any) => {
-    const { x, y } = axialToPixel(Number(hex.q), Number(hex.r), hexSize, orientation)
+    const { x, y } = offsetToPixel(Number(hex.q), Number(hex.r), hexSize, orientation)
 
     if (x < minX) minX = x
     if (x > maxX) maxX = x
@@ -73,17 +53,6 @@ export default function HexMap({
   const offsetX = -minX + padding
   const offsetY = -minY + padding
 
-  const handleTileClick = (hex: any) => {
-    if (onHexClick) {
-      onHexClick(hex)
-      return
-    }
-
-    if (hex.link && typeof window !== "undefined") {
-      window.location.assign(hex.link)
-    }
-  }
-
   return (
     <div style={{ width: "100%", overflowX: "auto", position: "relative" }}>
       <svg
@@ -94,14 +63,18 @@ export default function HexMap({
           {calculatedHexes.map((hex: any) => {
             const cx = hex.x + offsetX
             const cy = hex.y + offsetY
-            const points = getHexPoints(cx, cy, hexSize)
+            const points = getHexPoints(cx, cy, hexSize, orientation)
             const fillColor = TERRAIN_COLORS[hex.hexType] || TERRAIN_COLORS.default
 
-            return (
+            const href =
+              typeof hex.link === "string" ? resolveHexLink(hex.link, currentSlug, allSlugs) : ""
+            const tile = (
               <g
-                key={`${hex.q},${hex.r}`}
-                onClick={() => handleTileClick(hex)}
-                style={{ cursor: hex.link ? "pointer" : "default", transition: "all 0.15s ease" }}
+                onClick={onHexClick ? () => onHexClick(hex) : undefined}
+                style={{
+                  cursor: href || onHexClick ? "pointer" : "default",
+                  transition: "all 0.15s ease",
+                }}
               >
                 <polygon
                   points={points}
@@ -137,6 +110,22 @@ export default function HexMap({
                   </text>
                 )}
               </g>
+            )
+
+            return href ? (
+              <a
+                key={`${hex.q},${hex.r}`}
+                href={href}
+                // Quartz popovers expect HTMLAnchorElement.href, not SVGAnimatedString.
+                data-no-popover="true"
+                class={/^(?:[a-z][a-z\d+.-]*:|\/\/)/i.test(href) ? "external" : "internal"}
+                aria-label={hex.label || `Hex ${hex.q},${hex.r}`}
+                onClick={onHexClick ? (event) => event.preventDefault() : undefined}
+              >
+                {tile}
+              </a>
+            ) : (
+              <g key={`${hex.q},${hex.r}`}>{tile}</g>
             )
           })}
         </g>
