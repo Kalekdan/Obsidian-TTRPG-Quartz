@@ -3,6 +3,8 @@
 node_modules
 public
 hexmap-plugin/dist/
+hexmap-editor/node_modules/
+hexmap-editor/dist/
 prof
 tsconfig.tsbuildinfo
 .obsidian
