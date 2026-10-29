@@ -16,226 +16,6 @@ hexmap:
     viewMode: hexcrawl
     theme: fantasy
   hexes:
-    - q: 0
-      r: 0
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 0
-      r: 1
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 0
-      r: 2
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 0
-      r: 3
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 0
-      r: 4
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 0
-      r: 5
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 0
-      r: 6
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 0
-      r: 7
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 0
-      r: 8
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 0
-      r: 9
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 0
-      r: 10
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 0
-      r: 11
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 0
-      r: 12
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 0
-      r: 13
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 0
-      r: 14
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 0
-      r: 15
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 0
-      r: 16
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 0
-      r: 17
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 0
-      r: 18
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 0
-      r: 19
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 0
-      r: 20
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 0
-      r: 21
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 0
-      r: 22
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 0
-      r: 23
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 0
-      r: 24
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 0
-      r: 25
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 0
-      r: 26
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 0
-      r: 27
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 0
-      r: 28
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 0
-      r: 29
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 1
-      r: 0
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 1
-      r: 1
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 1
-      r: 2
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 1
-      r: 3
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 1
-      r: 4
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 1
-      r: 5
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 1
-      r: 6
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 1
-      r: 7
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 1
-      r: 8
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 1
-      r: 9
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 1
-      r: 10
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 1
-      r: 11
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 1
-      r: 12
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 1
-      r: 13
-      hexType: deep-ocean
-      link: ""
-      label: ""
     - q: 1
       r: 14
       hexType: deep-ocean
@@ -316,73 +96,73 @@ hexmap:
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 2
-      r: 0
+    - q: 1
+      r: 30
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 2
-      r: 1
+    - q: 1
+      r: 31
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 2
-      r: 2
+    - q: 1
+      r: 32
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 2
-      r: 3
+    - q: 1
+      r: 33
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 2
-      r: 4
+    - q: 1
+      r: 34
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 2
-      r: 5
+    - q: 1
+      r: 35
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 2
-      r: 6
+    - q: 1
+      r: 36
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 2
-      r: 7
+    - q: 1
+      r: 37
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 2
-      r: 8
+    - q: 1
+      r: 38
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 2
-      r: 9
+    - q: 1
+      r: 39
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 2
-      r: 10
+    - q: 1
+      r: 40
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 2
-      r: 11
+    - q: 1
+      r: 41
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 2
-      r: 12
+    - q: 1
+      r: 42
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 2
-      r: 13
+    - q: 1
+      r: 43
       hexType: deep-ocean
       link: ""
       label: ""
@@ -393,7 +173,7 @@ hexmap:
       label: ""
     - q: 2
       r: 15
-      hexType: ocean
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 2
@@ -403,7 +183,7 @@ hexmap:
       label: ""
     - q: 2
       r: 17
-      hexType: ocean
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 2
@@ -413,7 +193,7 @@ hexmap:
       label: ""
     - q: 2
       r: 19
-      hexType: ocean
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 2
@@ -466,104 +246,104 @@ hexmap:
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 3
-      r: 0
+    - q: 2
+      r: 30
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 3
-      r: 1
+    - q: 2
+      r: 31
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 3
-      r: 2
+    - q: 2
+      r: 32
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 3
-      r: 3
+    - q: 2
+      r: 33
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 3
-      r: 4
+    - q: 2
+      r: 34
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 3
-      r: 5
+    - q: 2
+      r: 35
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 3
-      r: 6
+    - q: 2
+      r: 36
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 3
-      r: 7
+    - q: 2
+      r: 37
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 3
-      r: 8
+    - q: 2
+      r: 38
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 3
-      r: 9
+    - q: 2
+      r: 39
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 3
-      r: 10
+    - q: 2
+      r: 40
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 3
-      r: 11
+    - q: 2
+      r: 41
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 3
-      r: 12
+    - q: 2
+      r: 42
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 3
-      r: 13
-      hexType: ocean
+    - q: 2
+      r: 43
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 3
       r: 14
-      hexType: ocean
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 3
       r: 15
-      hexType: ocean
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 3
       r: 16
-      hexType: ocean
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 3
       r: 17
-      hexType: ocean
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 3
       r: 18
-      hexType: ocean
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 3
       r: 19
-      hexType: ocean
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 3
@@ -613,117 +393,117 @@ hexmap:
       label: ""
     - q: 3
       r: 29
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 4
-      r: 0
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 4
-      r: 1
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 4
-      r: 2
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 4
-      r: 3
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 4
-      r: 4
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 4
-      r: 5
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 4
-      r: 6
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 4
-      r: 7
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 4
-      r: 8
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 4
-      r: 9
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 4
-      r: 10
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 4
-      r: 11
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 4
-      r: 12
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 4
-      r: 13
       hexType: ocean
+      link: ""
+      label: ""
+    - q: 3
+      r: 30
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 3
+      r: 31
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 3
+      r: 32
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 3
+      r: 33
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 3
+      r: 34
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 3
+      r: 35
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 3
+      r: 36
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 3
+      r: 37
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 3
+      r: 38
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 3
+      r: 39
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 3
+      r: 40
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 3
+      r: 41
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 3
+      r: 42
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 3
+      r: 43
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 4
       r: 14
-      hexType: ocean
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 4
       r: 15
-      hexType: ocean
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 4
       r: 16
-      hexType: ocean
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 4
       r: 17
-      hexType: ocean
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 4
       r: 18
-      hexType: ocean
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 4
       r: 19
-      hexType: ocean
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 4
       r: 20
-      hexType: ocean
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 4
       r: 21
-      hexType: sea
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 4
@@ -753,132 +533,132 @@ hexmap:
       label: ""
     - q: 4
       r: 27
-      hexType: deep-ocean
+      hexType: ocean
       link: ""
       label: ""
     - q: 4
       r: 28
-      hexType: deep-ocean
+      hexType: ocean
       link: ""
       label: ""
     - q: 4
       r: 29
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 5
-      r: 0
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 5
-      r: 1
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 5
-      r: 2
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 5
-      r: 3
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 5
-      r: 4
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 5
-      r: 5
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 5
-      r: 6
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 5
-      r: 7
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 5
-      r: 8
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 5
-      r: 9
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 5
-      r: 10
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 5
-      r: 11
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 5
-      r: 12
       hexType: ocean
       link: ""
       label: ""
-    - q: 5
-      r: 13
+    - q: 4
+      r: 30
       hexType: ocean
+      link: ""
+      label: ""
+    - q: 4
+      r: 31
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 4
+      r: 32
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 4
+      r: 33
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 4
+      r: 34
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 4
+      r: 35
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 4
+      r: 36
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 4
+      r: 37
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 4
+      r: 38
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 4
+      r: 39
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 4
+      r: 40
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 4
+      r: 41
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 4
+      r: 42
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 4
+      r: 43
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 5
       r: 14
-      hexType: ocean
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 5
       r: 15
-      hexType: ocean
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 5
       r: 16
-      hexType: ocean
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 5
       r: 17
-      hexType: ocean
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 5
       r: 18
-      hexType: ocean
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 5
       r: 19
-      hexType: sea
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 5
       r: 20
-      hexType: sea
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 5
       r: 21
-      hexType: sea
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 5
       r: 22
-      hexType: ocean
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 5
@@ -903,132 +683,132 @@ hexmap:
       label: ""
     - q: 5
       r: 27
-      hexType: deep-ocean
+      hexType: ocean
       link: ""
       label: ""
     - q: 5
       r: 28
-      hexType: deep-ocean
+      hexType: ocean
       link: ""
       label: ""
     - q: 5
       r: 29
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 6
-      r: 0
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 6
-      r: 1
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 6
-      r: 2
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 6
-      r: 3
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 6
-      r: 4
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 6
-      r: 5
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 6
-      r: 6
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 6
-      r: 7
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 6
-      r: 8
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 6
-      r: 9
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 6
-      r: 10
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 6
-      r: 11
       hexType: ocean
       link: ""
       label: ""
-    - q: 6
-      r: 12
+    - q: 5
+      r: 30
       hexType: ocean
       link: ""
       label: ""
-    - q: 6
-      r: 13
+    - q: 5
+      r: 31
       hexType: ocean
+      link: ""
+      label: ""
+    - q: 5
+      r: 32
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 5
+      r: 33
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 5
+      r: 34
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 5
+      r: 35
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 5
+      r: 36
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 5
+      r: 37
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 5
+      r: 38
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 5
+      r: 39
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 5
+      r: 40
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 5
+      r: 41
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 5
+      r: 42
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 5
+      r: 43
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 6
       r: 14
-      hexType: ocean
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 6
       r: 15
-      hexType: ocean
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 6
       r: 16
-      hexType: ocean
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 6
       r: 17
-      hexType: sea
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 6
       r: 18
-      hexType: sea
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 6
       r: 19
-      hexType: plains
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 6
       r: 20
-      hexType: plains
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 6
       r: 21
-      hexType: sea
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 6
       r: 22
-      hexType: ocean
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 6
@@ -1048,142 +828,142 @@ hexmap:
       label: ""
     - q: 6
       r: 26
-      hexType: deep-ocean
+      hexType: ocean
       link: ""
       label: ""
     - q: 6
       r: 27
-      hexType: deep-ocean
+      hexType: ocean
       link: ""
       label: ""
     - q: 6
       r: 28
-      hexType: deep-ocean
+      hexType: ocean
       link: ""
       label: ""
     - q: 6
       r: 29
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 7
-      r: 0
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 7
-      r: 1
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 7
-      r: 2
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 7
-      r: 3
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 7
-      r: 4
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 7
-      r: 5
       hexType: ocean
       link: ""
       label: ""
-    - q: 7
-      r: 6
+    - q: 6
+      r: 30
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 6
+      r: 31
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 6
+      r: 32
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 6
+      r: 33
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 6
+      r: 34
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 6
+      r: 35
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 6
+      r: 36
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 6
+      r: 37
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 7
-      r: 7
-      hexType: ocean
-      link: ""
-      label: ""
-    - q: 7
-      r: 8
+    - q: 6
+      r: 38
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 7
-      r: 9
-      hexType: ocean
+    - q: 6
+      r: 39
+      hexType: deep-ocean
       link: ""
       label: ""
-    - q: 7
-      r: 10
-      hexType: ocean
+    - q: 6
+      r: 40
+      hexType: deep-ocean
       link: ""
       label: ""
-    - q: 7
-      r: 11
-      hexType: ocean
+    - q: 6
+      r: 41
+      hexType: deep-ocean
       link: ""
       label: ""
-    - q: 7
-      r: 12
-      hexType: ocean
+    - q: 6
+      r: 42
+      hexType: deep-ocean
       link: ""
       label: ""
-    - q: 7
-      r: 13
-      hexType: ocean
+    - q: 6
+      r: 43
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 7
       r: 14
-      hexType: ocean
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 7
       r: 15
-      hexType: sea
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 7
       r: 16
-      hexType: sea
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 7
       r: 17
-      hexType: sea
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 7
       r: 18
-      hexType: sea
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 7
       r: 19
-      hexType: plains
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 7
       r: 20
-      hexType: plains
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 7
       r: 21
-      hexType: sea
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 7
       r: 22
-      hexType: ocean
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 7
       r: 23
-      hexType: ocean
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 7
@@ -1198,152 +978,152 @@ hexmap:
       label: ""
     - q: 7
       r: 26
-      hexType: deep-ocean
+      hexType: ocean
       link: ""
       label: ""
     - q: 7
       r: 27
-      hexType: deep-ocean
+      hexType: ocean
       link: ""
       label: ""
     - q: 7
       r: 28
-      hexType: deep-ocean
+      hexType: ocean
       link: ""
       label: ""
     - q: 7
       r: 29
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 8
-      r: 0
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 8
-      r: 1
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 8
-      r: 2
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 8
-      r: 3
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 8
-      r: 4
       hexType: ocean
       link: ""
       label: ""
-    - q: 8
-      r: 5
+    - q: 7
+      r: 30
       hexType: ocean
       link: ""
       label: ""
-    - q: 8
-      r: 6
-      hexType: ocean
-      link: ""
-      label: ""
-    - q: 8
-      r: 7
-      hexType: ocean
-      link: ""
-      label: ""
-    - q: 8
-      r: 8
-      hexType: ocean
-      link: ""
-      label: ""
-    - q: 8
-      r: 9
-      hexType: ocean
-      link: ""
-      label: ""
-    - q: 8
-      r: 10
-      hexType: ocean
-      link: ""
-      label: ""
-    - q: 8
-      r: 11
+    - q: 7
+      r: 31
       hexType: sea
       link: ""
       label: ""
-    - q: 8
-      r: 12
+    - q: 7
+      r: 32
       hexType: sea
       link: ""
       label: ""
-    - q: 8
-      r: 13
+    - q: 7
+      r: 33
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 7
+      r: 34
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 7
+      r: 35
       hexType: sea
+      link: ""
+      label: ""
+    - q: 7
+      r: 36
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 7
+      r: 37
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 7
+      r: 38
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 7
+      r: 39
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 7
+      r: 40
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 7
+      r: 41
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 7
+      r: 42
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 7
+      r: 43
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 8
       r: 14
-      hexType: sea
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 8
       r: 15
-      hexType: sea
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 8
       r: 16
-      hexType: sea
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 8
       r: 17
-      hexType: sea
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 8
       r: 18
-      hexType: plains
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 8
       r: 19
-      hexType: plains
+      hexType: ocean
       link: ""
       label: ""
     - q: 8
       r: 20
-      hexType: plains
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 8
       r: 21
-      hexType: sea
+      hexType: ocean
       link: ""
       label: ""
     - q: 8
       r: 22
-      hexType: sea
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 8
       r: 23
-      hexType: sea
+      hexType: ocean
       link: ""
       label: ""
     - q: 8
       r: 24
-      hexType: sea
+      hexType: ocean
       link: ""
       label: ""
     - q: 8
       r: 25
-      hexType: sea
+      hexType: ocean
       link: ""
       label: ""
     - q: 8
@@ -1358,137 +1138,137 @@ hexmap:
       label: ""
     - q: 8
       r: 28
-      hexType: deep-ocean
+      hexType: ocean
       link: ""
       label: ""
     - q: 8
       r: 29
-      hexType: deep-ocean
+      hexType: sea
       link: ""
       label: ""
-    - q: 9
-      r: 0
-      hexType: deep-ocean
+    - q: 8
+      r: 30
+      hexType: sea
       link: ""
       label: ""
-    - q: 9
-      r: 1
-      hexType: deep-ocean
+    - q: 8
+      r: 31
+      hexType: sea
       link: ""
       label: ""
-    - q: 9
-      r: 2
-      hexType: deep-ocean
+    - q: 8
+      r: 32
+      hexType: sea
       link: ""
       label: ""
-    - q: 9
-      r: 3
+    - q: 8
+      r: 33
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 8
+      r: 34
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 8
+      r: 35
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 8
+      r: 36
       hexType: ocean
       link: ""
       label: ""
-    - q: 9
-      r: 4
+    - q: 8
+      r: 37
       hexType: ocean
       link: ""
       label: ""
-    - q: 9
-      r: 5
-      hexType: sea
+    - q: 8
+      r: 38
+      hexType: deep-ocean
       link: ""
       label: ""
-    - q: 9
-      r: 6
+    - q: 8
+      r: 39
       hexType: ocean
       link: ""
       label: ""
-    - q: 9
-      r: 7
-      hexType: sea
+    - q: 8
+      r: 40
+      hexType: deep-ocean
       link: ""
       label: ""
-    - q: 9
-      r: 8
-      hexType: ocean
+    - q: 8
+      r: 41
+      hexType: deep-ocean
       link: ""
       label: ""
-    - q: 9
-      r: 9
-      hexType: sea
+    - q: 8
+      r: 42
+      hexType: deep-ocean
       link: ""
       label: ""
-    - q: 9
-      r: 10
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 9
-      r: 11
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 9
-      r: 12
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 9
-      r: 13
-      hexType: sea
+    - q: 8
+      r: 43
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 9
       r: 14
-      hexType: sea
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 9
       r: 15
-      hexType: sea
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 9
       r: 16
-      hexType: sea
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 9
       r: 17
-      hexType: sea
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 9
       r: 18
-      hexType: sea
+      hexType: ocean
       link: ""
       label: ""
     - q: 9
       r: 19
-      hexType: sea
+      hexType: ocean
       link: ""
       label: ""
     - q: 9
       r: 20
-      hexType: sea
+      hexType: ocean
       link: ""
       label: ""
     - q: 9
       r: 21
-      hexType: plains
+      hexType: ocean
       link: ""
       label: ""
     - q: 9
       r: 22
-      hexType: sea
+      hexType: ocean
       link: ""
       label: ""
     - q: 9
       r: 23
-      hexType: plains
+      hexType: ocean
       link: ""
       label: ""
     - q: 9
       r: 24
-      hexType: plains
+      hexType: ocean
       link: ""
       label: ""
     - q: 9
@@ -1508,142 +1288,142 @@ hexmap:
       label: ""
     - q: 9
       r: 28
-      hexType: deep-ocean
+      hexType: sea
       link: ""
       label: ""
     - q: 9
       r: 29
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 10
-      r: 0
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 10
-      r: 1
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 10
-      r: 2
-      hexType: ocean
-      link: ""
-      label: ""
-    - q: 10
-      r: 3
-      hexType: ocean
-      link: ""
-      label: ""
-    - q: 10
-      r: 4
-      hexType: ocean
-      link: ""
-      label: ""
-    - q: 10
-      r: 5
       hexType: sea
       link: ""
       label: ""
-    - q: 10
-      r: 6
+    - q: 9
+      r: 30
       hexType: sea
       link: ""
       label: ""
-    - q: 10
-      r: 7
+    - q: 9
+      r: 31
       hexType: sea
       link: ""
       label: ""
-    - q: 10
-      r: 8
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 10
-      r: 9
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 10
-      r: 10
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 10
-      r: 11
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 10
-      r: 12
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 10
-      r: 13
+    - q: 9
+      r: 32
       hexType: plains
+      link: ""
+      label: ""
+    - q: 9
+      r: 33
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 9
+      r: 34
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 9
+      r: 35
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 9
+      r: 36
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 9
+      r: 37
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 9
+      r: 38
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 9
+      r: 39
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 9
+      r: 40
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 9
+      r: 41
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 9
+      r: 42
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 9
+      r: 43
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 10
       r: 14
-      hexType: plains
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 10
       r: 15
-      hexType: plains
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 10
       r: 16
-      hexType: sea
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 10
       r: 17
-      hexType: plains
+      hexType: ocean
       link: ""
       label: ""
     - q: 10
       r: 18
-      hexType: plains
+      hexType: ocean
       link: ""
       label: ""
     - q: 10
       r: 19
-      hexType: plains
+      hexType: sea
       link: ""
       label: ""
     - q: 10
       r: 20
-      hexType: plains
+      hexType: ocean
       link: ""
       label: ""
     - q: 10
       r: 21
-      hexType: plains
+      hexType: sea
       link: ""
       label: ""
     - q: 10
       r: 22
-      hexType: plains
+      hexType: ocean
       link: ""
       label: ""
     - q: 10
       r: 23
-      hexType: plains
+      hexType: sea
       link: ""
       label: ""
     - q: 10
       r: 24
-      hexType: plains
+      hexType: sea
       link: ""
       label: ""
     - q: 10
       r: 25
-      hexType: plains
+      hexType: sea
       link: ""
       label: ""
     - q: 10
@@ -1658,1637 +1438,1637 @@ hexmap:
       label: ""
     - q: 10
       r: 28
-      hexType: deep-ocean
+      hexType: sea
       link: ""
       label: ""
     - q: 10
       r: 29
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 11
-      r: 0
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 11
-      r: 1
-      hexType: ocean
-      link: ""
-      label: ""
-    - q: 11
-      r: 2
-      hexType: ocean
-      link: ""
-      label: ""
-    - q: 11
-      r: 3
       hexType: sea
       link: ""
       label: ""
-    - q: 11
-      r: 4
+    - q: 10
+      r: 30
       hexType: sea
       link: ""
       label: ""
-    - q: 11
-      r: 5
+    - q: 10
+      r: 31
       hexType: sea
       link: ""
       label: ""
-    - q: 11
-      r: 6
+    - q: 10
+      r: 32
       hexType: sea
       link: ""
       label: ""
-    - q: 11
-      r: 7
+    - q: 10
+      r: 33
       hexType: sea
       link: ""
       label: ""
-    - q: 11
-      r: 8
+    - q: 10
+      r: 34
       hexType: sea
       link: ""
       label: ""
-    - q: 11
-      r: 9
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 11
-      r: 10
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 11
-      r: 11
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 11
-      r: 12
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 11
-      r: 13
+    - q: 10
+      r: 35
       hexType: plains
+      link: ""
+      label: ""
+    - q: 10
+      r: 36
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 10
+      r: 37
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 10
+      r: 38
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 10
+      r: 39
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 10
+      r: 40
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 10
+      r: 41
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 10
+      r: 42
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 10
+      r: 43
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 11
       r: 14
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 11
-      r: 15
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 11
-      r: 16
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 11
-      r: 17
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 11
-      r: 18
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 11
-      r: 19
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 11
-      r: 20
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 11
-      r: 21
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 11
-      r: 22
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 11
-      r: 23
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 11
-      r: 24
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 11
-      r: 25
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 11
-      r: 26
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 11
-      r: 27
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 11
-      r: 28
       hexType: deep-ocean
       link: ""
       label: ""
     - q: 11
+      r: 15
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 11
+      r: 16
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 11
+      r: 17
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 11
+      r: 18
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 11
+      r: 19
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 11
+      r: 20
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 11
+      r: 21
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 11
+      r: 22
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 11
+      r: 23
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 11
+      r: 24
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 11
+      r: 25
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 11
+      r: 26
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 11
+      r: 27
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 11
+      r: 28
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 11
       r: 29
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 11
+      r: 30
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 11
+      r: 31
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 11
+      r: 32
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 11
+      r: 33
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 11
+      r: 34
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 11
+      r: 35
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 11
+      r: 36
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 11
+      r: 37
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 11
+      r: 38
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 11
+      r: 39
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 11
+      r: 40
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 11
+      r: 41
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 11
+      r: 42
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 11
+      r: 43
       hexType: deep-ocean
       link: ""
       label: ""
     - q: 12
-      r: 0
+      r: 14
       hexType: deep-ocean
       link: ""
       label: ""
     - q: 12
-      r: 1
+      r: 15
       hexType: ocean
       link: ""
       label: ""
     - q: 12
-      r: 2
+      r: 16
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 12
+      r: 17
       hexType: sea
       link: ""
       label: ""
     - q: 12
-      r: 3
+      r: 18
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 12
+      r: 19
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 12
+      r: 20
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 12
+      r: 21
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 12
+      r: 22
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 12
+      r: 23
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 12
+      r: 24
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 12
+      r: 25
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 12
+      r: 26
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 12
+      r: 27
       hexType: plains
       link: ""
       label: ""
     - q: 12
-      r: 4
+      r: 28
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 12
+      r: 29
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 12
+      r: 30
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 12
+      r: 31
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 12
+      r: 32
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 12
+      r: 33
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 12
+      r: 34
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 12
+      r: 35
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 12
+      r: 36
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 12
+      r: 37
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 12
+      r: 38
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 12
+      r: 39
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 12
+      r: 40
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 12
+      r: 41
       hexType: sea
       link: ""
       label: ""
     - q: 12
-      r: 5
+      r: 42
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 12
+      r: 43
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 13
+      r: 14
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 13
+      r: 15
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 13
+      r: 16
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 13
+      r: 17
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 13
+      r: 18
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 13
+      r: 19
       hexType: plains
       link: "[[Virellis]]"
       label: Virellis
-    - q: 12
-      r: 6
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 12
-      r: 7
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 12
-      r: 8
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 12
-      r: 9
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 12
-      r: 10
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 12
-      r: 11
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 12
-      r: 12
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 12
-      r: 13
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 12
-      r: 14
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 12
-      r: 15
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 12
-      r: 16
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 12
-      r: 17
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 12
-      r: 18
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 12
-      r: 19
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 12
+    - q: 13
       r: 20
       hexType: plains
       link: ""
       label: ""
-    - q: 12
+    - q: 13
       r: 21
       hexType: plains
       link: ""
       label: ""
-    - q: 12
+    - q: 13
       r: 22
       hexType: plains
       link: ""
       label: ""
-    - q: 12
+    - q: 13
       r: 23
       hexType: plains
       link: ""
       label: ""
-    - q: 12
+    - q: 13
       r: 24
       hexType: plains
       link: ""
       label: ""
-    - q: 12
+    - q: 13
       r: 25
-      hexType: jungle
+      hexType: plains
       link: ""
       label: ""
-    - q: 12
+    - q: 13
       r: 26
-      hexType: jungle
-      link: ""
-      label: ""
-    - q: 12
-      r: 27
       hexType: sea
       link: ""
       label: ""
-    - q: 12
+    - q: 13
+      r: 27
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 13
       r: 28
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 13
+      r: 29
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 13
+      r: 30
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 13
+      r: 31
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 13
+      r: 32
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 13
+      r: 33
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 13
+      r: 34
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 13
+      r: 35
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 13
+      r: 36
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 13
+      r: 37
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 13
+      r: 38
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 13
+      r: 39
+      hexType: jungle
+      link: ""
+      label: ""
+    - q: 13
+      r: 40
+      hexType: jungle
+      link: ""
+      label: ""
+    - q: 13
+      r: 41
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 13
+      r: 42
       hexType: ocean
       link: ""
       label: ""
-    - q: 12
-      r: 29
+    - q: 13
+      r: 43
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 13
-      r: 0
+    - q: 14
+      r: 14
       hexType: ocean
       link: ""
       label: ""
-    - q: 13
-      r: 1
+    - q: 14
+      r: 15
       hexType: sea
       link: ""
       label: ""
-    - q: 13
-      r: 2
+    - q: 14
+      r: 16
       hexType: sea
       link: ""
       label: ""
-    - q: 13
-      r: 3
+    - q: 14
+      r: 17
       hexType: plains
       link: ""
       label: ""
-    - q: 13
-      r: 4
+    - q: 14
+      r: 18
       hexType: plains
       link: ""
       label: ""
-    - q: 13
-      r: 5
+    - q: 14
+      r: 19
       hexType: plains
       link: ""
       label: ""
-    - q: 13
-      r: 6
+    - q: 14
+      r: 20
       hexType: plains
       link: ""
       label: ""
-    - q: 13
-      r: 7
+    - q: 14
+      r: 21
       hexType: plains
       link: ""
       label: ""
-    - q: 13
-      r: 8
+    - q: 14
+      r: 22
       hexType: plains
       link: ""
       label: ""
-    - q: 13
-      r: 9
+    - q: 14
+      r: 23
       hexType: plains
       link: ""
       label: ""
-    - q: 13
-      r: 10
+    - q: 14
+      r: 24
       hexType: plains
       link: ""
       label: ""
-    - q: 13
-      r: 11
+    - q: 14
+      r: 25
       hexType: plains
       link: "[[Southelme]]"
       label: Southelme
-    - q: 13
-      r: 12
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 13
-      r: 13
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 13
-      r: 14
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 13
-      r: 15
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 13
-      r: 16
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 13
-      r: 17
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 13
-      r: 18
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 13
-      r: 19
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 13
-      r: 20
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 13
-      r: 21
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 13
-      r: 22
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 13
-      r: 23
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 13
-      r: 24
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 13
-      r: 25
-      hexType: jungle
-      link: ""
-      label: ""
-    - q: 13
+    - q: 14
       r: 26
-      hexType: jungle
-      link: ""
-      label: ""
-    - q: 13
-      r: 27
       hexType: sea
       link: ""
       label: ""
-    - q: 13
+    - q: 14
+      r: 27
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 14
       r: 28
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 14
+      r: 29
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 14
+      r: 30
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 14
+      r: 31
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 14
+      r: 32
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 14
+      r: 33
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 14
+      r: 34
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 14
+      r: 35
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 14
+      r: 36
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 14
+      r: 37
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 14
+      r: 38
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 14
+      r: 39
+      hexType: jungle
+      link: ""
+      label: ""
+    - q: 14
+      r: 40
+      hexType: jungle
+      link: ""
+      label: ""
+    - q: 14
+      r: 41
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 14
+      r: 42
       hexType: ocean
       link: ""
       label: ""
-    - q: 13
-      r: 29
+    - q: 14
+      r: 43
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 14
-      r: 0
+    - q: 15
+      r: 14
       hexType: ocean
       link: ""
       label: ""
-    - q: 14
-      r: 1
+    - q: 15
+      r: 15
       hexType: sea
       link: ""
       label: ""
-    - q: 14
-      r: 2
+    - q: 15
+      r: 16
       hexType: plains
       link: "[[Castinfort]]"
       label: Castinfort
-    - q: 14
-      r: 3
+    - q: 15
+      r: 17
       hexType: plains
       link: ""
       label: ""
-    - q: 14
-      r: 4
+    - q: 15
+      r: 18
       hexType: plains
       link: ""
       label: ""
-    - q: 14
-      r: 5
+    - q: 15
+      r: 19
       hexType: jungle
       link: ""
       label: ""
-    - q: 14
-      r: 6
+    - q: 15
+      r: 20
       hexType: jungle
       link: ""
       label: ""
-    - q: 14
-      r: 7
+    - q: 15
+      r: 21
       hexType: jungle
       link: ""
       label: ""
-    - q: 14
-      r: 8
+    - q: 15
+      r: 22
       hexType: jungle
       link: ""
       label: ""
-    - q: 14
-      r: 9
+    - q: 15
+      r: 23
       hexType: jungle
       link: ""
       label: ""
-    - q: 14
-      r: 10
+    - q: 15
+      r: 24
       hexType: plains
       link: ""
       label: ""
-    - q: 14
-      r: 11
+    - q: 15
+      r: 25
       hexType: sea
       link: ""
       label: ""
-    - q: 14
-      r: 12
+    - q: 15
+      r: 26
       hexType: sea
       link: ""
       label: ""
-    - q: 14
-      r: 13
+    - q: 15
+      r: 27
       hexType: plains
       link: "[[Dodbro]]"
       label: Dodbro
-    - q: 14
+    - q: 15
+      r: 28
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 15
+      r: 29
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 15
+      r: 30
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 15
+      r: 31
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 15
+      r: 32
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 15
+      r: 33
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 15
+      r: 34
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 15
+      r: 35
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 15
+      r: 36
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 15
+      r: 37
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 15
+      r: 38
+      hexType: jungle
+      link: ""
+      label: ""
+    - q: 15
+      r: 39
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 15
+      r: 40
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 15
+      r: 41
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 15
+      r: 42
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 15
+      r: 43
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 16
       r: 14
-      hexType: plains
+      hexType: sea
       link: ""
       label: ""
-    - q: 14
+    - q: 16
       r: 15
-      hexType: plains
+      hexType: sea
       link: ""
       label: ""
-    - q: 14
+    - q: 16
       r: 16
       hexType: plains
       link: ""
       label: ""
-    - q: 14
+    - q: 16
       r: 17
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 14
-      r: 18
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 14
-      r: 19
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 14
-      r: 20
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 14
-      r: 21
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 14
-      r: 22
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 14
-      r: 23
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 14
-      r: 24
       hexType: jungle
       link: ""
       label: ""
-    - q: 14
+    - q: 16
+      r: 18
+      hexType: jungle
+      link: ""
+      label: ""
+    - q: 16
+      r: 19
+      hexType: jungle
+      link: ""
+      label: ""
+    - q: 16
+      r: 20
+      hexType: jungle
+      link: ""
+      label: ""
+    - q: 16
+      r: 21
+      hexType: jungle
+      link: ""
+      label: ""
+    - q: 16
+      r: 22
+      hexType: jungle
+      link: ""
+      label: ""
+    - q: 16
+      r: 23
+      hexType: jungle
+      link: ""
+      label: ""
+    - q: 16
+      r: 24
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 16
       r: 25
       hexType: sea
       link: ""
       label: ""
-    - q: 14
+    - q: 16
       r: 26
       hexType: sea
       link: ""
       label: ""
-    - q: 14
+    - q: 16
       r: 27
       hexType: sea
       link: ""
       label: ""
-    - q: 14
+    - q: 16
       r: 28
-      hexType: ocean
+      hexType: plains
       link: ""
       label: ""
-    - q: 14
+    - q: 16
       r: 29
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 15
-      r: 0
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 15
-      r: 1
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 15
-      r: 2
       hexType: plains
       link: ""
       label: ""
-    - q: 15
-      r: 3
-      hexType: jungle
-      link: ""
-      label: ""
-    - q: 15
-      r: 4
-      hexType: jungle
-      link: ""
-      label: ""
-    - q: 15
-      r: 5
-      hexType: jungle
-      link: ""
-      label: ""
-    - q: 15
-      r: 6
-      hexType: jungle
-      link: ""
-      label: ""
-    - q: 15
-      r: 7
-      hexType: jungle
-      link: ""
-      label: ""
-    - q: 15
-      r: 8
-      hexType: jungle
-      link: ""
-      label: ""
-    - q: 15
-      r: 9
-      hexType: jungle
-      link: ""
-      label: ""
-    - q: 15
-      r: 10
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 15
-      r: 11
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 15
-      r: 12
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 15
-      r: 13
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 15
-      r: 14
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 15
-      r: 15
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 15
-      r: 16
+    - q: 16
+      r: 30
       hexType: plains
       link: "[[Mira]]"
       label: Mira
-    - q: 15
-      r: 17
+    - q: 16
+      r: 31
       hexType: plains
       link: ""
       label: ""
-    - q: 15
-      r: 18
+    - q: 16
+      r: 32
       hexType: plains
       link: ""
       label: ""
-    - q: 15
-      r: 19
+    - q: 16
+      r: 33
       hexType: plains
       link: ""
       label: ""
-    - q: 15
-      r: 20
+    - q: 16
+      r: 34
       hexType: plains
       link: ""
       label: ""
-    - q: 15
-      r: 21
+    - q: 16
+      r: 35
       hexType: plains
       link: ""
       label: ""
-    - q: 15
-      r: 22
+    - q: 16
+      r: 36
       hexType: plains
       link: ""
       label: ""
-    - q: 15
-      r: 23
+    - q: 16
+      r: 37
       hexType: plains
       link: ""
       label: ""
-    - q: 15
-      r: 24
+    - q: 16
+      r: 38
       hexType: jungle
       link: ""
       label: ""
-    - q: 15
-      r: 25
+    - q: 16
+      r: 39
       hexType: sea
       link: ""
       label: ""
-    - q: 15
-      r: 26
+    - q: 16
+      r: 40
       hexType: sea
       link: ""
       label: ""
-    - q: 15
-      r: 27
+    - q: 16
+      r: 41
       hexType: ocean
       link: ""
       label: ""
-    - q: 15
-      r: 28
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 15
-      r: 29
+    - q: 16
+      r: 42
       hexType: deep-ocean
       link: ""
       label: ""
     - q: 16
-      r: 0
-      hexType: sea
+      r: 43
+      hexType: deep-ocean
       link: ""
       label: ""
-    - q: 16
-      r: 1
-      hexType: jungle
-      link: ""
-      label: ""
-    - q: 16
-      r: 2
-      hexType: jungle
-      link: ""
-      label: ""
-    - q: 16
-      r: 3
-      hexType: jungle
-      link: ""
-      label: ""
-    - q: 16
-      r: 4
-      hexType: jungle
-      link: ""
-      label: ""
-    - q: 16
-      r: 5
-      hexType: jungle
-      link: ""
-      label: ""
-    - q: 16
-      r: 6
-      hexType: jungle
-      link: ""
-      label: ""
-    - q: 16
-      r: 7
-      hexType: jungle
-      link: ""
-      label: ""
-    - q: 16
-      r: 8
-      hexType: jungle
-      link: ""
-      label: ""
-    - q: 16
-      r: 9
-      hexType: jungle
-      link: ""
-      label: ""
-    - q: 16
-      r: 10
-      hexType: jungle
-      link: ""
-      label: ""
-    - q: 16
-      r: 11
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 16
-      r: 12
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 16
-      r: 13
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 16
+    - q: 17
       r: 14
       hexType: sea
       link: ""
       label: ""
-    - q: 16
+    - q: 17
       r: 15
-      hexType: sea
+      hexType: jungle
       link: ""
       label: ""
-    - q: 16
+    - q: 17
       r: 16
+      hexType: jungle
+      link: ""
+      label: ""
+    - q: 17
+      r: 17
+      hexType: jungle
+      link: ""
+      label: ""
+    - q: 17
+      r: 18
+      hexType: jungle
+      link: ""
+      label: ""
+    - q: 17
+      r: 19
+      hexType: jungle
+      link: ""
+      label: ""
+    - q: 17
+      r: 20
+      hexType: jungle
+      link: ""
+      label: ""
+    - q: 17
+      r: 21
+      hexType: jungle
+      link: ""
+      label: ""
+    - q: 17
+      r: 22
+      hexType: jungle
+      link: ""
+      label: ""
+    - q: 17
+      r: 23
+      hexType: jungle
+      link: ""
+      label: ""
+    - q: 17
+      r: 24
+      hexType: jungle
+      link: ""
+      label: ""
+    - q: 17
+      r: 25
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 17
+      r: 26
       hexType: sea
       link: ""
       label: ""
-    - q: 16
-      r: 17
+    - q: 17
+      r: 27
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 17
+      r: 28
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 17
+      r: 29
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 17
+      r: 30
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 17
+      r: 31
       hexType: plains
       link: ""
       label: ""
-    - q: 16
-      r: 18
+    - q: 17
+      r: 32
       hexType: plains
       link: ""
       label: ""
-    - q: 16
-      r: 19
+    - q: 17
+      r: 33
       hexType: plains
       link: ""
       label: ""
-    - q: 16
-      r: 20
+    - q: 17
+      r: 34
       hexType: plains
       link: ""
       label: ""
-    - q: 16
-      r: 21
+    - q: 17
+      r: 35
       hexType: plains
       link: ""
       label: ""
-    - q: 16
-      r: 22
+    - q: 17
+      r: 36
       hexType: plains
       link: ""
       label: ""
-    - q: 16
-      r: 23
+    - q: 17
+      r: 37
       hexType: plains
       link: "[[Bres]]"
       label: Bres
-    - q: 16
+    - q: 17
+      r: 38
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 17
+      r: 39
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 17
+      r: 40
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 17
+      r: 41
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 17
+      r: 42
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 17
+      r: 43
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 18
+      r: 14
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 18
+      r: 15
+      hexType: jungle
+      link: ""
+      label: ""
+    - q: 18
+      r: 16
+      hexType: jungle
+      link: ""
+      label: ""
+    - q: 18
+      r: 17
+      hexType: jungle
+      link: ""
+      label: ""
+    - q: 18
+      r: 18
+      hexType: jungle
+      link: ""
+      label: ""
+    - q: 18
+      r: 19
+      hexType: jungle
+      link: ""
+      label: ""
+    - q: 18
+      r: 20
+      hexType: jungle
+      link: ""
+      label: ""
+    - q: 18
+      r: 21
+      hexType: jungle
+      link: ""
+      label: ""
+    - q: 18
+      r: 22
+      hexType: jungle
+      link: ""
+      label: ""
+    - q: 18
+      r: 23
+      hexType: jungle
+      link: ""
+      label: ""
+    - q: 18
       r: 24
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 16
-      r: 25
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 16
-      r: 26
-      hexType: ocean
-      link: ""
-      label: ""
-    - q: 16
-      r: 27
-      hexType: ocean
-      link: ""
-      label: ""
-    - q: 16
-      r: 28
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 16
-      r: 29
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 17
-      r: 0
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 17
-      r: 1
-      hexType: jungle
-      link: ""
-      label: ""
-    - q: 17
-      r: 2
-      hexType: jungle
-      link: ""
-      label: ""
-    - q: 17
-      r: 3
-      hexType: jungle
-      link: ""
-      label: ""
-    - q: 17
-      r: 4
-      hexType: jungle
-      link: ""
-      label: ""
-    - q: 17
-      r: 5
-      hexType: jungle
-      link: ""
-      label: ""
-    - q: 17
-      r: 6
-      hexType: jungle
-      link: ""
-      label: ""
-    - q: 17
-      r: 7
-      hexType: jungle
-      link: ""
-      label: ""
-    - q: 17
-      r: 8
-      hexType: jungle
-      link: ""
-      label: ""
-    - q: 17
-      r: 9
-      hexType: jungle
-      link: ""
-      label: ""
-    - q: 17
-      r: 10
       hexType: plains
       link: ""
       label: ""
-    - q: 17
-      r: 11
+    - q: 18
+      r: 25
       hexType: plains
       link: "[[Ardsey]]"
       label: Ardsey
-    - q: 17
-      r: 12
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 17
-      r: 13
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 17
-      r: 14
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 17
-      r: 15
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 17
-      r: 16
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 17
-      r: 17
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 17
-      r: 18
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 17
-      r: 19
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 17
-      r: 20
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 17
-      r: 21
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 17
-      r: 22
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 17
-      r: 23
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 17
-      r: 24
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 17
-      r: 25
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 17
+    - q: 18
       r: 26
-      hexType: ocean
+      hexType: sea
       link: ""
       label: ""
-    - q: 17
+    - q: 18
       r: 27
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 18
+      r: 28
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 18
+      r: 29
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 18
+      r: 30
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 18
+      r: 31
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 18
+      r: 32
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 18
+      r: 33
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 18
+      r: 34
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 18
+      r: 35
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 18
+      r: 36
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 18
+      r: 37
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 18
+      r: 38
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 18
+      r: 39
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 18
+      r: 40
       hexType: ocean
       link: ""
       label: ""
-    - q: 17
-      r: 28
+    - q: 18
+      r: 41
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 18
+      r: 42
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 17
-      r: 29
+    - q: 18
+      r: 43
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 18
-      r: 0
+    - q: 19
+      r: 14
       hexType: sea
       link: ""
       label: ""
-    - q: 18
-      r: 1
+    - q: 19
+      r: 15
       hexType: jungle
       link: ""
       label: ""
-    - q: 18
-      r: 2
+    - q: 19
+      r: 16
       hexType: jungle
       link: ""
       label: ""
-    - q: 18
-      r: 3
+    - q: 19
+      r: 17
       hexType: jungle
       link: ""
       label: ""
-    - q: 18
-      r: 4
+    - q: 19
+      r: 18
       hexType: jungle
       link: ""
       label: ""
-    - q: 18
-      r: 5
+    - q: 19
+      r: 19
       hexType: jungle
       link: ""
       label: ""
-    - q: 18
-      r: 6
+    - q: 19
+      r: 20
       hexType: jungle
       link: ""
       label: ""
-    - q: 18
-      r: 7
+    - q: 19
+      r: 21
       hexType: jungle
       link: ""
       label: ""
-    - q: 18
-      r: 8
+    - q: 19
+      r: 22
       hexType: jungle
       link: ""
       label: ""
-    - q: 18
-      r: 9
+    - q: 19
+      r: 23
       hexType: jungle
       link: ""
       label: ""
-    - q: 18
-      r: 10
+    - q: 19
+      r: 24
       hexType: plains
       link: ""
       label: ""
-    - q: 18
-      r: 11
+    - q: 19
+      r: 25
       hexType: plains
       link: ""
       label: ""
-    - q: 18
-      r: 12
+    - q: 19
+      r: 26
       hexType: sea
       link: ""
       label: ""
-    - q: 18
-      r: 13
+    - q: 19
+      r: 27
       hexType: plains
       link: "[[Roseport]]"
       label: Roseport
-    - q: 18
-      r: 14
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 18
-      r: 15
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 18
-      r: 16
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 18
-      r: 17
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 18
-      r: 18
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 18
-      r: 19
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 18
-      r: 20
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 18
-      r: 21
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 18
-      r: 22
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 18
-      r: 23
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 18
-      r: 24
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 18
-      r: 25
-      hexType: ocean
-      link: ""
-      label: ""
-    - q: 18
-      r: 26
-      hexType: ocean
-      link: ""
-      label: ""
-    - q: 18
-      r: 27
-      hexType: ocean
-      link: ""
-      label: ""
-    - q: 18
+    - q: 19
       r: 28
-      hexType: deep-ocean
+      hexType: plains
       link: ""
       label: ""
-    - q: 18
+    - q: 19
       r: 29
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 19
+      r: 30
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 19
+      r: 31
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 19
+      r: 32
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 19
+      r: 33
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 19
+      r: 34
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 19
+      r: 35
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 19
+      r: 36
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 19
+      r: 37
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 19
+      r: 38
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 19
+      r: 39
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 19
+      r: 40
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 19
+      r: 41
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 19
+      r: 42
       hexType: deep-ocean
       link: ""
       label: ""
     - q: 19
-      r: 0
-      hexType: sea
+      r: 43
+      hexType: deep-ocean
       link: ""
       label: ""
-    - q: 19
-      r: 1
-      hexType: jungle
-      link: ""
-      label: ""
-    - q: 19
-      r: 2
-      hexType: jungle
-      link: ""
-      label: ""
-    - q: 19
-      r: 3
-      hexType: rainforest
-      link: ""
-      label: ""
-    - q: 19
-      r: 4
-      hexType: rainforest
-      link: ""
-      label: ""
-    - q: 19
-      r: 5
-      hexType: rainforest
-      link: ""
-      label: ""
-    - q: 19
-      r: 6
-      hexType: jungle
-      link: ""
-      label: ""
-    - q: 19
-      r: 7
-      hexType: jungle
-      link: ""
-      label: ""
-    - q: 19
-      r: 8
-      hexType: jungle
-      link: ""
-      label: ""
-    - q: 19
-      r: 9
-      hexType: jungle
-      link: ""
-      label: ""
-    - q: 19
-      r: 10
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 19
-      r: 11
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 19
-      r: 12
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 19
-      r: 13
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 19
+    - q: 20
       r: 14
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 20
+      r: 15
+      hexType: jungle
+      link: ""
+      label: ""
+    - q: 20
+      r: 16
+      hexType: jungle
+      link: ""
+      label: ""
+    - q: 20
+      r: 17
+      hexType: rainforest
+      link: ""
+      label: ""
+    - q: 20
+      r: 18
+      hexType: rainforest
+      link: ""
+      label: ""
+    - q: 20
+      r: 19
+      hexType: rainforest
+      link: ""
+      label: ""
+    - q: 20
+      r: 20
+      hexType: jungle
+      link: ""
+      label: ""
+    - q: 20
+      r: 21
+      hexType: jungle
+      link: ""
+      label: ""
+    - q: 20
+      r: 22
+      hexType: jungle
+      link: ""
+      label: ""
+    - q: 20
+      r: 23
+      hexType: jungle
+      link: ""
+      label: ""
+    - q: 20
+      r: 24
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 20
+      r: 25
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 20
+      r: 26
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 20
+      r: 27
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 20
+      r: 28
       hexType: plains
       link: "[[Pinapota]]"
       label: Pinapota
-    - q: 19
-      r: 15
+    - q: 20
+      r: 29
       hexType: plains
       link: ""
       label: ""
-    - q: 19
-      r: 16
+    - q: 20
+      r: 30
       hexType: plains
       link: ""
       label: ""
-    - q: 19
-      r: 17
+    - q: 20
+      r: 31
       hexType: sea
       link: ""
       label: ""
-    - q: 19
-      r: 18
+    - q: 20
+      r: 32
       hexType: sea
       link: ""
       label: ""
-    - q: 19
-      r: 19
+    - q: 20
+      r: 33
       hexType: sea
       link: ""
       label: ""
-    - q: 19
-      r: 20
+    - q: 20
+      r: 34
       hexType: plains
       link: "[[Norleigh]]"
       label: Norleigh
-    - q: 19
-      r: 21
+    - q: 20
+      r: 35
       hexType: sea
       link: ""
       label: ""
-    - q: 19
-      r: 22
+    - q: 20
+      r: 36
       hexType: sea
       link: ""
       label: ""
-    - q: 19
-      r: 23
+    - q: 20
+      r: 37
       hexType: sea
       link: ""
       label: ""
-    - q: 19
-      r: 24
+    - q: 20
+      r: 38
       hexType: sea
       link: ""
       label: ""
-    - q: 19
-      r: 25
+    - q: 20
+      r: 39
       hexType: sea
       link: ""
       label: ""
-    - q: 19
-      r: 26
+    - q: 20
+      r: 40
       hexType: ocean
       link: ""
       label: ""
-    - q: 19
-      r: 27
+    - q: 20
+      r: 41
       hexType: ocean
       link: ""
       label: ""
-    - q: 19
-      r: 28
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 19
-      r: 29
+    - q: 20
+      r: 42
       hexType: deep-ocean
       link: ""
       label: ""
     - q: 20
-      r: 0
+      r: 43
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 21
+      r: 14
       hexType: sea
       link: ""
       label: ""
-    - q: 20
-      r: 1
+    - q: 21
+      r: 15
       hexType: jungle
       link: ""
       label: ""
-    - q: 20
-      r: 2
+    - q: 21
+      r: 16
       hexType: jungle
       link: ""
       label: ""
-    - q: 20
-      r: 3
+    - q: 21
+      r: 17
       hexType: rainforest
       link: ""
       label: ""
-    - q: 20
-      r: 4
+    - q: 21
+      r: 18
       hexType: rainforest
       link: "[[Haven]]"
       label: Haven
-    - q: 20
-      r: 5
-      hexType: rainforest
-      link: ""
-      label: ""
-    - q: 20
-      r: 6
-      hexType: rainforest
-      link: ""
-      label: ""
-    - q: 20
-      r: 7
-      hexType: jungle
-      link: ""
-      label: ""
-    - q: 20
-      r: 8
-      hexType: jungle
-      link: ""
-      label: ""
-    - q: 20
-      r: 9
-      hexType: jungle
-      link: ""
-      label: ""
-    - q: 20
-      r: 10
-      hexType: jungle
-      link: ""
-      label: ""
-    - q: 20
-      r: 11
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 20
-      r: 12
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 20
-      r: 13
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 20
-      r: 14
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 20
-      r: 15
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 20
-      r: 16
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 20
-      r: 17
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 20
-      r: 18
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 20
-      r: 19
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 20
-      r: 20
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 20
-      r: 21
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 20
-      r: 22
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 20
-      r: 23
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 20
-      r: 24
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 20
-      r: 25
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 20
-      r: 26
-      hexType: ocean
-      link: ""
-      label: ""
-    - q: 20
-      r: 27
-      hexType: ocean
-      link: ""
-      label: ""
-    - q: 20
-      r: 28
-      hexType: ocean
-      link: ""
-      label: ""
-    - q: 20
-      r: 29
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 21
-      r: 0
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 21
-      r: 1
-      hexType: mountain
-      link: ""
-      label: ""
-    - q: 21
-      r: 2
-      hexType: jungle
-      link: ""
-      label: ""
-    - q: 21
-      r: 3
-      hexType: jungle
-      link: ""
-      label: ""
-    - q: 21
-      r: 4
-      hexType: rainforest
-      link: ""
-      label: ""
-    - q: 21
-      r: 5
-      hexType: jungle
-      link: ""
-      label: ""
-    - q: 21
-      r: 6
-      hexType: jungle
-      link: ""
-      label: ""
-    - q: 21
-      r: 7
-      hexType: jungle
-      link: ""
-      label: ""
-    - q: 21
-      r: 8
-      hexType: jungle
-      link: ""
-      label: ""
-    - q: 21
-      r: 9
-      hexType: jungle
-      link: ""
-      label: ""
-    - q: 21
-      r: 10
-      hexType: jungle
-      link: ""
-      label: ""
-    - q: 21
-      r: 11
-      hexType: jungle
-      link: ""
-      label: ""
-    - q: 21
-      r: 12
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 21
-      r: 13
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 21
-      r: 14
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 21
-      r: 15
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 21
-      r: 16
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 21
-      r: 17
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 21
-      r: 18
-      hexType: sea
-      link: ""
-      label: ""
     - q: 21
       r: 19
-      hexType: plains
+      hexType: rainforest
       link: ""
       label: ""
     - q: 21
       r: 20
-      hexType: plains
+      hexType: rainforest
       link: ""
       label: ""
     - q: 21
       r: 21
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 21
       r: 22
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 21
       r: 23
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 21
       r: 24
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 21
@@ -3303,87 +3083,87 @@ hexmap:
       label: ""
     - q: 21
       r: 27
-      hexType: ocean
+      hexType: sea
       link: ""
       label: ""
     - q: 21
       r: 28
-      hexType: ocean
+      hexType: plains
       link: ""
       label: ""
     - q: 21
       r: 29
-      hexType: deep-ocean
+      hexType: plains
       link: ""
       label: ""
-    - q: 22
-      r: 0
+    - q: 21
+      r: 30
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 21
+      r: 31
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 21
+      r: 32
       hexType: sea
       link: ""
       label: ""
-    - q: 22
-      r: 1
-      hexType: mountain
-      link: ""
-      label: ""
-    - q: 22
-      r: 2
-      hexType: mountain
-      link: ""
-      label: ""
-    - q: 22
-      r: 3
-      hexType: mountain
-      link: ""
-      label: ""
-    - q: 22
-      r: 4
-      hexType: jungle
-      link: ""
-      label: ""
-    - q: 22
-      r: 5
-      hexType: mountain
-      link: ""
-      label: ""
-    - q: 22
-      r: 6
-      hexType: jungle
-      link: ""
-      label: ""
-    - q: 22
-      r: 7
-      hexType: jungle
-      link: ""
-      label: ""
-    - q: 22
-      r: 8
-      hexType: jungle
-      link: ""
-      label: ""
-    - q: 22
-      r: 9
-      hexType: jungle
-      link: ""
-      label: ""
-    - q: 22
-      r: 10
-      hexType: jungle
-      link: ""
-      label: ""
-    - q: 22
-      r: 11
+    - q: 21
+      r: 33
       hexType: sea
       link: ""
       label: ""
-    - q: 22
-      r: 12
+    - q: 21
+      r: 34
       hexType: sea
       link: ""
       label: ""
-    - q: 22
-      r: 13
+    - q: 21
+      r: 35
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 21
+      r: 36
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 21
+      r: 37
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 21
+      r: 38
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 21
+      r: 39
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 21
+      r: 40
       hexType: ocean
+      link: ""
+      label: ""
+    - q: 21
+      r: 41
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 21
+      r: 42
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 21
+      r: 43
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 22
@@ -3393,57 +3173,57 @@ hexmap:
       label: ""
     - q: 22
       r: 15
-      hexType: sea
+      hexType: mountain
       link: ""
       label: ""
     - q: 22
       r: 16
-      hexType: sea
+      hexType: jungle
       link: ""
       label: ""
     - q: 22
       r: 17
-      hexType: sea
+      hexType: jungle
       link: ""
       label: ""
     - q: 22
       r: 18
-      hexType: sea
+      hexType: rainforest
       link: ""
       label: ""
     - q: 22
       r: 19
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 22
       r: 20
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 22
       r: 21
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 22
       r: 22
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 22
       r: 23
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 22
       r: 24
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 22
       r: 25
-      hexType: plains
+      hexType: jungle
       link: ""
       label: ""
     - q: 22
@@ -3453,309 +3233,309 @@ hexmap:
       label: ""
     - q: 22
       r: 27
-      hexType: ocean
+      hexType: sea
       link: ""
       label: ""
     - q: 22
       r: 28
-      hexType: ocean
+      hexType: plains
       link: ""
       label: ""
     - q: 22
       r: 29
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 22
+      r: 30
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 22
+      r: 31
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 22
+      r: 32
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 22
+      r: 33
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 22
+      r: 34
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 22
+      r: 35
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 22
+      r: 36
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 22
+      r: 37
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 22
+      r: 38
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 22
+      r: 39
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 22
+      r: 40
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 22
+      r: 41
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 22
+      r: 42
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 22
+      r: 43
       hexType: deep-ocean
       link: ""
       label: ""
     - q: 23
-      r: 0
+      r: 14
       hexType: sea
       link: ""
       label: ""
     - q: 23
-      r: 1
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 23
-      r: 2
+      r: 15
       hexType: mountain
       link: ""
       label: ""
     - q: 23
-      r: 3
+      r: 16
       hexType: mountain
       link: ""
       label: ""
     - q: 23
-      r: 4
+      r: 17
       hexType: mountain
       link: ""
       label: ""
     - q: 23
-      r: 5
-      hexType: mountain
-      link: ""
-      label: ""
-    - q: 23
-      r: 6
-      hexType: mountain
-      link: ""
-      label: ""
-    - q: 23
-      r: 7
-      hexType: mountain
-      link: ""
-      label: ""
-    - q: 23
-      r: 8
+      r: 18
       hexType: jungle
       link: ""
       label: ""
     - q: 23
-      r: 9
+      r: 19
+      hexType: mountain
+      link: ""
+      label: ""
+    - q: 23
+      r: 20
       hexType: jungle
       link: ""
       label: ""
     - q: 23
-      r: 10
+      r: 21
       hexType: jungle
       link: ""
       label: ""
     - q: 23
-      r: 11
+      r: 22
+      hexType: jungle
+      link: ""
+      label: ""
+    - q: 23
+      r: 23
+      hexType: jungle
+      link: ""
+      label: ""
+    - q: 23
+      r: 24
+      hexType: jungle
+      link: ""
+      label: ""
+    - q: 23
+      r: 25
       hexType: sea
       link: ""
       label: ""
     - q: 23
-      r: 12
+      r: 26
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 23
+      r: 27
       hexType: ocean
       link: ""
       label: ""
     - q: 23
-      r: 13
+      r: 28
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 23
+      r: 29
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 23
+      r: 30
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 23
+      r: 31
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 23
+      r: 32
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 23
+      r: 33
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 23
+      r: 34
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 23
+      r: 35
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 23
+      r: 36
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 23
+      r: 37
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 23
+      r: 38
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 23
+      r: 39
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 23
+      r: 40
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 23
+      r: 41
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 23
+      r: 42
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 23
+      r: 43
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 24
+      r: 14
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 24
+      r: 15
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 24
+      r: 16
+      hexType: mountain
+      link: ""
+      label: ""
+    - q: 24
+      r: 17
+      hexType: mountain
+      link: ""
+      label: ""
+    - q: 24
+      r: 18
+      hexType: mountain
+      link: ""
+      label: ""
+    - q: 24
+      r: 19
+      hexType: mountain
+      link: ""
+      label: ""
+    - q: 24
+      r: 20
+      hexType: mountain
+      link: ""
+      label: ""
+    - q: 24
+      r: 21
+      hexType: mountain
+      link: ""
+      label: ""
+    - q: 24
+      r: 22
+      hexType: jungle
+      link: ""
+      label: ""
+    - q: 24
+      r: 23
+      hexType: jungle
+      link: ""
+      label: ""
+    - q: 24
+      r: 24
+      hexType: jungle
+      link: ""
+      label: ""
+    - q: 24
+      r: 25
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 24
+      r: 26
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 24
+      r: 27
       hexType: ocean
       link: "[[The Stricken Sea]]"
       label: Stricken Sea
-    - q: 23
-      r: 14
-      hexType: ocean
-      link: ""
-      label: ""
-    - q: 23
-      r: 15
-      hexType: ocean
-      link: ""
-      label: ""
-    - q: 23
-      r: 16
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 23
-      r: 17
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 23
-      r: 18
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 23
-      r: 19
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 23
-      r: 20
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 23
-      r: 21
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 23
-      r: 22
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 23
-      r: 23
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 23
-      r: 24
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 23
-      r: 25
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 23
-      r: 26
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 23
-      r: 27
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 23
-      r: 28
-      hexType: ocean
-      link: ""
-      label: ""
-    - q: 23
-      r: 29
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 24
-      r: 0
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 24
-      r: 1
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 24
-      r: 2
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 24
-      r: 3
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 24
-      r: 4
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 24
-      r: 5
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 24
-      r: 6
-      hexType: mountain
-      link: ""
-      label: ""
-    - q: 24
-      r: 7
-      hexType: mountain
-      link: ""
-      label: ""
-    - q: 24
-      r: 8
-      hexType: forest
-      link: ""
-      label: ""
-    - q: 24
-      r: 9
-      hexType: forest
-      link: ""
-      label: ""
-    - q: 24
-      r: 10
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 24
-      r: 11
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 24
-      r: 12
-      hexType: ocean
-      link: ""
-      label: ""
-    - q: 24
-      r: 13
-      hexType: ocean
-      link: ""
-      label: ""
-    - q: 24
-      r: 14
-      hexType: ocean
-      link: ""
-      label: ""
-    - q: 24
-      r: 15
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 24
-      r: 16
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 24
-      r: 17
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 24
-      r: 18
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 24
-      r: 19
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 24
-      r: 20
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 24
-      r: 21
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 24
-      r: 22
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 24
-      r: 23
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 24
-      r: 24
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 24
-      r: 25
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 24
-      r: 26
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 24
-      r: 27
-      hexType: sea
-      link: ""
-      label: ""
     - q: 24
       r: 28
       hexType: ocean
@@ -3763,77 +3543,77 @@ hexmap:
       label: ""
     - q: 24
       r: 29
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 24
+      r: 30
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 24
+      r: 31
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 24
+      r: 32
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 24
+      r: 33
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 24
+      r: 34
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 24
+      r: 35
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 24
+      r: 36
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 24
+      r: 37
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 24
+      r: 38
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 24
+      r: 39
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 24
+      r: 40
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 24
+      r: 41
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 24
+      r: 42
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 24
+      r: 43
       hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 25
-      r: 0
-      hexType: ocean
-      link: ""
-      label: ""
-    - q: 25
-      r: 1
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 25
-      r: 2
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 25
-      r: 3
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 25
-      r: 4
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 25
-      r: 5
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 25
-      r: 6
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 25
-      r: 7
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 25
-      r: 8
-      hexType: forest
-      link: ""
-      label: ""
-    - q: 25
-      r: 9
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 25
-      r: 10
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 25
-      r: 11
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 25
-      r: 12
-      hexType: ocean
-      link: ""
-      label: ""
-    - q: 25
-      r: 13
-      hexType: sea
       link: ""
       label: ""
     - q: 25
@@ -3843,7 +3623,7 @@ hexmap:
       label: ""
     - q: 25
       r: 15
-      hexType: plains
+      hexType: sea
       link: ""
       label: ""
     - q: 25
@@ -3868,927 +3648,927 @@ hexmap:
       label: ""
     - q: 25
       r: 20
-      hexType: plains
+      hexType: mountain
       link: ""
       label: ""
     - q: 25
       r: 21
+      hexType: mountain
+      link: ""
+      label: ""
+    - q: 25
+      r: 22
+      hexType: forest
+      link: ""
+      label: ""
+    - q: 25
+      r: 23
+      hexType: forest
+      link: ""
+      label: ""
+    - q: 25
+      r: 24
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 25
+      r: 25
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 25
+      r: 26
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 25
+      r: 27
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 25
+      r: 28
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 25
+      r: 29
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 25
+      r: 30
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 25
+      r: 31
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 25
+      r: 32
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 25
+      r: 33
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 25
+      r: 34
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 25
+      r: 35
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 25
+      r: 36
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 25
+      r: 37
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 25
+      r: 38
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 25
+      r: 39
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 25
+      r: 40
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 25
+      r: 41
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 25
+      r: 42
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 25
+      r: 43
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 26
+      r: 14
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 26
+      r: 15
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 26
+      r: 16
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 26
+      r: 17
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 26
+      r: 18
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 26
+      r: 19
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 26
+      r: 20
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 26
+      r: 21
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 26
+      r: 22
+      hexType: forest
+      link: ""
+      label: ""
+    - q: 26
+      r: 23
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 26
+      r: 24
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 26
+      r: 25
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 26
+      r: 26
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 26
+      r: 27
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 26
+      r: 28
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 26
+      r: 29
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 26
+      r: 30
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 26
+      r: 31
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 26
+      r: 32
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 26
+      r: 33
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 26
+      r: 34
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 26
+      r: 35
       hexType: plains
       link: "[[Piltash]]"
       label: Piltash
-    - q: 25
-      r: 22
+    - q: 26
+      r: 36
       hexType: plains
       link: ""
       label: ""
-    - q: 25
-      r: 23
+    - q: 26
+      r: 37
       hexType: plains
       link: ""
       label: ""
-    - q: 25
-      r: 24
+    - q: 26
+      r: 38
       hexType: plains
       link: ""
       label: ""
-    - q: 25
-      r: 25
+    - q: 26
+      r: 39
       hexType: plains
       link: ""
       label: ""
-    - q: 25
-      r: 26
+    - q: 26
+      r: 40
       hexType: plains
       link: ""
       label: ""
-    - q: 25
-      r: 27
+    - q: 26
+      r: 41
       hexType: sea
       link: ""
       label: ""
-    - q: 25
-      r: 28
+    - q: 26
+      r: 42
       hexType: ocean
       link: ""
       label: ""
-    - q: 25
-      r: 29
+    - q: 26
+      r: 43
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 26
-      r: 0
-      hexType: ocean
-      link: ""
-      label: ""
-    - q: 26
-      r: 1
-      hexType: ocean
-      link: ""
-      label: ""
-    - q: 26
-      r: 2
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 26
-      r: 3
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 26
-      r: 4
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 26
-      r: 5
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 26
-      r: 6
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 26
-      r: 7
-      hexType: ocean
-      link: ""
-      label: ""
-    - q: 26
-      r: 8
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 26
-      r: 9
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 26
-      r: 10
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 26
-      r: 11
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 26
-      r: 12
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 26
-      r: 13
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 26
+    - q: 27
       r: 14
-      hexType: plains
+      hexType: ocean
       link: ""
       label: ""
-    - q: 26
+    - q: 27
       r: 15
-      hexType: plains
+      hexType: ocean
       link: ""
       label: ""
-    - q: 26
+    - q: 27
       r: 16
-      hexType: plains
+      hexType: sea
       link: ""
       label: ""
-    - q: 26
+    - q: 27
       r: 17
-      hexType: plains
+      hexType: sea
       link: ""
       label: ""
-    - q: 26
+    - q: 27
       r: 18
-      hexType: plains
+      hexType: sea
       link: ""
       label: ""
-    - q: 26
+    - q: 27
       r: 19
-      hexType: plains
+      hexType: sea
       link: ""
       label: ""
-    - q: 26
+    - q: 27
       r: 20
-      hexType: plains
+      hexType: sea
       link: ""
       label: ""
-    - q: 26
+    - q: 27
       r: 21
-      hexType: plains
+      hexType: ocean
       link: ""
       label: ""
-    - q: 26
+    - q: 27
       r: 22
-      hexType: plains
+      hexType: sea
       link: ""
       label: ""
-    - q: 26
+    - q: 27
       r: 23
-      hexType: plains
+      hexType: sea
       link: ""
       label: ""
-    - q: 26
+    - q: 27
       r: 24
-      hexType: plains
+      hexType: sea
       link: ""
       label: ""
-    - q: 26
+    - q: 27
       r: 25
-      hexType: plains
+      hexType: sea
       link: ""
       label: ""
-    - q: 26
+    - q: 27
       r: 26
       hexType: plains
       link: ""
       label: ""
-    - q: 26
+    - q: 27
       r: 27
-      hexType: sea
+      hexType: plains
       link: ""
       label: ""
-    - q: 26
+    - q: 27
       r: 28
-      hexType: ocean
+      hexType: plains
       link: ""
       label: ""
-    - q: 26
+    - q: 27
       r: 29
-      hexType: deep-ocean
+      hexType: plains
       link: ""
       label: ""
     - q: 27
-      r: 0
-      hexType: deep-ocean
+      r: 30
+      hexType: plains
       link: ""
       label: ""
     - q: 27
-      r: 1
-      hexType: deep-ocean
+      r: 31
+      hexType: plains
       link: ""
       label: ""
     - q: 27
-      r: 2
-      hexType: ocean
+      r: 32
+      hexType: plains
       link: ""
       label: ""
     - q: 27
-      r: 3
-      hexType: ocean
+      r: 33
+      hexType: plains
       link: ""
       label: ""
     - q: 27
-      r: 4
-      hexType: ocean
+      r: 34
+      hexType: plains
       link: ""
       label: ""
     - q: 27
-      r: 5
-      hexType: ocean
+      r: 35
+      hexType: plains
       link: ""
       label: ""
     - q: 27
-      r: 6
-      hexType: ocean
+      r: 36
+      hexType: plains
       link: ""
       label: ""
     - q: 27
-      r: 7
-      hexType: ocean
+      r: 37
+      hexType: plains
       link: ""
       label: ""
     - q: 27
-      r: 8
-      hexType: ocean
+      r: 38
+      hexType: plains
       link: ""
       label: ""
     - q: 27
-      r: 9
+      r: 39
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 27
+      r: 40
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 27
+      r: 41
       hexType: sea
       link: ""
       label: ""
     - q: 27
-      r: 10
-      hexType: sea
+      r: 42
+      hexType: ocean
       link: ""
       label: ""
     - q: 27
-      r: 11
+      r: 43
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 28
+      r: 14
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 28
+      r: 15
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 28
+      r: 16
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 28
+      r: 17
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 28
+      r: 18
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 28
+      r: 19
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 28
+      r: 20
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 28
+      r: 21
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 28
+      r: 22
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 28
+      r: 23
       hexType: sea
       link: ""
       label: ""
-    - q: 27
-      r: 12
+    - q: 28
+      r: 24
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 28
+      r: 25
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 28
+      r: 26
       hexType: plains
       link: "[[Andosea]]"
       label: Andosea
-    - q: 27
-      r: 13
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 27
-      r: 14
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 27
-      r: 15
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 27
-      r: 16
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 27
-      r: 17
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 27
-      r: 18
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 27
-      r: 19
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 27
-      r: 20
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 27
-      r: 21
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 27
-      r: 22
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 27
-      r: 23
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 27
-      r: 24
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 27
-      r: 25
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 27
-      r: 26
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 27
-      r: 27
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 27
-      r: 28
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 27
-      r: 29
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 28
-      r: 0
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 28
-      r: 1
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 28
-      r: 2
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 28
-      r: 3
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 28
-      r: 4
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 28
-      r: 5
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 28
-      r: 6
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 28
-      r: 7
-      hexType: ocean
-      link: ""
-      label: ""
-    - q: 28
-      r: 8
-      hexType: ocean
-      link: ""
-      label: ""
-    - q: 28
-      r: 9
-      hexType: ocean
-      link: ""
-      label: ""
-    - q: 28
-      r: 10
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 28
-      r: 11
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 28
-      r: 12
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 28
-      r: 13
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 28
-      r: 14
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 28
-      r: 15
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 28
-      r: 16
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 28
-      r: 17
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 28
-      r: 18
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 28
-      r: 19
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 28
-      r: 20
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 28
-      r: 21
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 28
-      r: 22
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 28
-      r: 23
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 28
-      r: 24
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 28
-      r: 25
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 28
-      r: 26
-      hexType: sea
-      link: ""
-      label: ""
     - q: 28
       r: 27
-      hexType: ocean
+      hexType: plains
       link: ""
       label: ""
     - q: 28
       r: 28
-      hexType: deep-ocean
+      hexType: plains
       link: ""
       label: ""
     - q: 28
       r: 29
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 29
-      r: 0
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 29
-      r: 1
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 29
-      r: 2
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 29
-      r: 3
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 29
-      r: 4
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 29
-      r: 5
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 29
-      r: 6
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 29
-      r: 7
-      hexType: ocean
-      link: ""
-      label: ""
-    - q: 29
-      r: 8
-      hexType: ocean
-      link: ""
-      label: ""
-    - q: 29
-      r: 9
-      hexType: ocean
-      link: ""
-      label: ""
-    - q: 29
-      r: 10
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 29
-      r: 11
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 29
-      r: 12
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 29
-      r: 13
       hexType: plains
+      link: ""
+      label: ""
+    - q: 28
+      r: 30
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 28
+      r: 31
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 28
+      r: 32
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 28
+      r: 33
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 28
+      r: 34
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 28
+      r: 35
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 28
+      r: 36
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 28
+      r: 37
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 28
+      r: 38
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 28
+      r: 39
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 28
+      r: 40
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 28
+      r: 41
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 28
+      r: 42
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 28
+      r: 43
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 29
       r: 14
-      hexType: plains
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 29
       r: 15
-      hexType: plains
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 29
       r: 16
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 29
+      r: 17
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 29
+      r: 18
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 29
+      r: 19
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 29
+      r: 20
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 29
+      r: 21
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 29
+      r: 22
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 29
+      r: 23
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 29
+      r: 24
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 29
+      r: 25
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 29
+      r: 26
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 29
+      r: 27
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 29
+      r: 28
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 29
+      r: 29
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 29
+      r: 30
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 29
+      r: 31
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 29
+      r: 32
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 29
+      r: 33
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 29
+      r: 34
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 29
+      r: 35
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 29
+      r: 36
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 29
+      r: 37
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 29
+      r: 38
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 29
+      r: 39
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 29
+      r: 40
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 29
+      r: 41
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 29
+      r: 42
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 29
+      r: 43
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 30
+      r: 14
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 30
+      r: 15
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 30
+      r: 16
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 30
+      r: 17
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 30
+      r: 18
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 30
+      r: 19
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 30
+      r: 20
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 30
+      r: 21
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 30
+      r: 22
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 30
+      r: 23
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 30
+      r: 24
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 30
+      r: 25
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 30
+      r: 26
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 30
+      r: 27
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 30
+      r: 28
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 30
+      r: 29
+      hexType: plains
+      link: ""
+      label: ""
+    - q: 30
+      r: 30
       hexType: plains
       link: "[[Veskas]]"
       label: Veskas
-    - q: 29
-      r: 17
+    - q: 30
+      r: 31
       hexType: plains
       link: ""
       label: ""
-    - q: 29
-      r: 18
+    - q: 30
+      r: 32
       hexType: plains
       link: ""
       label: ""
-    - q: 29
-      r: 19
+    - q: 30
+      r: 33
       hexType: plains
       link: ""
       label: ""
-    - q: 29
-      r: 20
+    - q: 30
+      r: 34
       hexType: plains
       link: ""
       label: ""
-    - q: 29
-      r: 21
+    - q: 30
+      r: 35
       hexType: plains
       link: ""
       label: ""
-    - q: 29
-      r: 22
+    - q: 30
+      r: 36
       hexType: plains
       link: ""
       label: ""
-    - q: 29
-      r: 23
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 29
-      r: 24
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 29
-      r: 25
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 29
-      r: 26
-      hexType: sea
-      link: ""
-      label: ""
-    - q: 29
-      r: 27
-      hexType: ocean
-      link: ""
-      label: ""
-    - q: 29
-      r: 28
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 29
-      r: 29
-      hexType: deep-ocean
-      link: ""
-      label: ""
     - q: 30
-      r: 0
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 30
-      r: 1
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 30
-      r: 2
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 30
-      r: 3
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 30
-      r: 4
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 30
-      r: 5
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 30
-      r: 6
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 30
-      r: 7
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 30
-      r: 8
-      hexType: ocean
-      link: ""
-      label: ""
-    - q: 30
-      r: 9
-      hexType: ocean
-      link: ""
-      label: ""
-    - q: 30
-      r: 10
-      hexType: ocean
-      link: ""
-      label: ""
-    - q: 30
-      r: 11
-      hexType: ocean
-      link: ""
-      label: ""
-    - q: 30
-      r: 12
+      r: 37
       hexType: sea
       link: ""
       label: ""
     - q: 30
-      r: 13
+      r: 38
       hexType: sea
       link: ""
       label: ""
     - q: 30
-      r: 14
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 30
-      r: 15
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 30
-      r: 16
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 30
-      r: 17
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 30
-      r: 18
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 30
-      r: 19
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 30
-      r: 20
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 30
-      r: 21
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 30
-      r: 22
-      hexType: plains
-      link: ""
-      label: ""
-    - q: 30
-      r: 23
+      r: 39
       hexType: sea
       link: ""
       label: ""
     - q: 30
-      r: 24
+      r: 40
       hexType: sea
       link: ""
       label: ""
     - q: 30
-      r: 25
+      r: 41
       hexType: ocean
       link: ""
       label: ""
     - q: 30
-      r: 26
-      hexType: ocean
-      link: ""
-      label: ""
-    - q: 30
-      r: 27
+      r: 42
       hexType: deep-ocean
       link: ""
       label: ""
     - q: 30
-      r: 28
+      r: 43
       hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 30
-      r: 29
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 31
-      r: 0
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 31
-      r: 1
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 31
-      r: 2
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 31
-      r: 3
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 31
-      r: 4
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 31
-      r: 5
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 31
-      r: 6
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 31
-      r: 7
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 31
-      r: 8
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 31
-      r: 9
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 31
-      r: 10
-      hexType: ocean
-      link: ""
-      label: ""
-    - q: 31
-      r: 11
-      hexType: ocean
-      link: ""
-      label: ""
-    - q: 31
-      r: 12
-      hexType: ocean
-      link: ""
-      label: ""
-    - q: 31
-      r: 13
-      hexType: sea
       link: ""
       label: ""
     - q: 31
       r: 14
-      hexType: sea
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 31
       r: 15
-      hexType: plains
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 31
       r: 16
-      hexType: plains
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 31
       r: 17
-      hexType: plains
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 31
       r: 18
-      hexType: plains
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 31
       r: 19
-      hexType: sea
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 31
       r: 20
-      hexType: plains
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 31
       r: 21
-      hexType: plains
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 31
       r: 22
-      hexType: plains
+      hexType: ocean
       link: ""
       label: ""
     - q: 31
       r: 23
-      hexType: sea
+      hexType: ocean
       link: ""
       label: ""
     - q: 31
       r: 24
-      hexType: sea
+      hexType: ocean
       link: ""
       label: ""
     - q: 31
@@ -4798,147 +4578,147 @@ hexmap:
       label: ""
     - q: 31
       r: 26
-      hexType: ocean
+      hexType: sea
       link: ""
       label: ""
     - q: 31
       r: 27
-      hexType: deep-ocean
+      hexType: sea
       link: ""
       label: ""
     - q: 31
       r: 28
-      hexType: deep-ocean
+      hexType: plains
       link: ""
       label: ""
     - q: 31
       r: 29
-      hexType: deep-ocean
+      hexType: plains
       link: ""
       label: ""
-    - q: 32
-      r: 0
-      hexType: deep-ocean
+    - q: 31
+      r: 30
+      hexType: plains
       link: ""
       label: ""
-    - q: 32
-      r: 1
-      hexType: deep-ocean
+    - q: 31
+      r: 31
+      hexType: plains
       link: ""
       label: ""
-    - q: 32
-      r: 2
-      hexType: deep-ocean
+    - q: 31
+      r: 32
+      hexType: plains
       link: ""
       label: ""
-    - q: 32
-      r: 3
-      hexType: deep-ocean
+    - q: 31
+      r: 33
+      hexType: plains
       link: ""
       label: ""
-    - q: 32
-      r: 4
-      hexType: deep-ocean
+    - q: 31
+      r: 34
+      hexType: plains
       link: ""
       label: ""
-    - q: 32
-      r: 5
-      hexType: deep-ocean
+    - q: 31
+      r: 35
+      hexType: plains
       link: ""
       label: ""
-    - q: 32
-      r: 6
-      hexType: deep-ocean
+    - q: 31
+      r: 36
+      hexType: plains
       link: ""
       label: ""
-    - q: 32
-      r: 7
-      hexType: deep-ocean
+    - q: 31
+      r: 37
+      hexType: sea
       link: ""
       label: ""
-    - q: 32
-      r: 8
-      hexType: deep-ocean
+    - q: 31
+      r: 38
+      hexType: sea
       link: ""
       label: ""
-    - q: 32
-      r: 9
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 32
-      r: 10
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 32
-      r: 11
+    - q: 31
+      r: 39
       hexType: ocean
       link: ""
       label: ""
-    - q: 32
-      r: 12
+    - q: 31
+      r: 40
       hexType: ocean
       link: ""
       label: ""
-    - q: 32
-      r: 13
-      hexType: ocean
+    - q: 31
+      r: 41
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 31
+      r: 42
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 31
+      r: 43
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 32
       r: 14
-      hexType: sea
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 32
       r: 15
-      hexType: sea
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 32
       r: 16
-      hexType: sea
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 32
       r: 17
-      hexType: sea
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 32
       r: 18
-      hexType: sea
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 32
       r: 19
-      hexType: sea
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 32
       r: 20
-      hexType: sea
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 32
       r: 21
-      hexType: sea
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 32
       r: 22
-      hexType: sea
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 32
       r: 23
-      hexType: sea
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 32
       r: 24
-      hexType: sea
+      hexType: ocean
       link: ""
       label: ""
     - q: 32
@@ -4953,142 +4733,142 @@ hexmap:
       label: ""
     - q: 32
       r: 27
-      hexType: deep-ocean
+      hexType: sea
       link: ""
       label: ""
     - q: 32
       r: 28
-      hexType: deep-ocean
+      hexType: sea
       link: ""
       label: ""
     - q: 32
       r: 29
-      hexType: deep-ocean
+      hexType: plains
       link: ""
       label: ""
-    - q: 33
-      r: 0
-      hexType: deep-ocean
+    - q: 32
+      r: 30
+      hexType: plains
       link: ""
       label: ""
-    - q: 33
-      r: 1
-      hexType: deep-ocean
+    - q: 32
+      r: 31
+      hexType: plains
       link: ""
       label: ""
-    - q: 33
-      r: 2
-      hexType: deep-ocean
+    - q: 32
+      r: 32
+      hexType: plains
       link: ""
       label: ""
-    - q: 33
-      r: 3
-      hexType: deep-ocean
+    - q: 32
+      r: 33
+      hexType: sea
       link: ""
       label: ""
-    - q: 33
-      r: 4
-      hexType: deep-ocean
+    - q: 32
+      r: 34
+      hexType: plains
       link: ""
       label: ""
-    - q: 33
-      r: 5
-      hexType: deep-ocean
+    - q: 32
+      r: 35
+      hexType: plains
       link: ""
       label: ""
-    - q: 33
-      r: 6
-      hexType: deep-ocean
+    - q: 32
+      r: 36
+      hexType: plains
       link: ""
       label: ""
-    - q: 33
-      r: 7
-      hexType: deep-ocean
+    - q: 32
+      r: 37
+      hexType: sea
       link: ""
       label: ""
-    - q: 33
-      r: 8
-      hexType: deep-ocean
+    - q: 32
+      r: 38
+      hexType: sea
       link: ""
       label: ""
-    - q: 33
-      r: 9
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 33
-      r: 10
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 33
-      r: 11
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 33
-      r: 12
+    - q: 32
+      r: 39
       hexType: ocean
       link: ""
       label: ""
-    - q: 33
-      r: 13
+    - q: 32
+      r: 40
       hexType: ocean
+      link: ""
+      label: ""
+    - q: 32
+      r: 41
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 32
+      r: 42
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 32
+      r: 43
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 33
       r: 14
-      hexType: ocean
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 33
       r: 15
-      hexType: ocean
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 33
       r: 16
-      hexType: sea
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 33
       r: 17
-      hexType: ocean
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 33
       r: 18
-      hexType: sea
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 33
       r: 19
-      hexType: ocean
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 33
       r: 20
-      hexType: sea
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 33
       r: 21
-      hexType: ocean
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 33
       r: 22
-      hexType: sea
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 33
       r: 23
-      hexType: ocean
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 33
       r: 24
-      hexType: ocean
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 33
@@ -5098,147 +4878,147 @@ hexmap:
       label: ""
     - q: 33
       r: 26
-      hexType: deep-ocean
+      hexType: ocean
       link: ""
       label: ""
     - q: 33
       r: 27
-      hexType: deep-ocean
+      hexType: ocean
       link: ""
       label: ""
     - q: 33
       r: 28
-      hexType: deep-ocean
+      hexType: sea
       link: ""
       label: ""
     - q: 33
       r: 29
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 33
+      r: 30
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 33
+      r: 31
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 33
+      r: 32
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 33
+      r: 33
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 33
+      r: 34
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 33
+      r: 35
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 33
+      r: 36
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 33
+      r: 37
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 33
+      r: 38
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 33
+      r: 39
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 33
+      r: 40
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 33
+      r: 41
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 34
-      r: 0
+    - q: 33
+      r: 42
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 34
-      r: 1
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 34
-      r: 2
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 34
-      r: 3
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 34
-      r: 4
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 34
-      r: 5
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 34
-      r: 6
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 34
-      r: 7
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 34
-      r: 8
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 34
-      r: 9
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 34
-      r: 10
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 34
-      r: 11
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 34
-      r: 12
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 34
-      r: 13
+    - q: 33
+      r: 43
       hexType: deep-ocean
       link: ""
       label: ""
     - q: 34
       r: 14
-      hexType: ocean
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 34
       r: 15
-      hexType: ocean
-      link: ""
-      label: ""
+      hexType: grassland
+      link: "[[Tenor]]"
+      label: Tenor
     - q: 34
       r: 16
-      hexType: ocean
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 34
       r: 17
-      hexType: ocean
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 34
       r: 18
-      hexType: ocean
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 34
       r: 19
-      hexType: ocean
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 34
       r: 20
-      hexType: ocean
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 34
       r: 21
-      hexType: ocean
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 34
       r: 22
-      hexType: ocean
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 34
       r: 23
-      hexType: ocean
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 34
       r: 24
-      hexType: ocean
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 34
@@ -5248,99 +5028,99 @@ hexmap:
       label: ""
     - q: 34
       r: 26
-      hexType: deep-ocean
+      hexType: ocean
       link: ""
       label: ""
     - q: 34
       r: 27
-      hexType: deep-ocean
+      hexType: ocean
       link: ""
       label: ""
     - q: 34
       r: 28
-      hexType: deep-ocean
+      hexType: ocean
       link: ""
       label: ""
     - q: 34
       r: 29
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 34
+      r: 30
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 34
+      r: 31
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 34
+      r: 32
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 34
+      r: 33
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 34
+      r: 34
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 34
+      r: 35
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 34
+      r: 36
+      hexType: sea
+      link: ""
+      label: ""
+    - q: 34
+      r: 37
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 34
+      r: 38
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 34
+      r: 39
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 34
+      r: 40
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 35
-      r: 0
+    - q: 34
+      r: 41
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 35
-      r: 1
+    - q: 34
+      r: 42
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 35
-      r: 2
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 35
-      r: 3
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 35
-      r: 4
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 35
-      r: 5
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 35
-      r: 6
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 35
-      r: 7
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 35
-      r: 8
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 35
-      r: 9
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 35
-      r: 10
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 35
-      r: 11
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 35
-      r: 12
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 35
-      r: 13
+    - q: 34
+      r: 43
       hexType: deep-ocean
       link: ""
       label: ""
     - q: 35
       r: 14
-      hexType: deep-ocean
-      link: ""
-      label: ""
+      hexType: grassland
+      link: "[[Stanston]]"
+      label: Stanston
     - q: 35
       r: 15
       hexType: deep-ocean
@@ -5368,7 +5148,7 @@ hexmap:
       label: ""
     - q: 35
       r: 20
-      hexType: ocean
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 35
@@ -5378,7 +5158,7 @@ hexmap:
       label: ""
     - q: 35
       r: 22
-      hexType: ocean
+      hexType: deep-ocean
       link: ""
       label: ""
     - q: 35
@@ -5408,92 +5188,92 @@ hexmap:
       label: ""
     - q: 35
       r: 28
-      hexType: deep-ocean
+      hexType: ocean
       link: ""
       label: ""
     - q: 35
       r: 29
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 35
+      r: 30
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 35
+      r: 31
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 35
+      r: 32
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 35
+      r: 33
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 35
+      r: 34
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 35
+      r: 35
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 35
+      r: 36
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 35
+      r: 37
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 35
+      r: 38
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 35
+      r: 39
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 36
-      r: 0
+    - q: 35
+      r: 40
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 36
-      r: 1
+    - q: 35
+      r: 41
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 36
-      r: 2
+    - q: 35
+      r: 42
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 36
-      r: 3
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 36
-      r: 4
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 36
-      r: 5
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 36
-      r: 6
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 36
-      r: 7
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 36
-      r: 8
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 36
-      r: 9
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 36
-      r: 10
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 36
-      r: 11
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 36
-      r: 12
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 36
-      r: 13
+    - q: 35
+      r: 43
       hexType: deep-ocean
       link: ""
       label: ""
     - q: 36
       r: 14
-      hexType: deep-ocean
+      hexType: grassland
       link: ""
       label: ""
     - q: 36
       r: 15
-      hexType: deep-ocean
+      hexType: grassland
       link: ""
       label: ""
     - q: 36
@@ -5566,73 +5346,73 @@ hexmap:
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 37
-      r: 0
+    - q: 36
+      r: 30
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 37
-      r: 1
+    - q: 36
+      r: 31
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 37
-      r: 2
+    - q: 36
+      r: 32
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 37
-      r: 3
+    - q: 36
+      r: 33
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 37
-      r: 4
+    - q: 36
+      r: 34
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 36
+      r: 35
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 37
-      r: 5
+    - q: 36
+      r: 36
+      hexType: ocean
+      link: ""
+      label: ""
+    - q: 36
+      r: 37
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 37
-      r: 6
+    - q: 36
+      r: 38
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 37
-      r: 7
+    - q: 36
+      r: 39
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 37
-      r: 8
+    - q: 36
+      r: 40
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 37
-      r: 9
+    - q: 36
+      r: 41
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 37
-      r: 10
+    - q: 36
+      r: 42
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 37
-      r: 11
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 37
-      r: 12
-      hexType: deep-ocean
-      link: ""
-      label: ""
-    - q: 37
-      r: 13
+    - q: 36
+      r: 43
       hexType: deep-ocean
       link: ""
       label: ""
@@ -5648,7 +5428,7 @@ hexmap:
       label: ""
     - q: 37
       r: 16
-      hexType: deep-ocean
+      hexType: grassland
       link: ""
       label: ""
     - q: 37
@@ -5716,73 +5496,73 @@ hexmap:
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 38
-      r: 0
+    - q: 37
+      r: 30
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 38
-      r: 1
+    - q: 37
+      r: 31
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 38
-      r: 2
+    - q: 37
+      r: 32
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 38
-      r: 3
+    - q: 37
+      r: 33
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 38
-      r: 4
+    - q: 37
+      r: 34
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 38
-      r: 5
+    - q: 37
+      r: 35
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 38
-      r: 6
+    - q: 37
+      r: 36
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 38
-      r: 7
+    - q: 37
+      r: 37
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 38
-      r: 8
+    - q: 37
+      r: 38
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 38
-      r: 9
+    - q: 37
+      r: 39
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 38
-      r: 10
+    - q: 37
+      r: 40
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 38
-      r: 11
+    - q: 37
+      r: 41
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 38
-      r: 12
+    - q: 37
+      r: 42
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 38
-      r: 13
+    - q: 37
+      r: 43
       hexType: deep-ocean
       link: ""
       label: ""
@@ -5866,94 +5646,94 @@ hexmap:
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 39
-      r: 0
+    - q: 38
+      r: 30
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 39
-      r: 1
+    - q: 38
+      r: 31
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 39
-      r: 2
+    - q: 38
+      r: 32
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 39
-      r: 3
+    - q: 38
+      r: 33
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 39
-      r: 4
+    - q: 38
+      r: 34
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 39
-      r: 5
+    - q: 38
+      r: 35
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 39
-      r: 6
+    - q: 38
+      r: 36
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 39
-      r: 7
+    - q: 38
+      r: 37
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 39
-      r: 8
+    - q: 38
+      r: 38
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 39
-      r: 9
+    - q: 38
+      r: 39
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 39
-      r: 10
+    - q: 38
+      r: 40
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 39
-      r: 11
+    - q: 38
+      r: 41
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 39
-      r: 12
+    - q: 38
+      r: 42
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 39
-      r: 13
+    - q: 38
+      r: 43
       hexType: deep-ocean
       link: ""
       label: ""
     - q: 39
       r: 14
-      hexType: deep-ocean
+      hexType: grassland
       link: ""
       label: ""
     - q: 39
       r: 15
-      hexType: deep-ocean
+      hexType: grassland
       link: ""
       label: ""
     - q: 39
       r: 16
-      hexType: deep-ocean
+      hexType: grassland
       link: ""
       label: ""
     - q: 39
       r: 17
-      hexType: deep-ocean
+      hexType: grassland
       link: ""
       label: ""
     - q: 39
@@ -6016,244 +5796,4852 @@ hexmap:
       hexType: deep-ocean
       link: ""
       label: ""
-    - q: 1
-      r: -1
+    - q: 39
+      r: 30
       hexType: deep-ocean
-    - q: 5
-      r: -1
+      link: ""
+      label: ""
+    - q: 39
+      r: 31
       hexType: deep-ocean
-    - q: 4
-      r: -1
+      link: ""
+      label: ""
+    - q: 39
+      r: 32
       hexType: deep-ocean
-    - q: 3
-      r: -1
+      link: ""
+      label: ""
+    - q: 39
+      r: 33
       hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 39
+      r: 34
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 39
+      r: 35
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 39
+      r: 36
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 39
+      r: 37
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 39
+      r: 38
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 39
+      r: 39
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 39
+      r: 40
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 39
+      r: 41
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 39
+      r: 42
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 39
+      r: 43
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 40
+      r: 14
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 40
+      r: 15
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 40
+      r: 16
+      hexType: grassland
+      link: ""
+      label: ""
+    - q: 40
+      r: 17
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 40
+      r: 18
+      hexType: grassland
+      link: "[[Isapool]]"
+      label: Isapool
+    - q: 40
+      r: 19
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 40
+      r: 20
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 40
+      r: 21
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 40
+      r: 22
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 40
+      r: 23
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 40
+      r: 24
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 40
+      r: 25
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 40
+      r: 26
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 40
+      r: 27
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 40
+      r: 28
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 40
+      r: 29
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 40
+      r: 30
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 40
+      r: 31
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 40
+      r: 32
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 40
+      r: 33
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 40
+      r: 34
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 40
+      r: 35
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 40
+      r: 36
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 40
+      r: 37
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 40
+      r: 38
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 40
+      r: 39
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 40
+      r: 40
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 40
+      r: 41
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 40
+      r: 42
+      hexType: deep-ocean
+      link: ""
+      label: ""
+    - q: 40
+      r: 43
+      hexType: deep-ocean
+      link: ""
+      label: ""
     - q: 2
-      r: -1
+      r: 13
       hexType: deep-ocean
     - q: 6
-      r: -1
-      hexType: deep-ocean
-    - q: 7
-      r: -1
-      hexType: deep-ocean
-    - q: 8
-      r: -1
-      hexType: deep-ocean
-    - q: 9
-      r: -1
-      hexType: deep-ocean
-    - q: 10
-      r: -1
-      hexType: deep-ocean
-    - q: 11
-      r: -1
-      hexType: deep-ocean
-    - q: 12
-      r: -1
-      hexType: deep-ocean
-    - q: 13
-      r: -1
-      hexType: deep-ocean
-    - q: 14
-      r: -1
-      hexType: deep-ocean
-    - q: 16
-      r: -1
-      hexType: deep-ocean
-    - q: 15
-      r: -1
-      hexType: deep-ocean
-    - q: 0
-      r: -1
-      hexType: deep-ocean
-    - q: 0
-      r: -2
-      hexType: deep-ocean
-    - q: 1
-      r: -2
-      hexType: deep-ocean
-    - q: 2
-      r: -2
-      hexType: deep-ocean
-    - q: 3
-      r: -2
-      hexType: deep-ocean
-    - q: 4
-      r: -2
+      r: 13
       hexType: deep-ocean
     - q: 5
-      r: -2
+      r: 13
       hexType: deep-ocean
-    - q: 6
-      r: -2
+    - q: 4
+      r: 13
+      hexType: deep-ocean
+    - q: 3
+      r: 13
       hexType: deep-ocean
     - q: 7
-      r: -2
+      r: 13
       hexType: deep-ocean
     - q: 8
-      r: -2
+      r: 13
       hexType: deep-ocean
     - q: 9
-      r: -2
+      r: 13
       hexType: deep-ocean
     - q: 10
-      r: -2
+      r: 13
       hexType: deep-ocean
     - q: 11
-      r: -2
+      r: 13
       hexType: deep-ocean
     - q: 12
-      r: -2
+      r: 13
       hexType: deep-ocean
     - q: 13
-      r: -2
+      r: 13
       hexType: deep-ocean
     - q: 14
-      r: -2
+      r: 13
       hexType: deep-ocean
     - q: 15
-      r: -2
+      r: 13
+      hexType: ocean
+    - q: 17
+      r: 13
+      hexType: ocean
+    - q: 16
+      r: 13
+      hexType: ocean
+    - q: 1
+      r: 13
+      hexType: deep-ocean
+    - q: 1
+      r: 12
+      hexType: deep-ocean
+    - q: 2
+      r: 12
+      hexType: deep-ocean
+    - q: 3
+      r: 12
+      hexType: deep-ocean
+    - q: 4
+      r: 12
+      hexType: deep-ocean
+    - q: 5
+      r: 12
+      hexType: deep-ocean
+    - q: 6
+      r: 12
+      hexType: deep-ocean
+    - q: 7
+      r: 12
+      hexType: deep-ocean
+    - q: 8
+      r: 12
+      hexType: deep-ocean
+    - q: 9
+      r: 12
+      hexType: deep-ocean
+    - q: 10
+      r: 12
+      hexType: deep-ocean
+    - q: 11
+      r: 12
+      hexType: deep-ocean
+    - q: 12
+      r: 12
+      hexType: deep-ocean
+    - q: 13
+      r: 12
+      hexType: deep-ocean
+    - q: 14
+      r: 12
+      hexType: deep-ocean
+    - q: 15
+      r: 12
       hexType: deep-ocean
     - q: 16
-      r: -2
+      r: 12
       hexType: deep-ocean
     - q: 17
-      r: -2
+      r: 12
+      hexType: deep-ocean
+    - q: 18
+      r: 12
+      hexType: ocean
+    - q: 18
+      r: 13
+      hexType: ocean
+    - q: 19
+      r: 13
+      hexType: ocean
+    - q: 19
+      r: 12
+      hexType: ocean
+    - q: 20
+      r: 12
+      hexType: ocean
+    - q: 20
+      r: 13
+      hexType: ocean
+    - q: 21
+      r: 13
+      hexType: ocean
+    - q: 21
+      r: 12
+      hexType: ocean
+    - q: 22
+      r: 12
+      hexType: ocean
+    - q: 22
+      r: 13
+      hexType: ocean
+    - q: 23
+      r: 13
+      hexType: ocean
+    - q: 23
+      r: 12
+      hexType: ocean
+    - q: 24
+      r: 12
+      hexType: ocean
+    - q: 24
+      r: 13
+      hexType: ocean
+    - q: 25
+      r: 13
+      hexType: ocean
+    - q: 25
+      r: 12
+      hexType: ocean
+    - q: 26
+      r: 12
+      hexType: ocean
+    - q: 26
+      r: 13
+      hexType: ocean
+    - q: 27
+      r: 12
+      hexType: deep-ocean
+    - q: 27
+      r: 13
+      hexType: deep-ocean
+    - q: 28
+      r: 12
+      hexType: deep-ocean
+    - q: 28
+      r: 13
+      hexType: deep-ocean
+    - q: 29
+      r: 12
+      hexType: deep-ocean
+    - q: 29
+      r: 13
+      hexType: deep-ocean
+    - q: 30
+      r: 12
+      hexType: deep-ocean
+    - q: 30
+      r: 13
+      hexType: deep-ocean
+    - q: 31
+      r: 12
+      hexType: deep-ocean
+    - q: 31
+      r: 13
+      hexType: deep-ocean
+    - q: 32
+      r: 12
+      hexType: deep-ocean
+    - q: 32
+      r: 13
+      hexType: deep-ocean
+    - q: 33
+      r: 12
+      hexType: deep-ocean
+    - q: 33
+      r: 13
+      hexType: deep-ocean
+    - q: 34
+      r: 12
+      hexType: deep-ocean
+    - q: 34
+      r: 13
+      hexType: deep-ocean
+    - q: 35
+      r: 12
+      hexType: deep-ocean
+    - q: 35
+      r: 13
+      hexType: deep-ocean
+    - q: 36
+      r: 12
+      hexType: grassland
+    - q: 36
+      r: 13
+      hexType: deep-ocean
+    - q: 37
+      r: 13
+      hexType: deep-ocean
+    - q: 37
+      r: 12
+      hexType: grassland
+      label: Stanskirk
+      link: "[[Stanskirk]]"
+    - q: 38
+      r: 12
+      hexType: grassland
+    - q: 38
+      r: 13
+      hexType: grassland
+    - q: 39
+      r: 13
+      hexType: deep-ocean
+    - q: 39
+      r: 12
+      hexType: deep-ocean
+    - q: 40
+      r: 12
+      hexType: deep-ocean
+    - q: 40
+      r: 13
+      hexType: deep-ocean
+    - q: 36
+      r: 11
+      hexType: grassland
+    - q: 37
+      r: 11
+      hexType: deep-ocean
+    - q: 41
+      r: 24
+      hexType: deep-ocean
+    - q: 41
+      r: 25
+      hexType: deep-ocean
+    - q: 42
+      r: 25
+      hexType: deep-ocean
+    - q: 43
+      r: 24
+      hexType: deep-ocean
+    - q: 42
+      r: 24
+      hexType: deep-ocean
+    - q: 41
+      r: 23
+      hexType: grassland
+    - q: 41
+      r: 22
+      hexType: deep-ocean
+    - q: 43
+      r: 22
+      hexType: deep-ocean
+    - q: 42
+      r: 22
+      hexType: deep-ocean
+    - q: 41
+      r: 21
+      hexType: deep-ocean
+    - q: 41
+      r: 20
+      hexType: deep-ocean
+    - q: 41
+      r: 19
+      hexType: deep-ocean
+    - q: 41
+      r: 18
+      hexType: deep-ocean
+    - q: 41
+      r: 17
+      hexType: deep-ocean
+    - q: 41
+      r: 16
+      hexType: deep-ocean
+    - q: 41
+      r: 15
+      hexType: deep-ocean
+    - q: 41
+      r: 14
+      hexType: deep-ocean
+    - q: 42
+      r: 12
+      hexType: deep-ocean
+    - q: 41
+      r: 12
+      hexType: deep-ocean
+    - q: 41
+      r: 13
+      hexType: deep-ocean
+    - q: 43
+      r: 14
+      hexType: deep-ocean
+    - q: 42
+      r: 14
+      hexType: deep-ocean
+    - q: 42
+      r: 13
+      hexType: deep-ocean
+    - q: 43
+      r: 12
+      hexType: deep-ocean
+    - q: 38
+      r: 11
+      hexType: deep-ocean
+    - q: 39
+      r: 11
+      hexType: deep-ocean
+    - q: 40
+      r: 11
+      hexType: deep-ocean
+    - q: 42
+      r: 11
+      hexType: deep-ocean
+    - q: 41
+      r: 11
+      hexType: deep-ocean
+    - q: 35
+      r: 11
+      hexType: deep-ocean
+    - q: 34
+      r: 11
+      hexType: deep-ocean
+    - q: 32
+      r: 11
+      hexType: deep-ocean
+    - q: 33
+      r: 11
+      hexType: deep-ocean
+    - q: 42
+      r: 23
+      hexType: deep-ocean
+    - q: 43
+      r: 23
+      hexType: deep-ocean
+    - q: 43
+      r: 11
+      hexType: deep-ocean
+    - q: 43
+      r: 13
+      hexType: deep-ocean
+    - q: 43
+      r: 15
+      hexType: deep-ocean
+    - q: 43
+      r: 16
+      hexType: deep-ocean
+    - q: 42
+      r: 15
+      hexType: deep-ocean
+    - q: 42
+      r: 16
+      hexType: deep-ocean
+    - q: 43
+      r: 17
+      hexType: deep-ocean
+    - q: 42
+      r: 17
+      hexType: deep-ocean
+    - q: 42
+      r: 18
+      hexType: deep-ocean
+    - q: 43
+      r: 18
+      hexType: deep-ocean
+    - q: 43
+      r: 19
+      hexType: deep-ocean
+    - q: 42
+      r: 19
+      hexType: deep-ocean
+    - q: 42
+      r: 20
+      hexType: deep-ocean
+    - q: 43
+      r: 20
+      hexType: deep-ocean
+    - q: 43
+      r: 21
+      hexType: grassland
+    - q: 42
+      r: 21
+      hexType: deep-ocean
+    - q: 43
+      r: 25
+      hexType: deep-ocean
+    - q: 41
+      r: 26
+      hexType: deep-ocean
+    - q: 42
+      r: 26
+      hexType: deep-ocean
+    - q: 43
+      r: 26
+      hexType: deep-ocean
+    - q: 43
+      r: 27
+      hexType: deep-ocean
+    - q: 42
+      r: 27
+      hexType: deep-ocean
+    - q: 41
+      r: 27
+      hexType: deep-ocean
+    - q: 41
+      r: 28
+      hexType: deep-ocean
+    - q: 42
+      r: 28
+      hexType: deep-ocean
+    - q: 43
+      r: 28
+      hexType: deep-ocean
+    - q: 43
+      r: 29
+      hexType: deep-ocean
+    - q: 43
+      r: 31
+      hexType: deep-ocean
+    - q: 43
+      r: 30
+      hexType: deep-ocean
+    - q: 43
+      r: 32
+      hexType: deep-ocean
+    - q: 43
+      r: 34
+      hexType: deep-ocean
+    - q: 43
+      r: 35
+      hexType: deep-ocean
+    - q: 43
+      r: 36
+      hexType: deep-ocean
+    - q: 43
+      r: 38
+      hexType: deep-ocean
+    - q: 42
+      r: 39
+      hexType: deep-ocean
+    - q: 43
+      r: 40
+      hexType: deep-ocean
+    - q: 42
+      r: 41
+      hexType: deep-ocean
+    - q: 43
+      r: 42
+      hexType: grassland
+    - q: 43
+      r: 43
+      hexType: deep-ocean
+    - q: 42
+      r: 43
+      hexType: grassland
+    - q: 41
+      r: 43
+      hexType: deep-ocean
+    - q: 42
+      r: 42
+      hexType: deep-ocean
+    - q: 41
+      r: 42
+      hexType: deep-ocean
+    - q: 41
+      r: 41
+      hexType: deep-ocean
+    - q: 42
+      r: 40
+      hexType: deep-ocean
+    - q: 41
+      r: 39
+      hexType: deep-ocean
+    - q: 41
+      r: 40
+      hexType: deep-ocean
+    - q: 41
+      r: 37
+      hexType: deep-ocean
+    - q: 42
+      r: 38
+      hexType: deep-ocean
+    - q: 42
+      r: 37
+      hexType: deep-ocean
+    - q: 41
+      r: 38
+      hexType: deep-ocean
+    - q: 42
+      r: 36
+      hexType: deep-ocean
+    - q: 42
+      r: 35
+      hexType: deep-ocean
+    - q: 41
+      r: 36
+      hexType: deep-ocean
+    - q: 41
+      r: 34
+      hexType: deep-ocean
+    - q: 42
+      r: 34
+      hexType: deep-ocean
+    - q: 41
+      r: 35
+      hexType: deep-ocean
+    - q: 42
+      r: 33
+      hexType: deep-ocean
+    - q: 41
+      r: 33
+      hexType: deep-ocean
+    - q: 42
+      r: 32
+      hexType: deep-ocean
+    - q: 42
+      r: 31
+      hexType: deep-ocean
+    - q: 42
+      r: 29
+      hexType: deep-ocean
+    - q: 41
+      r: 29
+      hexType: deep-ocean
+    - q: 41
+      r: 30
+      hexType: deep-ocean
+    - q: 41
+      r: 31
+      hexType: deep-ocean
+    - q: 42
+      r: 30
+      hexType: deep-ocean
+    - q: 41
+      r: 32
+      hexType: deep-ocean
+    - q: 43
+      r: 33
+      hexType: deep-ocean
+    - q: 43
+      r: 37
+      hexType: deep-ocean
+    - q: 43
+      r: 39
+      hexType: deep-ocean
+    - q: 43
+      r: 41
+      hexType: grassland
+    - q: 44
+      r: 12
+      hexType: deep-ocean
+    - q: 44
+      r: 11
+      hexType: deep-ocean
+    - q: 44
+      r: 13
+      hexType: deep-ocean
+    - q: 44
+      r: 15
+      hexType: deep-ocean
+    - q: 44
+      r: 17
+      hexType: deep-ocean
+    - q: 44
+      r: 19
+      hexType: deep-ocean
+    - q: 45
+      r: 22
+      hexType: deep-ocean
+    - q: 45
+      r: 24
+      hexType: grassland
+    - q: 45
+      r: 26
+      hexType: deep-ocean
+    - q: 45
+      r: 28
+      hexType: deep-ocean
+    - q: 44
+      r: 31
+      hexType: deep-ocean
+    - q: 44
+      r: 33
+      hexType: deep-ocean
+    - q: 45
+      r: 36
+      hexType: deep-ocean
+    - q: 44
+      r: 39
+      hexType: deep-ocean
+    - q: 44
+      r: 41
+      hexType: deep-ocean
+    - q: 45
+      r: 42
+      hexType: deep-ocean
+    - q: 44
+      r: 43
+      hexType: deep-ocean
+    - q: 44
+      r: 42
+      hexType: deep-ocean
+    - q: 46
+      r: 39
+      hexType: deep-ocean
+    - q: 46
+      r: 41
+      hexType: deep-ocean
+    - q: 45
+      r: 41
+      hexType: deep-ocean
+    - q: 46
+      r: 42
+      hexType: deep-ocean
+    - q: 45
+      r: 43
+      hexType: deep-ocean
+    - q: 46
+      r: 43
+      hexType: deep-ocean
+    - q: 47
+      r: 42
+      hexType: deep-ocean
+    - q: 46
+      r: 38
+      hexType: deep-ocean
+    - q: 46
+      r: 40
+      hexType: deep-ocean
+    - q: 45
+      r: 34
+      hexType: deep-ocean
+    - q: 46
+      r: 32
+      hexType: deep-ocean
+    - q: 47
+      r: 36
+      hexType: deep-ocean
+    - q: 46
+      r: 34
+      hexType: deep-ocean
+    - q: 46
+      r: 31
+      hexType: deep-ocean
+    - q: 46
+      r: 30
+      hexType: deep-ocean
+    - q: 47
+      r: 28
+      hexType: deep-ocean
+    - q: 47
+      r: 26
+      hexType: deep-ocean
+    - q: 47
+      r: 22
+      hexType: deep-ocean
+    - q: 46
+      r: 19
+      hexType: deep-ocean
+    - q: 46
+      r: 17
+      hexType: deep-ocean
+    - q: 47
+      r: 16
+      hexType: deep-ocean
+    - q: 47
+      r: 14
+      hexType: deep-ocean
+    - q: 47
+      r: 13
+      hexType: deep-ocean
+    - q: 47
+      r: 11
+      hexType: deep-ocean
+    - q: 46
+      r: 12
+      hexType: deep-ocean
+    - q: 45
+      r: 11
+      hexType: deep-ocean
+    - q: 46
+      r: 11
+      hexType: deep-ocean
+    - q: 46
+      r: 14
+      hexType: deep-ocean
+    - q: 47
+      r: 12
+      hexType: deep-ocean
+    - q: 46
+      r: 13
+      hexType: deep-ocean
+    - q: 45
+      r: 13
+      hexType: deep-ocean
+    - q: 45
+      r: 12
+      hexType: deep-ocean
+    - q: 45
+      r: 14
+      hexType: deep-ocean
+    - q: 44
+      r: 14
+      hexType: deep-ocean
+    - q: 45
+      r: 15
+      hexType: deep-ocean
+    - q: 46
+      r: 15
+      hexType: deep-ocean
+    - q: 45
+      r: 17
+      hexType: deep-ocean
+    - q: 45
+      r: 18
+      hexType: deep-ocean
+    - q: 45
+      r: 16
+      hexType: deep-ocean
+    - q: 44
+      r: 16
+      hexType: deep-ocean
+    - q: 46
+      r: 16
+      hexType: deep-ocean
+    - q: 46
+      r: 18
+      hexType: deep-ocean
+    - q: 45
+      r: 19
+      hexType: deep-ocean
+    - q: 44
+      r: 18
+      hexType: deep-ocean
+    - q: 45
+      r: 20
+      hexType: deep-ocean
+    - q: 46
+      r: 21
+      hexType: deep-ocean
+    - q: 44
+      r: 20
+      hexType: deep-ocean
+    - q: 46
+      r: 23
+      hexType: deep-ocean
+    - q: 46
+      r: 25
+      hexType: deep-ocean
+    - q: 46
+      r: 27
+      hexType: deep-ocean
+    - q: 46
+      r: 29
+      hexType: deep-ocean
+    - q: 46
+      r: 37
+      hexType: deep-ocean
+    - q: 47
+      r: 38
+      hexType: deep-ocean
+    - q: 45
+      r: 39
+      hexType: deep-ocean
+    - q: 44
+      r: 40
+      hexType: deep-ocean
+    - q: 45
+      r: 40
+      hexType: deep-ocean
+    - q: 45
+      r: 38
+      hexType: deep-ocean
+    - q: 44
+      r: 38
+      hexType: deep-ocean
+    - q: 44
+      r: 35
+      hexType: deep-ocean
+    - q: 44
+      r: 34
+      hexType: deep-ocean
+    - q: 44
+      r: 37
+      hexType: deep-ocean
+    - q: 45
+      r: 37
+      hexType: deep-ocean
+    - q: 45
+      r: 35
+      hexType: deep-ocean
+    - q: 46
+      r: 36
+      hexType: deep-ocean
+    - q: 44
+      r: 36
+      hexType: deep-ocean
+    - q: 45
+      r: 33
+      hexType: deep-ocean
+    - q: 44
+      r: 32
+      hexType: deep-ocean
+    - q: 45
+      r: 32
+      hexType: deep-ocean
+    - q: 45
+      r: 31
+      hexType: deep-ocean
+    - q: 44
+      r: 30
+      hexType: deep-ocean
+    - q: 45
+      r: 30
+      hexType: deep-ocean
+    - q: 46
+      r: 28
+      hexType: deep-ocean
+    - q: 44
+      r: 27
+      hexType: deep-ocean
+    - q: 44
+      r: 28
+      hexType: deep-ocean
+    - q: 45
+      r: 29
+      hexType: deep-ocean
+    - q: 44
+      r: 29
+      hexType: deep-ocean
+    - q: 45
+      r: 27
+      hexType: deep-ocean
+    - q: 46
+      r: 26
+      hexType: deep-ocean
+    - q: 44
+      r: 26
+      hexType: deep-ocean
+    - q: 46
+      r: 24
+      hexType: grassland
+    - q: 46
+      r: 22
+      hexType: deep-ocean
+    - q: 46
+      r: 20
+      hexType: deep-ocean
+    - q: 44
+      r: 21
+      hexType: deep-ocean
+    - q: 44
+      r: 22
+      hexType: grassland
+    - q: 44
+      r: 23
+      hexType: grassland
+    - q: 44
+      r: 24
+      hexType: deep-ocean
+    - q: 45
+      r: 25
+      hexType: deep-ocean
+    - q: 44
+      r: 25
+      hexType: grassland
+    - q: 45
+      r: 21
+      hexType: deep-ocean
+    - q: 47
+      r: 15
+      hexType: deep-ocean
+    - q: 47
+      r: 18
+      hexType: deep-ocean
+    - q: 47
+      r: 17
+      hexType: deep-ocean
+    - q: 47
+      r: 19
+      hexType: deep-ocean
+    - q: 47
+      r: 20
+      hexType: deep-ocean
+    - q: 45
+      r: 23
+      hexType: grassland
+    - q: 47
+      r: 21
+      hexType: deep-ocean
+    - q: 47
+      r: 23
+      hexType: deep-ocean
+    - q: 47
+      r: 24
+      hexType: deep-ocean
+    - q: 47
+      r: 25
+      hexType: deep-ocean
+    - q: 47
+      r: 27
+      hexType: deep-ocean
+    - q: 47
+      r: 29
+      hexType: deep-ocean
+    - q: 47
+      r: 30
+      hexType: deep-ocean
+    - q: 47
+      r: 31
+      hexType: deep-ocean
+    - q: 47
+      r: 32
+      hexType: deep-ocean
+    - q: 47
+      r: 33
+      hexType: deep-ocean
+    - q: 46
+      r: 33
+      hexType: deep-ocean
+    - q: 47
+      r: 34
+      hexType: deep-ocean
+    - q: 47
+      r: 35
+      hexType: deep-ocean
+    - q: 46
+      r: 35
+      hexType: deep-ocean
+    - q: 47
+      r: 37
+      hexType: deep-ocean
+    - q: 47
+      r: 39
+      hexType: deep-ocean
+    - q: 47
+      r: 40
+      hexType: deep-ocean
+    - q: 47
+      r: 41
+      hexType: deep-ocean
+    - q: 47
+      r: 43
+      hexType: deep-ocean
+    - q: 31
+      r: 11
+      hexType: deep-ocean
+    - q: 30
+      r: 11
+      hexType: deep-ocean
+    - q: 29
+      r: 11
+      hexType: deep-ocean
+    - q: 28
+      r: 11
+      hexType: deep-ocean
+    - q: 26
+      r: 11
+      hexType: deep-ocean
+    - q: 27
+      r: 11
+      hexType: deep-ocean
+    - q: 25
+      r: 11
+      hexType: deep-ocean
+    - q: 24
+      r: 11
+      hexType: ocean
+    - q: 23
+      r: 11
+      hexType: ocean
+    - q: 22
+      r: 11
+      hexType: deep-ocean
+    - q: 20
+      r: 11
+      hexType: deep-ocean
+    - q: 21
+      r: 11
+      hexType: deep-ocean
+    - q: 19
+      r: 11
+      hexType: deep-ocean
+    - q: 18
+      r: 11
       hexType: deep-ocean
     - q: 17
-      r: -1
+      r: 11
+      hexType: deep-ocean
+    - q: 15
+      r: 11
+      hexType: deep-ocean
+    - q: 16
+      r: 11
+      hexType: deep-ocean
+    - q: 12
+      r: 11
+      hexType: deep-ocean
+    - q: 14
+      r: 11
+      hexType: deep-ocean
+    - q: 13
+      r: 11
+      hexType: deep-ocean
+    - q: 9
+      r: 11
+      hexType: deep-ocean
+    - q: 11
+      r: 11
+      hexType: deep-ocean
+    - q: 10
+      r: 11
+      hexType: deep-ocean
+    - q: 8
+      r: 11
+      hexType: deep-ocean
+    - q: 7
+      r: 11
+      hexType: deep-ocean
+    - q: 6
+      r: 11
+      hexType: deep-ocean
+    - q: 5
+      r: 11
+      hexType: deep-ocean
+    - q: 4
+      r: 11
+      hexType: deep-ocean
+    - q: 3
+      r: 11
+      hexType: deep-ocean
+    - q: 2
+      r: 11
+      hexType: deep-ocean
+    - q: 1
+      r: 11
+      hexType: deep-ocean
+    - q: 1
+      r: 10
+      hexType: deep-ocean
+    - q: 2
+      r: 10
+      hexType: deep-ocean
+    - q: 4
+      r: 10
+      hexType: deep-ocean
+    - q: 6
+      r: 10
+      hexType: deep-ocean
+    - q: 5
+      r: 10
+      hexType: deep-ocean
+    - q: 3
+      r: 10
+      hexType: deep-ocean
+    - q: 8
+      r: 10
+      hexType: deep-ocean
+    - q: 11
+      r: 10
+      hexType: deep-ocean
+    - q: 13
+      r: 10
       hexType: deep-ocean
     - q: 18
-      r: -1
+      r: 10
+      hexType: deep-ocean
+    - q: 21
+      r: 10
+      hexType: deep-ocean
+    - q: 20
+      r: 10
+      hexType: deep-ocean
+    - q: 19
+      r: 10
+      hexType: deep-ocean
+    - q: 17
+      r: 10
+      hexType: deep-ocean
+    - q: 16
+      r: 10
+      hexType: deep-ocean
+    - q: 15
+      r: 10
+      hexType: deep-ocean
+    - q: 14
+      r: 10
+      hexType: deep-ocean
+    - q: 12
+      r: 10
+      hexType: deep-ocean
+    - q: 10
+      r: 10
+      hexType: deep-ocean
+    - q: 9
+      r: 10
+      hexType: deep-ocean
+    - q: 7
+      r: 10
+      hexType: deep-ocean
+    - q: 22
+      r: 10
+      hexType: deep-ocean
+    - q: 23
+      r: 10
+      hexType: deep-ocean
+    - q: 24
+      r: 10
+      hexType: deep-ocean
+    - q: 25
+      r: 10
+      hexType: deep-ocean
+    - q: 26
+      r: 10
+      hexType: deep-ocean
+    - q: 27
+      r: 10
+      hexType: deep-ocean
+    - q: 29
+      r: 10
+      hexType: deep-ocean
+    - q: 31
+      r: 10
+      hexType: deep-ocean
+    - q: 30
+      r: 10
+      hexType: deep-ocean
+    - q: 28
+      r: 10
+      hexType: deep-ocean
+    - q: 32
+      r: 10
+      hexType: deep-ocean
+    - q: 34
+      r: 9
+      hexType: deep-ocean
+    - q: 34
+      r: 10
+      hexType: deep-ocean
+    - q: 33
+      r: 10
+      hexType: deep-ocean
+    - q: 35
+      r: 10
+      hexType: deep-ocean
+    - q: 37
+      r: 10
+      hexType: deep-ocean
+    - q: 36
+      r: 9
+      hexType: deep-ocean
+    - q: 36
+      r: 10
+      hexType: deep-ocean
+    - q: 39
+      r: 10
+      hexType: deep-ocean
+    - q: 38
+      r: 10
+      hexType: deep-ocean
+    - q: 41
+      r: 10
+      hexType: deep-ocean
+    - q: 40
+      r: 10
+      hexType: deep-ocean
+    - q: 42
+      r: 10
+      hexType: deep-ocean
+    - q: 43
+      r: 10
+      hexType: deep-ocean
+    - q: 44
+      r: 10
+      hexType: deep-ocean
+    - q: 45
+      r: 10
+      hexType: deep-ocean
+    - q: 46
+      r: 10
+      hexType: deep-ocean
+    - q: 47
+      r: 10
+      hexType: deep-ocean
+    - q: 46
+      r: 9
+      hexType: deep-ocean
+    - q: 47
+      r: 9
+      hexType: deep-ocean
+    - q: 45
+      r: 9
+      hexType: deep-ocean
+    - q: 44
+      r: 9
+      hexType: deep-ocean
+    - q: 43
+      r: 9
+      hexType: deep-ocean
+    - q: 42
+      r: 9
+      hexType: deep-ocean
+    - q: 41
+      r: 9
+      hexType: deep-ocean
+    - q: 40
+      r: 9
+      hexType: deep-ocean
+    - q: 39
+      r: 9
+      hexType: deep-ocean
+    - q: 38
+      r: 9
+      hexType: deep-ocean
+    - q: 37
+      r: 9
+      hexType: deep-ocean
+    - q: 35
+      r: 9
+      hexType: deep-ocean
+    - q: 33
+      r: 9
+      hexType: deep-ocean
+    - q: 32
+      r: 9
+      hexType: deep-ocean
+    - q: 31
+      r: 9
+      hexType: deep-ocean
+    - q: 30
+      r: 9
+      hexType: deep-ocean
+    - q: 29
+      r: 9
+      hexType: deep-ocean
+    - q: 26
+      r: 9
+      hexType: deep-ocean
+    - q: 27
+      r: 9
+      hexType: deep-ocean
+    - q: 28
+      r: 9
+      hexType: deep-ocean
+    - q: 24
+      r: 9
+      hexType: deep-ocean
+    - q: 25
+      r: 9
+      hexType: deep-ocean
+    - q: 22
+      r: 9
+      hexType: deep-ocean
+    - q: 21
+      r: 9
+      hexType: deep-ocean
+    - q: 23
+      r: 9
+      hexType: deep-ocean
+    - q: 20
+      r: 9
+      hexType: deep-ocean
+    - q: 19
+      r: 9
+      hexType: deep-ocean
+    - q: 17
+      r: 9
       hexType: deep-ocean
     - q: 18
-      r: -2
+      r: 9
+      hexType: deep-ocean
+    - q: 16
+      r: 9
+      hexType: deep-ocean
+    - q: 15
+      r: 9
+      hexType: deep-ocean
+    - q: 14
+      r: 9
+      hexType: deep-ocean
+    - q: 13
+      r: 9
+      hexType: deep-ocean
+    - q: 12
+      r: 9
+      hexType: deep-ocean
+    - q: 11
+      r: 9
+      hexType: deep-ocean
+    - q: 10
+      r: 9
+      hexType: deep-ocean
+    - q: 9
+      r: 9
+      hexType: deep-ocean
+    - q: 8
+      r: 9
+      hexType: deep-ocean
+    - q: 6
+      r: 9
+      hexType: deep-ocean
+    - q: 5
+      r: 9
+      hexType: deep-ocean
+    - q: 7
+      r: 9
+      hexType: deep-ocean
+    - q: 4
+      r: 9
+      hexType: deep-ocean
+    - q: 3
+      r: 9
+      hexType: deep-ocean
+    - q: 2
+      r: 9
+      hexType: deep-ocean
+    - q: 1
+      r: 9
+      hexType: deep-ocean
+    - q: 17
+      r: 8
+      hexType: deep-ocean
+    - q: 16
+      r: 7
+      hexType: deep-ocean
+    - q: 17
+      r: 6
+      hexType: deep-ocean
+    - q: 16
+      r: 5
+      hexType: deep-ocean
+    - q: 16
+      r: 4
+      hexType: deep-ocean
+    - q: 16
+      r: 3
+      hexType: deep-ocean
+    - q: 16
+      r: 2
+      hexType: deep-ocean
+    - q: 15
+      r: 2
+      hexType: deep-ocean
+    - q: 14
+      r: 3
+      hexType: deep-ocean
+    - q: 15
+      r: 3
+      hexType: deep-ocean
+    - q: 15
+      r: 5
+      hexType: deep-ocean
+    - q: 16
+      r: 6
+      hexType: deep-ocean
+    - q: 16
+      r: 8
+      hexType: deep-ocean
+    - q: 15
+      r: 4
+      hexType: deep-ocean
+    - q: 14
+      r: 2
+      hexType: deep-ocean
+    - q: 13
+      r: 2
+      hexType: deep-ocean
+    - q: 12
+      r: 2
+      hexType: deep-ocean
+    - q: 11
+      r: 2
+      hexType: deep-ocean
+    - q: 10
+      r: 2
+      hexType: deep-ocean
+    - q: 9
+      r: 2
+      hexType: deep-ocean
+    - q: 8
+      r: 2
+      hexType: deep-ocean
+    - q: 5
+      r: 2
+      hexType: deep-ocean
+    - q: 6
+      r: 2
+      hexType: deep-ocean
+    - q: 7
+      r: 2
+      hexType: deep-ocean
+    - q: 4
+      r: 2
+      hexType: deep-ocean
+    - q: 3
+      r: 2
+      hexType: deep-ocean
+    - q: 2
+      r: 2
+      hexType: deep-ocean
+    - q: 1
+      r: 2
+      hexType: deep-ocean
+    - q: 1
+      r: 3
+      hexType: deep-ocean
+    - q: 0
+      r: 5
+      hexType: deep-ocean
+    - q: 1
+      r: 6
+      hexType: deep-ocean
+    - q: 1
+      r: 8
+      hexType: deep-ocean
+    - q: 0
+      r: 9
+      hexType: deep-ocean
+    - q: 0
+      r: 7
+      hexType: deep-ocean
+    - q: 1
+      r: 4
+      hexType: deep-ocean
+    - q: 0
+      r: 3
+      hexType: deep-ocean
+    - q: 1
+      r: 5
+      hexType: deep-ocean
+    - q: 1
+      r: 7
+      hexType: deep-ocean
+    - q: 2
+      r: 8
+      hexType: deep-ocean
+    - q: 7
+      r: 8
+      hexType: deep-ocean
+    - q: 4
+      r: 8
+      hexType: deep-ocean
+    - q: 3
+      r: 8
+      hexType: deep-ocean
+    - q: 5
+      r: 8
+      hexType: deep-ocean
+    - q: 8
+      r: 8
+      hexType: deep-ocean
+    - q: 9
+      r: 8
+      hexType: deep-ocean
+    - q: 14
+      r: 8
+      hexType: deep-ocean
+    - q: 15
+      r: 8
+      hexType: deep-ocean
+    - q: 15
+      r: 6
+      hexType: deep-ocean
+    - q: 15
+      r: 7
+      hexType: deep-ocean
+    - q: 14
+      r: 6
+      hexType: deep-ocean
+    - q: 13
+      r: 5
+      hexType: deep-ocean
+    - q: 14
+      r: 4
+      hexType: deep-ocean
+    - q: 14
+      r: 7
+      hexType: deep-ocean
+    - q: 14
+      r: 5
+      hexType: deep-ocean
+    - q: 13
+      r: 3
+      hexType: deep-ocean
+    - q: 11
+      r: 4
+      hexType: deep-ocean
+    - q: 11
+      r: 3
+      hexType: deep-ocean
+    - q: 13
+      r: 4
+      hexType: deep-ocean
+    - q: 12
+      r: 3
+      hexType: deep-ocean
+    - q: 12
+      r: 4
+      hexType: deep-ocean
+    - q: 12
+      r: 5
+      hexType: deep-ocean
+    - q: 13
+      r: 6
+      hexType: deep-ocean
+    - q: 13
+      r: 7
+      hexType: deep-ocean
+    - q: 12
+      r: 8
+      hexType: deep-ocean
+    - q: 13
+      r: 8
+      hexType: deep-ocean
+    - q: 10
+      r: 8
+      hexType: deep-ocean
+    - q: 11
+      r: 8
+      hexType: deep-ocean
+    - q: 12
+      r: 7
+      hexType: deep-ocean
+    - q: 11
+      r: 5
+      hexType: deep-ocean
+    - q: 10
+      r: 7
+      hexType: deep-ocean
+    - q: 5
+      r: 7
+      hexType: deep-ocean
+    - q: 3
+      r: 7
+      hexType: deep-ocean
+    - q: 3
+      r: 6
+      hexType: deep-ocean
+    - q: 2
+      r: 6
+      hexType: deep-ocean
+    - q: 2
+      r: 7
+      hexType: deep-ocean
+    - q: 2
+      r: 4
+      hexType: deep-ocean
+    - q: 2
+      r: 3
+      hexType: deep-ocean
+    - q: 4
+      r: 3
+      hexType: deep-ocean
+    - q: 3
+      r: 3
+      hexType: deep-ocean
+    - q: 3
+      r: 4
+      hexType: deep-ocean
+    - q: 2
+      r: 5
+      hexType: deep-ocean
+    - q: 3
+      r: 5
+      hexType: deep-ocean
+    - q: 4
+      r: 4
+      hexType: deep-ocean
+    - q: 4
+      r: 5
+      hexType: deep-ocean
+    - q: 6
+      r: 5
+      hexType: deep-ocean
+    - q: 8
+      r: 5
+      hexType: deep-ocean
+    - q: 10
+      r: 5
+      hexType: deep-ocean
+    - q: 7
+      r: 5
+      hexType: deep-ocean
+    - q: 5
+      r: 5
+      hexType: deep-ocean
+    - q: 5
+      r: 3
+      hexType: deep-ocean
+    - q: 5
+      r: 4
+      hexType: deep-ocean
+    - q: 6
+      r: 3
+      hexType: deep-ocean
+    - q: 6
+      r: 4
+      hexType: deep-ocean
+    - q: 7
+      r: 3
+      hexType: deep-ocean
+    - q: 9
+      r: 3
+      hexType: deep-ocean
+    - q: 10
+      r: 3
+      hexType: deep-ocean
+    - q: 10
+      r: 4
+      hexType: deep-ocean
+    - q: 9
+      r: 5
+      hexType: deep-ocean
+    - q: 11
+      r: 7
+      hexType: deep-ocean
+    - q: 11
+      r: 6
+      hexType: deep-ocean
+    - q: 9
+      r: 7
+      hexType: deep-ocean
+    - q: 6
+      r: 8
+      hexType: deep-ocean
+    - q: 6
+      r: 7
+      hexType: deep-ocean
+    - q: 5
+      r: 6
+      hexType: deep-ocean
+    - q: 4
+      r: 6
+      hexType: deep-ocean
+    - q: 4
+      r: 7
+      hexType: deep-ocean
+    - q: 8
+      r: 3
+      hexType: deep-ocean
+    - q: 9
+      r: 4
+      hexType: deep-ocean
+    - q: 8
+      r: 4
+      hexType: deep-ocean
+    - q: 7
+      r: 4
+      hexType: deep-ocean
+    - q: 12
+      r: 6
+      hexType: deep-ocean
+    - q: 10
+      r: 6
+      hexType: deep-ocean
+    - q: 9
+      r: 6
+      hexType: deep-ocean
+    - q: 8
+      r: 6
+      hexType: deep-ocean
+    - q: 7
+      r: 6
+      hexType: deep-ocean
+    - q: 6
+      r: 6
+      hexType: deep-ocean
+    - q: 7
+      r: 7
+      hexType: deep-ocean
+    - q: 8
+      r: 7
+      hexType: deep-ocean
+    - q: 17
+      r: 2
+      hexType: deep-ocean
+    - q: 18
+      r: 2
       hexType: deep-ocean
     - q: 19
-      r: -2
+      r: 2
+      hexType: deep-ocean
+    - q: 20
+      r: 2
+      hexType: deep-ocean
+    - q: 22
+      r: 3
+      hexType: deep-ocean
+    - q: 23
+      r: 3
+      hexType: deep-ocean
+    - q: 24
+      r: 2
+      hexType: deep-ocean
+    - q: 22
+      r: 2
+      hexType: deep-ocean
+    - q: 21
+      r: 2
+      hexType: deep-ocean
+    - q: 23
+      r: 2
+      hexType: deep-ocean
+    - q: 26
+      r: 3
+      hexType: deep-ocean
+    - q: 27
+      r: 2
+      hexType: deep-ocean
+    - q: 28
+      r: 2
+      hexType: deep-ocean
+    - q: 26
+      r: 2
+      hexType: deep-ocean
+    - q: 25
+      r: 2
+      hexType: deep-ocean
+    - q: 29
+      r: 2
+      hexType: deep-ocean
+    - q: 31
+      r: 2
+      hexType: deep-ocean
+    - q: 32
+      r: 2
+      hexType: deep-ocean
+    - q: 33
+      r: 2
+      hexType: deep-ocean
+    - q: 34
+      r: 2
+      hexType: deep-ocean
+    - q: 36
+      r: 2
+      hexType: deep-ocean
+    - q: 39
+      r: 2
+      hexType: deep-ocean
+    - q: 40
+      r: 2
+      hexType: deep-ocean
+    - q: 41
+      r: 2
+      hexType: deep-ocean
+    - q: 42
+      r: 2
+      hexType: deep-ocean
+    - q: 43
+      r: 2
+      hexType: deep-ocean
+    - q: 44
+      r: 2
+      hexType: deep-ocean
+    - q: 45
+      r: 2
+      hexType: deep-ocean
+    - q: 47
+      r: 2
+      hexType: deep-ocean
+    - q: 47
+      r: 4
+      hexType: deep-ocean
+    - q: 47
+      r: 5
+      hexType: deep-ocean
+    - q: 47
+      r: 8
+      hexType: deep-ocean
+    - q: 47
+      r: 7
+      hexType: deep-ocean
+    - q: 47
+      r: 3
+      hexType: deep-ocean
+    - q: 47
+      r: 6
+      hexType: deep-ocean
+    - q: 46
+      r: 6
+      hexType: deep-ocean
+    - q: 46
+      r: 4
+      hexType: deep-ocean
+    - q: 46
+      r: 3
+      hexType: deep-ocean
+    - q: 46
+      r: 2
+      hexType: deep-ocean
+    - q: 38
+      r: 2
+      hexType: deep-ocean
+    - q: 36
+      r: 3
+      hexType: deep-ocean
+    - q: 37
+      r: 2
+      hexType: deep-ocean
+    - q: 34
+      r: 3
+      hexType: deep-ocean
+    - q: 35
+      r: 2
+      hexType: deep-ocean
+    - q: 30
+      r: 2
+      hexType: deep-ocean
+    - q: 17
+      r: 5
+      hexType: deep-ocean
+    - q: 18
+      r: 4
       hexType: deep-ocean
     - q: 19
-      r: -1
-      hexType: deep-ocean
-    - q: 20
-      r: -1
-      hexType: deep-ocean
-    - q: 20
-      r: -2
-      hexType: deep-ocean
-    - q: 21
-      r: -2
-      hexType: deep-ocean
-    - q: 21
-      r: -1
-      hexType: deep-ocean
-    - q: 22
-      r: -1
-      hexType: deep-ocean
-    - q: 22
-      r: -2
-      hexType: deep-ocean
-    - q: 23
-      r: -2
-      hexType: deep-ocean
-    - q: 23
-      r: -1
-      hexType: deep-ocean
-    - q: 24
-      r: -1
-      hexType: deep-ocean
-    - q: 24
-      r: -2
+      r: 4
       hexType: deep-ocean
     - q: 25
-      r: -2
+      r: 5
+      hexType: deep-ocean
+    - q: 26
+      r: 4
+      hexType: deep-ocean
+    - q: 30
+      r: 4
+      hexType: deep-ocean
+    - q: 35
+      r: 4
       hexType: deep-ocean
     - q: 25
-      r: -1
+      r: 6
       hexType: deep-ocean
-    - q: 26
-      r: -2
-      hexType: deep-ocean
-    - q: 26
-      r: -1
-      hexType: deep-ocean
-    - q: 27
-      r: -2
-      hexType: deep-ocean
-    - q: 27
-      r: -1
-      hexType: deep-ocean
-    - q: 28
-      r: -2
-      hexType: deep-ocean
-    - q: 28
-      r: -1
-      hexType: deep-ocean
-    - q: 29
-      r: -2
-      hexType: deep-ocean
-    - q: 29
-      r: -1
-      hexType: deep-ocean
-    - q: 30
-      r: -2
-      hexType: deep-ocean
-    - q: 30
-      r: -1
+    - q: 21
+      r: 6
       hexType: deep-ocean
     - q: 31
-      r: -2
+      r: 6
+      hexType: deep-ocean
+    - q: 37
+      r: 6
+      hexType: deep-ocean
+    - q: 28
+      r: 8
+      hexType: deep-ocean
+    - q: 25
+      r: 8
+      hexType: deep-ocean
+    - q: 22
+      r: 7
       hexType: deep-ocean
     - q: 31
-      r: -1
+      r: 8
       hexType: deep-ocean
     - q: 32
-      r: -2
+      r: 8
       hexType: deep-ocean
     - q: 32
-      r: -1
-      hexType: deep-ocean
-    - q: 33
-      r: -2
-      hexType: deep-ocean
-    - q: 33
-      r: -1
+      r: 7
       hexType: deep-ocean
     - q: 34
-      r: -2
+      r: 6
+      hexType: deep-ocean
+    - q: 36
+      r: 6
+      hexType: deep-ocean
+    - q: 38
+      r: 6
+      hexType: deep-ocean
+    - q: 40
+      r: 6
+      hexType: deep-ocean
+    - q: 42
+      r: 6
+      hexType: deep-ocean
+    - q: 41
+      r: 7
+      hexType: deep-ocean
+    - q: 40
+      r: 7
+      hexType: deep-ocean
+    - q: 40
+      r: 8
+      hexType: deep-ocean
+    - q: 37
+      r: 8
+      hexType: deep-ocean
+    - q: 36
+      r: 8
+      hexType: deep-ocean
+    - q: 33
+      r: 8
       hexType: deep-ocean
     - q: 34
-      r: -1
-      hexType: deep-ocean
-    - q: 35
-      r: -2
-      hexType: deep-ocean
-    - q: 35
-      r: -1
+      r: 8
       hexType: deep-ocean
     - q: 36
-      r: -1
+      r: 7
+      hexType: deep-ocean
+    - q: 34
+      r: 7
+      hexType: deep-ocean
+    - q: 35
+      r: 8
+      hexType: deep-ocean
+    - q: 35
+      r: 7
+      hexType: deep-ocean
+    - q: 35
+      r: 6
+      hexType: deep-ocean
+    - q: 34
+      r: 4
+      hexType: deep-ocean
+    - q: 33
+      r: 3
+      hexType: deep-ocean
+    - q: 32
+      r: 3
+      hexType: deep-ocean
+    - q: 30
+      r: 3
+      hexType: deep-ocean
+    - q: 29
+      r: 3
+      hexType: deep-ocean
+    - q: 28
+      r: 4
+      hexType: deep-ocean
+    - q: 28
+      r: 6
+      hexType: deep-ocean
+    - q: 25
+      r: 7
+      hexType: deep-ocean
+    - q: 27
+      r: 7
+      hexType: deep-ocean
+    - q: 18
+      r: 3
+      hexType: deep-ocean
+    - q: 17
+      r: 3
+      hexType: deep-ocean
+    - q: 17
+      r: 4
+      hexType: deep-ocean
+    - q: 20
+      r: 3
+      hexType: deep-ocean
+    - q: 19
+      r: 3
+      hexType: deep-ocean
+    - q: 21
+      r: 3
+      hexType: deep-ocean
+    - q: 21
+      r: 4
+      hexType: deep-ocean
+    - q: 20
+      r: 5
+      hexType: deep-ocean
+    - q: 20
+      r: 4
+      hexType: deep-ocean
+    - q: 19
+      r: 5
+      hexType: deep-ocean
+    - q: 18
+      r: 5
+      hexType: deep-ocean
+    - q: 17
+      r: 7
+      hexType: deep-ocean
+    - q: 18
+      r: 8
+      hexType: deep-ocean
+    - q: 21
+      r: 7
+      hexType: deep-ocean
+    - q: 29
+      r: 6
+      hexType: deep-ocean
+    - q: 30
+      r: 6
+      hexType: deep-ocean
+    - q: 32
+      r: 6
+      hexType: deep-ocean
+    - q: 33
+      r: 7
+      hexType: deep-ocean
+    - q: 33
+      r: 6
+      hexType: deep-ocean
+    - q: 33
+      r: 4
+      hexType: deep-ocean
+    - q: 32
+      r: 4
+      hexType: deep-ocean
+    - q: 31
+      r: 3
+      hexType: deep-ocean
+    - q: 29
+      r: 5
+      hexType: deep-ocean
+    - q: 28
+      r: 5
+      hexType: deep-ocean
+    - q: 18
+      r: 6
+      hexType: deep-ocean
+    - q: 19
+      r: 6
+      hexType: deep-ocean
+    - q: 20
+      r: 6
+      hexType: deep-ocean
+    - q: 19
+      r: 7
+      hexType: deep-ocean
+    - q: 20
+      r: 7
+      hexType: deep-ocean
+    - q: 19
+      r: 8
+      hexType: deep-ocean
+    - q: 18
+      r: 7
+      hexType: deep-ocean
+    - q: 20
+      r: 8
+      hexType: deep-ocean
+    - q: 21
+      r: 8
+      hexType: deep-ocean
+    - q: 22
+      r: 8
+      hexType: deep-ocean
+    - q: 24
+      r: 8
+      hexType: deep-ocean
+    - q: 23
+      r: 8
+      hexType: deep-ocean
+    - q: 23
+      r: 7
+      hexType: deep-ocean
+    - q: 24
+      r: 7
+      hexType: deep-ocean
+    - q: 24
+      r: 6
+      hexType: deep-ocean
+    - q: 22
+      r: 6
+      hexType: deep-ocean
+    - q: 23
+      r: 6
+      hexType: deep-ocean
+    - q: 22
+      r: 4
+      hexType: deep-ocean
+    - q: 21
+      r: 5
+      hexType: deep-ocean
+    - q: 22
+      r: 5
+      hexType: deep-ocean
+    - q: 23
+      r: 5
+      hexType: deep-ocean
+    - q: 24
+      r: 5
+      hexType: deep-ocean
+    - q: 25
+      r: 4
+      hexType: deep-ocean
+    - q: 25
+      r: 3
+      hexType: deep-ocean
+    - q: 24
+      r: 3
+      hexType: deep-ocean
+    - q: 23
+      r: 4
+      hexType: deep-ocean
+    - q: 24
+      r: 4
+      hexType: deep-ocean
+    - q: 29
+      r: 4
+      hexType: deep-ocean
+    - q: 28
+      r: 3
+      hexType: deep-ocean
+    - q: 27
+      r: 3
+      hexType: deep-ocean
+    - q: 27
+      r: 4
+      hexType: deep-ocean
+    - q: 27
+      r: 5
+      hexType: deep-ocean
+    - q: 26
+      r: 5
+      hexType: deep-ocean
+    - q: 26
+      r: 6
+      hexType: deep-ocean
+    - q: 26
+      r: 7
+      hexType: deep-ocean
+    - q: 26
+      r: 8
+      hexType: deep-ocean
+    - q: 27
+      r: 8
+      hexType: deep-ocean
+    - q: 27
+      r: 6
+      hexType: deep-ocean
+    - q: 29
+      r: 8
+      hexType: deep-ocean
+    - q: 30
+      r: 7
+      hexType: deep-ocean
+    - q: 28
+      r: 7
+      hexType: deep-ocean
+    - q: 30
+      r: 8
+      hexType: deep-ocean
+    - q: 31
+      r: 7
+      hexType: deep-ocean
+    - q: 29
+      r: 7
+      hexType: deep-ocean
+    - q: 30
+      r: 5
+      hexType: deep-ocean
+    - q: 31
+      r: 4
+      hexType: deep-ocean
+    - q: 31
+      r: 5
+      hexType: deep-ocean
+    - q: 32
+      r: 5
+      hexType: deep-ocean
+    - q: 35
+      r: 5
+      hexType: deep-ocean
+    - q: 34
+      r: 5
       hexType: deep-ocean
     - q: 36
-      r: -2
+      r: 4
       hexType: deep-ocean
     - q: 37
-      r: -2
+      r: 5
+      hexType: deep-ocean
+    - q: 38
+      r: 4
+      hexType: deep-ocean
+    - q: 39
+      r: 4
+      hexType: deep-ocean
+    - q: 40
+      r: 4
+      hexType: deep-ocean
+    - q: 36
+      r: 5
       hexType: deep-ocean
     - q: 37
-      r: -1
+      r: 4
       hexType: deep-ocean
-    - q: 38
-      r: -1
+    - q: 37
+      r: 3
       hexType: deep-ocean
-    - q: 38
-      r: -2
+    - q: 35
+      r: 3
+      hexType: deep-ocean
+    - q: 33
+      r: 5
+      hexType: deep-ocean
+    - q: 37
+      r: 7
       hexType: deep-ocean
     - q: 39
-      r: -2
+      r: 7
+      hexType: deep-ocean
+    - q: 38
+      r: 8
       hexType: deep-ocean
     - q: 39
-      r: -1
+      r: 8
+      hexType: deep-ocean
+    - q: 39
+      r: 5
+      hexType: deep-ocean
+    - q: 38
+      r: 5
+      hexType: deep-ocean
+    - q: 38
+      r: 7
+      hexType: deep-ocean
+    - q: 39
+      r: 6
+      hexType: deep-ocean
+    - q: 38
+      r: 3
+      hexType: deep-ocean
+    - q: 39
+      r: 3
+      hexType: deep-ocean
+    - q: 40
+      r: 3
+      hexType: deep-ocean
+    - q: 41
+      r: 3
+      hexType: deep-ocean
+    - q: 42
+      r: 3
+      hexType: deep-ocean
+    - q: 41
+      r: 5
+      hexType: deep-ocean
+    - q: 41
+      r: 4
+      hexType: deep-ocean
+    - q: 41
+      r: 6
+      hexType: deep-ocean
+    - q: 43
+      r: 6
+      hexType: deep-ocean
+    - q: 40
+      r: 5
+      hexType: deep-ocean
+    - q: 43
+      r: 4
+      hexType: deep-ocean
+    - q: 44
+      r: 4
+      hexType: deep-ocean
+    - q: 44
+      r: 5
+      hexType: deep-ocean
+    - q: 41
+      r: 8
+      hexType: deep-ocean
+    - q: 42
+      r: 8
+      hexType: deep-ocean
+    - q: 42
+      r: 7
+      hexType: deep-ocean
+    - q: 43
+      r: 7
+      hexType: deep-ocean
+    - q: 44
+      r: 8
+      hexType: deep-ocean
+    - q: 42
+      r: 4
+      hexType: deep-ocean
+    - q: 42
+      r: 5
+      hexType: deep-ocean
+    - q: 43
+      r: 5
+      hexType: deep-ocean
+    - q: 44
+      r: 3
+      hexType: deep-ocean
+    - q: 43
+      r: 3
+      hexType: deep-ocean
+    - q: 45
+      r: 3
+      hexType: deep-ocean
+    - q: 45
+      r: 4
+      hexType: deep-ocean
+    - q: 46
+      r: 5
+      hexType: deep-ocean
+    - q: 45
+      r: 5
+      hexType: deep-ocean
+    - q: 45
+      r: 6
+      hexType: deep-ocean
+    - q: 44
+      r: 6
+      hexType: deep-ocean
+    - q: 43
+      r: 8
+      hexType: deep-ocean
+    - q: 44
+      r: 7
+      hexType: deep-ocean
+    - q: 45
+      r: 8
+      hexType: deep-ocean
+    - q: 46
+      r: 8
+      hexType: deep-ocean
+    - q: 46
+      r: 7
+      hexType: deep-ocean
+    - q: 45
+      r: 7
+      hexType: deep-ocean
+    - q: 1
+      r: 45
+      hexType: deep-ocean
+    - q: 2
+      r: 44
+      hexType: deep-ocean
+    - q: 3
+      r: 45
+      hexType: deep-ocean
+    - q: 2
+      r: 45
+      hexType: deep-ocean
+    - q: 2
+      r: 47
+      hexType: deep-ocean
+    - q: 2
+      r: 48
+      hexType: deep-ocean
+    - q: 2
+      r: 49
+      hexType: deep-ocean
+    - q: 2
+      r: 50
+      hexType: deep-ocean
+    - q: 2
+      r: 51
+      hexType: deep-ocean
+    - q: 2
+      r: 52
+      hexType: deep-ocean
+    - q: 1
+      r: 46
+      hexType: deep-ocean
+    - q: 1
+      r: 47
+      hexType: deep-ocean
+    - q: 1
+      r: 49
+      hexType: deep-ocean
+    - q: 1
+      r: 48
+      hexType: deep-ocean
+    - q: 1
+      r: 50
+      hexType: deep-ocean
+    - q: 1
+      r: 52
+      hexType: deep-ocean
+    - q: 1
+      r: 51
+      hexType: deep-ocean
+    - q: 3
+      r: 52
+      hexType: deep-ocean
+    - q: 5
+      r: 52
+      hexType: deep-ocean
+    - q: 6
+      r: 52
+      hexType: deep-ocean
+    - q: 7
+      r: 52
+      hexType: deep-ocean
+    - q: 4
+      r: 52
+      hexType: deep-ocean
+    - q: 8
+      r: 52
+      hexType: deep-ocean
+    - q: 10
+      r: 52
+      hexType: deep-ocean
+    - q: 9
+      r: 52
+      hexType: deep-ocean
+    - q: 12
+      r: 52
+      hexType: deep-ocean
+    - q: 13
+      r: 52
+      hexType: deep-ocean
+    - q: 11
+      r: 52
+      hexType: deep-ocean
+    - q: 14
+      r: 52
+      hexType: deep-ocean
+    - q: 15
+      r: 52
+      hexType: deep-ocean
+    - q: 16
+      r: 52
+      hexType: deep-ocean
+    - q: 17
+      r: 52
+      hexType: deep-ocean
+    - q: 18
+      r: 52
+      hexType: deep-ocean
+    - q: 19
+      r: 52
+      hexType: deep-ocean
+    - q: 20
+      r: 52
+      hexType: deep-ocean
+    - q: 21
+      r: 52
+      hexType: deep-ocean
+    - q: 24
+      r: 52
+      hexType: deep-ocean
+    - q: 23
+      r: 52
+      hexType: deep-ocean
+    - q: 22
+      r: 52
+      hexType: deep-ocean
+    - q: 25
+      r: 52
+      hexType: deep-ocean
+    - q: 26
+      r: 51
+      hexType: deep-ocean
+    - q: 27
+      r: 52
+      hexType: deep-ocean
+    - q: 26
+      r: 52
+      hexType: deep-ocean
+    - q: 27
+      r: 51
+      hexType: deep-ocean
+    - q: 28
+      r: 52
+      hexType: deep-ocean
+    - q: 29
+      r: 51
+      hexType: grassland
+    - q: 30
+      r: 51
+      hexType: grassland
+    - q: 29
+      r: 52
+      hexType: deep-ocean
+    - q: 31
+      r: 52
+      hexType: deep-ocean
+    - q: 30
+      r: 52
+      hexType: deep-ocean
+    - q: 32
+      r: 52
+      hexType: deep-ocean
+    - q: 33
+      r: 52
+      hexType: deep-ocean
+    - q: 34
+      r: 52
+      hexType: deep-ocean
+    - q: 35
+      r: 52
+      hexType: deep-ocean
+    - q: 36
+      r: 52
+      hexType: deep-ocean
+    - q: 37
+      r: 52
+      hexType: deep-ocean
+    - q: 38
+      r: 52
+      hexType: deep-ocean
+    - q: 40
+      r: 52
+      hexType: deep-ocean
+    - q: 39
+      r: 52
+      hexType: deep-ocean
+    - q: 41
+      r: 52
+      hexType: deep-ocean
+    - q: 42
+      r: 52
+      hexType: deep-ocean
+    - q: 43
+      r: 52
+      hexType: deep-ocean
+    - q: 44
+      r: 52
+      hexType: deep-ocean
+    - q: 45
+      r: 52
+      hexType: deep-ocean
+    - q: 46
+      r: 52
+      hexType: deep-ocean
+    - q: 47
+      r: 52
+      hexType: deep-ocean
+    - q: 47
+      r: 50
+      hexType: deep-ocean
+    - q: 47
+      r: 48
+      hexType: deep-ocean
+    - q: 47
+      r: 47
+      hexType: deep-ocean
+    - q: 47
+      r: 45
+      hexType: deep-ocean
+    - q: 47
+      r: 44
+      hexType: deep-ocean
+    - q: 47
+      r: 46
+      hexType: deep-ocean
+    - q: 47
+      r: 49
+      hexType: deep-ocean
+    - q: 46
+      r: 51
+      hexType: deep-ocean
+    - q: 47
+      r: 51
+      hexType: deep-ocean
+    - q: 18
+      r: 46
+      hexType: deep-ocean
+    - q: 28
+      r: 45
+      hexType: deep-ocean
+    - q: 34
+      r: 45
+      hexType: deep-ocean
+    - q: 25
+      r: 45
+      hexType: deep-ocean
+    - q: 19
+      r: 45
+      hexType: deep-ocean
+    - q: 18
+      r: 45
+      hexType: deep-ocean
+    - q: 17
+      r: 46
+      hexType: deep-ocean
+    - q: 23
+      r: 47
+      hexType: deep-ocean
+    - q: 24
+      r: 47
+      hexType: deep-ocean
+    - q: 27
+      r: 47
+      hexType: deep-ocean
+    - q: 25
+      r: 47
+      hexType: deep-ocean
+    - q: 19
+      r: 47
+      hexType: deep-ocean
+    - q: 16
+      r: 48
+      hexType: deep-ocean
+    - q: 13
+      r: 49
+      hexType: deep-ocean
+    - q: 9
+      r: 48
+      hexType: deep-ocean
+    - q: 15
+      r: 48
+      hexType: deep-ocean
+    - q: 18
+      r: 48
+      hexType: deep-ocean
+    - q: 21
+      r: 47
+      hexType: deep-ocean
+    - q: 33
+      r: 47
+      hexType: deep-ocean
+    - q: 37
+      r: 47
+      hexType: deep-ocean
+    - q: 32
+      r: 46
+      hexType: deep-ocean
+    - q: 28
+      r: 47
+      hexType: deep-ocean
+    - q: 21
+      r: 48
+      hexType: deep-ocean
+    - q: 20
+      r: 48
+      hexType: deep-ocean
+    - q: 18
+      r: 49
+      hexType: deep-ocean
+    - q: 17
+      r: 49
+      hexType: deep-ocean
+    - q: 20
+      r: 49
+      hexType: deep-ocean
+    - q: 21
+      r: 49
+      hexType: deep-ocean
+    - q: 22
+      r: 49
+      hexType: deep-ocean
+    - q: 23
+      r: 49
+      hexType: deep-ocean
+    - q: 25
+      r: 49
+      hexType: deep-ocean
+    - q: 29
+      r: 49
+      hexType: grassland
+    - q: 27
+      r: 50
+      hexType: deep-ocean
+    - q: 26
+      r: 48
+      hexType: deep-ocean
+    - q: 27
+      r: 46
+      hexType: deep-ocean
+    - q: 27
+      r: 45
+      hexType: deep-ocean
+    - q: 26
+      r: 44
+      hexType: deep-ocean
+    - q: 23
+      r: 45
+      hexType: deep-ocean
+    - q: 21
+      r: 45
+      hexType: deep-ocean
+    - q: 21
+      r: 46
+      hexType: deep-ocean
+    - q: 22
+      r: 45
+      hexType: deep-ocean
+    - q: 23
+      r: 44
+      hexType: deep-ocean
+    - q: 22
+      r: 44
+      hexType: deep-ocean
+    - q: 24
+      r: 44
+      hexType: deep-ocean
+    - q: 27
+      r: 44
+      hexType: deep-ocean
+    - q: 29
+      r: 44
+      hexType: deep-ocean
+    - q: 30
+      r: 44
+      hexType: deep-ocean
+    - q: 32
+      r: 44
+      hexType: deep-ocean
+    - q: 30
+      r: 45
+      hexType: deep-ocean
+    - q: 29
+      r: 45
+      hexType: deep-ocean
+    - q: 31
+      r: 44
+      hexType: deep-ocean
+    - q: 31
+      r: 45
+      hexType: deep-ocean
+    - q: 31
+      r: 46
+      hexType: deep-ocean
+    - q: 29
+      r: 46
+      hexType: deep-ocean
+    - q: 28
+      r: 46
+      hexType: deep-ocean
+    - q: 30
+      r: 46
+      hexType: deep-ocean
+    - q: 26
+      r: 46
+      hexType: deep-ocean
+    - q: 28
+      r: 44
+      hexType: deep-ocean
+    - q: 24
+      r: 45
+      hexType: deep-ocean
+    - q: 25
+      r: 44
+      hexType: deep-ocean
+    - q: 26
+      r: 45
+      hexType: deep-ocean
+    - q: 22
+      r: 47
+      hexType: deep-ocean
+    - q: 22
+      r: 46
+      hexType: deep-ocean
+    - q: 24
+      r: 46
+      hexType: deep-ocean
+    - q: 23
+      r: 46
+      hexType: deep-ocean
+    - q: 25
+      r: 46
+      hexType: deep-ocean
+    - q: 23
+      r: 48
+      hexType: deep-ocean
+    - q: 22
+      r: 48
+      hexType: deep-ocean
+    - q: 25
+      r: 48
+      hexType: deep-ocean
+    - q: 24
+      r: 48
+      hexType: deep-ocean
+    - q: 25
+      r: 50
+      hexType: deep-ocean
+    - q: 24
+      r: 49
+      hexType: deep-ocean
+    - q: 26
+      r: 47
+      hexType: deep-ocean
+    - q: 27
+      r: 48
+      hexType: deep-ocean
+    - q: 28
+      r: 48
+      hexType: deep-ocean
+    - q: 29
+      r: 48
+      hexType: deep-ocean
+    - q: 30
+      r: 47
+      hexType: deep-ocean
+    - q: 31
+      r: 47
+      hexType: deep-ocean
+    - q: 32
+      r: 47
+      hexType: deep-ocean
+    - q: 33
+      r: 46
+      hexType: deep-ocean
+    - q: 33
+      r: 45
+      hexType: deep-ocean
+    - q: 32
+      r: 45
+      hexType: deep-ocean
+    - q: 35
+      r: 44
+      hexType: deep-ocean
+    - q: 33
+      r: 44
+      hexType: deep-ocean
+    - q: 36
+      r: 44
+      hexType: deep-ocean
+    - q: 37
+      r: 44
+      hexType: deep-ocean
+    - q: 39
+      r: 44
+      hexType: deep-ocean
+    - q: 41
+      r: 44
+      hexType: deep-ocean
+    - q: 45
+      r: 44
+      hexType: deep-ocean
+    - q: 42
+      r: 48
+      hexType: deep-ocean
+    - q: 31
+      r: 49
+      hexType: deep-ocean
+    - q: 30
+      r: 49
+      hexType: deep-ocean
+    - q: 39
+      r: 46
+      hexType: grassland
+    - q: 7
+      r: 47
+      hexType: deep-ocean
+    - q: 11
+      r: 46
+      hexType: deep-ocean
+    - q: 13
+      r: 45
+      hexType: deep-ocean
+    - q: 14
+      r: 45
+      hexType: deep-ocean
+    - q: 11
+      r: 45
+      hexType: deep-ocean
+    - q: 10
+      r: 45
+      hexType: deep-ocean
+    - q: 9
+      r: 45
+      hexType: deep-ocean
+    - q: 4
+      r: 46
+      hexType: deep-ocean
+    - q: 3
+      r: 44
+      hexType: deep-ocean
+    - q: 2
+      r: 46
+      hexType: deep-ocean
+    - q: 3
+      r: 46
+      hexType: deep-ocean
+    - q: 4
+      r: 44
+      hexType: deep-ocean
+    - q: 6
+      r: 44
+      hexType: deep-ocean
+    - q: 8
+      r: 44
+      hexType: deep-ocean
+    - q: 9
+      r: 44
+      hexType: deep-ocean
+    - q: 10
+      r: 44
+      hexType: deep-ocean
+    - q: 11
+      r: 44
+      hexType: deep-ocean
+    - q: 12
+      r: 44
+      hexType: deep-ocean
+    - q: 13
+      r: 44
+      hexType: deep-ocean
+    - q: 14
+      r: 44
+      hexType: deep-ocean
+    - q: 15
+      r: 44
+      hexType: deep-ocean
+    - q: 16
+      r: 45
+      hexType: deep-ocean
+    - q: 16
+      r: 44
+      hexType: deep-ocean
+    - q: 15
+      r: 45
+      hexType: deep-ocean
+    - q: 18
+      r: 44
+      hexType: deep-ocean
+    - q: 19
+      r: 44
+      hexType: deep-ocean
+    - q: 17
+      r: 44
+      hexType: deep-ocean
+    - q: 17
+      r: 45
+      hexType: deep-ocean
+    - q: 21
+      r: 44
+      hexType: deep-ocean
+    - q: 20
+      r: 44
+      hexType: deep-ocean
+    - q: 20
+      r: 45
+      hexType: deep-ocean
+    - q: 20
+      r: 47
+      hexType: deep-ocean
+    - q: 20
+      r: 46
+      hexType: deep-ocean
+    - q: 34
+      r: 44
+      hexType: deep-ocean
+    - q: 18
+      r: 47
+      hexType: deep-ocean
+    - q: 19
+      r: 46
+      hexType: deep-ocean
+    - q: 12
+      r: 45
+      hexType: deep-ocean
+    - q: 13
+      r: 46
+      hexType: deep-ocean
+    - q: 12
+      r: 46
+      hexType: deep-ocean
+    - q: 14
+      r: 46
+      hexType: deep-ocean
+    - q: 15
+      r: 46
+      hexType: deep-ocean
+    - q: 16
+      r: 46
+      hexType: deep-ocean
+    - q: 17
+      r: 47
+      hexType: deep-ocean
+    - q: 17
+      r: 48
+      hexType: deep-ocean
+    - q: 16
+      r: 47
+      hexType: deep-ocean
+    - q: 15
+      r: 47
+      hexType: deep-ocean
+    - q: 14
+      r: 47
+      hexType: deep-ocean
+    - q: 13
+      r: 47
+      hexType: deep-ocean
+    - q: 12
+      r: 47
+      hexType: deep-ocean
+    - q: 10
+      r: 47
+      hexType: deep-ocean
+    - q: 9
+      r: 46
+      hexType: deep-ocean
+    - q: 10
+      r: 46
+      hexType: deep-ocean
+    - q: 8
+      r: 45
+      hexType: deep-ocean
+    - q: 7
+      r: 45
+      hexType: deep-ocean
+    - q: 7
+      r: 44
+      hexType: deep-ocean
+    - q: 5
+      r: 46
+      hexType: deep-ocean
+    - q: 6
+      r: 45
+      hexType: deep-ocean
+    - q: 5
+      r: 45
+      hexType: deep-ocean
+    - q: 4
+      r: 45
+      hexType: deep-ocean
+    - q: 5
+      r: 44
+      hexType: deep-ocean
+    - q: 6
+      r: 46
+      hexType: deep-ocean
+    - q: 7
+      r: 46
+      hexType: deep-ocean
+    - q: 8
+      r: 46
+      hexType: deep-ocean
+    - q: 8
+      r: 47
+      hexType: deep-ocean
+    - q: 9
+      r: 47
+      hexType: deep-ocean
+    - q: 10
+      r: 48
+      hexType: deep-ocean
+    - q: 11
+      r: 48
+      hexType: deep-ocean
+    - q: 11
+      r: 47
+      hexType: deep-ocean
+    - q: 12
+      r: 48
+      hexType: deep-ocean
+    - q: 13
+      r: 48
+      hexType: deep-ocean
+    - q: 14
+      r: 48
+      hexType: deep-ocean
+    - q: 15
+      r: 49
+      hexType: grassland
+    - q: 16
+      r: 49
+      hexType: grassland
+    - q: 19
+      r: 48
+      hexType: deep-ocean
+    - q: 19
+      r: 49
+      hexType: deep-ocean
+    - q: 29
+      r: 47
+      hexType: deep-ocean
+    - q: 30
+      r: 48
+      hexType: deep-ocean
+    - q: 31
+      r: 48
+      hexType: deep-ocean
+    - q: 32
+      r: 48
+      hexType: deep-ocean
+    - q: 33
+      r: 48
+      hexType: deep-ocean
+    - q: 36
+      r: 46
+      hexType: deep-ocean
+    - q: 34
+      r: 47
+      hexType: deep-ocean
+    - q: 34
+      r: 46
+      hexType: deep-ocean
+    - q: 35
+      r: 46
+      hexType: deep-ocean
+    - q: 35
+      r: 45
+      hexType: deep-ocean
+    - q: 36
+      r: 45
+      hexType: deep-ocean
+    - q: 37
+      r: 45
+      hexType: deep-ocean
+    - q: 38
+      r: 44
+      hexType: deep-ocean
+    - q: 38
+      r: 45
+      hexType: deep-ocean
+    - q: 39
+      r: 45
+      hexType: deep-ocean
+    - q: 40
+      r: 44
+      hexType: grassland
+    - q: 41
+      r: 46
+      hexType: grassland
+    - q: 40
+      r: 45
+      hexType: grassland
+    - q: 41
+      r: 45
+      hexType: grassland
+    - q: 42
+      r: 44
+      hexType: deep-ocean
+    - q: 43
+      r: 45
+      hexType: deep-ocean
+    - q: 43
+      r: 44
+      hexType: deep-ocean
+    - q: 44
+      r: 44
+      hexType: deep-ocean
+    - q: 46
+      r: 44
+      hexType: deep-ocean
+    - q: 46
+      r: 46
+      hexType: deep-ocean
+    - q: 46
+      r: 45
+      hexType: deep-ocean
+    - q: 45
+      r: 46
+      hexType: deep-ocean
+    - q: 44
+      r: 45
+      hexType: deep-ocean
+    - q: 45
+      r: 45
+      hexType: deep-ocean
+    - q: 44
+      r: 46
+      hexType: deep-ocean
+    - q: 43
+      r: 47
+      hexType: deep-ocean
+    - q: 43
+      r: 48
+      hexType: deep-ocean
+    - q: 40
+      r: 47
+      hexType: deep-ocean
+    - q: 38
+      r: 49
+      hexType: deep-ocean
+    - q: 40
+      r: 46
+      hexType: grassland
+    - q: 39
+      r: 48
+      hexType: deep-ocean
+    - q: 37
+      r: 48
+      hexType: deep-ocean
+    - q: 39
+      r: 47
+      hexType: grassland
+    - q: 38
+      r: 47
+      hexType: deep-ocean
+    - q: 38
+      r: 46
+      hexType: grassland
+    - q: 37
+      r: 46
+      hexType: deep-ocean
+    - q: 36
+      r: 47
+      hexType: deep-ocean
+    - q: 35
+      r: 47
+      hexType: deep-ocean
+    - q: 34
+      r: 48
+      hexType: deep-ocean
+    - q: 33
+      r: 49
+      hexType: deep-ocean
+    - q: 31
+      r: 50
+      hexType: deep-ocean
+    - q: 36
+      r: 48
+      hexType: deep-ocean
+    - q: 34
+      r: 49
+      hexType: deep-ocean
+    - q: 32
+      r: 50
+      hexType: deep-ocean
+    - q: 36
+      r: 49
+      hexType: deep-ocean
+    - q: 37
+      r: 49
+      hexType: deep-ocean
+    - q: 33
+      r: 50
+      hexType: deep-ocean
+    - q: 32
+      r: 51
+      hexType: deep-ocean
+    - q: 36
+      r: 50
+      hexType: deep-ocean
+    - q: 34
+      r: 50
+      hexType: deep-ocean
+    - q: 31
+      r: 51
+      hexType: deep-ocean
+    - q: 32
+      r: 49
+      hexType: deep-ocean
+    - q: 33
+      r: 51
+      hexType: deep-ocean
+    - q: 34
+      r: 51
+      hexType: deep-ocean
+    - q: 35
+      r: 50
+      hexType: deep-ocean
+    - q: 35
+      r: 48
+      hexType: deep-ocean
+    - q: 35
+      r: 49
+      hexType: deep-ocean
+    - q: 38
+      r: 48
+      hexType: deep-ocean
+    - q: 43
+      r: 46
+      hexType: deep-ocean
+    - q: 42
+      r: 45
+      hexType: deep-ocean
+    - q: 42
+      r: 46
+      hexType: deep-ocean
+    - q: 42
+      r: 47
+      hexType: deep-ocean
+    - q: 41
+      r: 48
+      hexType: deep-ocean
+    - q: 40
+      r: 49
+      hexType: deep-ocean
+    - q: 39
+      r: 50
+      hexType: deep-ocean
+    - q: 40
+      r: 48
+      hexType: deep-ocean
+    - q: 41
+      r: 47
+      hexType: deep-ocean
+    - q: 39
+      r: 49
+      hexType: deep-ocean
+    - q: 38
+      r: 50
+      hexType: deep-ocean
+    - q: 35
+      r: 51
+      hexType: deep-ocean
+    - q: 37
+      r: 51
+      hexType: deep-ocean
+    - q: 37
+      r: 50
+      hexType: deep-ocean
+    - q: 36
+      r: 51
+      hexType: deep-ocean
+    - q: 38
+      r: 51
+      hexType: deep-ocean
+    - q: 39
+      r: 51
+      hexType: deep-ocean
+    - q: 40
+      r: 51
+      hexType: deep-ocean
+    - q: 41
+      r: 51
+      hexType: deep-ocean
+    - q: 42
+      r: 51
+      hexType: deep-ocean
+    - q: 44
+      r: 51
+      hexType: deep-ocean
+    - q: 46
+      r: 50
+      hexType: deep-ocean
+    - q: 46
+      r: 49
+      hexType: deep-ocean
+    - q: 46
+      r: 48
+      hexType: deep-ocean
+    - q: 45
+      r: 48
+      hexType: deep-ocean
+    - q: 44
+      r: 48
+      hexType: deep-ocean
+    - q: 44
+      r: 47
+      hexType: deep-ocean
+    - q: 45
+      r: 47
+      hexType: deep-ocean
+    - q: 46
+      r: 47
+      hexType: deep-ocean
+    - q: 45
+      r: 49
+      hexType: deep-ocean
+    - q: 44
+      r: 49
+      hexType: deep-ocean
+    - q: 43
+      r: 49
+      hexType: deep-ocean
+    - q: 42
+      r: 49
+      hexType: deep-ocean
+    - q: 41
+      r: 49
+      hexType: deep-ocean
+    - q: 40
+      r: 50
+      hexType: deep-ocean
+    - q: 41
+      r: 50
+      hexType: deep-ocean
+    - q: 42
+      r: 50
+      hexType: deep-ocean
+    - q: 43
+      r: 50
+      hexType: deep-ocean
+    - q: 43
+      r: 51
+      hexType: deep-ocean
+    - q: 44
+      r: 50
+      hexType: deep-ocean
+    - q: 45
+      r: 50
+      hexType: deep-ocean
+    - q: 45
+      r: 51
+      hexType: deep-ocean
+    - q: 29
+      r: 50
+      hexType: grassland
+    - q: 28
+      r: 51
+      hexType: deep-ocean
+    - q: 28
+      r: 50
+      hexType: grassland
+    - q: 30
+      r: 50
+      hexType: grassland
+    - q: 28
+      r: 49
+      hexType: grassland
+    - q: 27
+      r: 49
+      hexType: deep-ocean
+    - q: 26
+      r: 49
+      hexType: deep-ocean
+    - q: 26
+      r: 50
+      hexType: deep-ocean
+    - q: 25
+      r: 51
+      hexType: deep-ocean
+    - q: 24
+      r: 51
+      hexType: deep-ocean
+    - q: 24
+      r: 50
+      hexType: deep-ocean
+    - q: 23
+      r: 51
+      hexType: deep-ocean
+    - q: 22
+      r: 51
+      hexType: deep-ocean
+    - q: 21
+      r: 51
+      hexType: deep-ocean
+    - q: 22
+      r: 50
+      hexType: deep-ocean
+    - q: 23
+      r: 50
+      hexType: deep-ocean
+    - q: 20
+      r: 50
+      hexType: deep-ocean
+    - q: 19
+      r: 50
+      hexType: deep-ocean
+    - q: 21
+      r: 50
+      hexType: deep-ocean
+    - q: 19
+      r: 51
+      hexType: deep-ocean
+    - q: 3
+      r: 47
+      hexType: deep-ocean
+    - q: 3
+      r: 48
+      hexType: deep-ocean
+    - q: 5
+      r: 47
+      hexType: deep-ocean
+    - q: 6
+      r: 47
+      hexType: deep-ocean
+    - q: 14
+      r: 49
+      hexType: deep-ocean
+    - q: 15
+      r: 51
+      hexType: deep-ocean
+    - q: 18
+      r: 50
+      hexType: deep-ocean
+    - q: 18
+      r: 51
+      hexType: deep-ocean
+    - q: 20
+      r: 51
+      hexType: deep-ocean
+    - q: 17
+      r: 51
+      hexType: grassland
+    - q: 17
+      r: 50
+      hexType: grassland
+    - q: 16
+      r: 51
+      hexType: grassland
+    - q: 16
+      r: 50
+      hexType: grassland
+    - q: 13
+      r: 51
+      hexType: deep-ocean
+    - q: 15
+      r: 50
+      hexType: grassland
+    - q: 14
+      r: 51
+      hexType: deep-ocean
+    - q: 14
+      r: 50
+      hexType: deep-ocean
+    - q: 13
+      r: 50
+      hexType: deep-ocean
+    - q: 12
+      r: 49
+      hexType: deep-ocean
+    - q: 11
+      r: 49
+      hexType: deep-ocean
+    - q: 10
+      r: 49
+      hexType: deep-ocean
+    - q: 9
+      r: 49
+      hexType: deep-ocean
+    - q: 8
+      r: 49
+      hexType: deep-ocean
+    - q: 8
+      r: 48
+      hexType: deep-ocean
+    - q: 6
+      r: 48
+      hexType: deep-ocean
+    - q: 4
+      r: 47
+      hexType: deep-ocean
+    - q: 4
+      r: 48
+      hexType: deep-ocean
+    - q: 3
+      r: 49
+      hexType: deep-ocean
+    - q: 3
+      r: 50
+      hexType: deep-ocean
+    - q: 3
+      r: 51
+      hexType: deep-ocean
+    - q: 6
+      r: 50
+      hexType: deep-ocean
+    - q: 7
+      r: 50
+      hexType: deep-ocean
+    - q: 8
+      r: 50
+      hexType: deep-ocean
+    - q: 9
+      r: 50
+      hexType: deep-ocean
+    - q: 11
+      r: 50
+      hexType: deep-ocean
+    - q: 12
+      r: 51
+      hexType: deep-ocean
+    - q: 12
+      r: 50
+      hexType: deep-ocean
+    - q: 11
+      r: 51
+      hexType: deep-ocean
+    - q: 10
+      r: 50
+      hexType: deep-ocean
+    - q: 10
+      r: 51
+      hexType: deep-ocean
+    - q: 9
+      r: 51
+      hexType: deep-ocean
+    - q: 7
+      r: 51
+      hexType: deep-ocean
+    - q: 6
+      r: 51
+      hexType: deep-ocean
+    - q: 8
+      r: 51
+      hexType: deep-ocean
+    - q: 7
+      r: 49
+      hexType: deep-ocean
+    - q: 6
+      r: 49
+      hexType: deep-ocean
+    - q: 7
+      r: 48
+      hexType: deep-ocean
+    - q: 5
+      r: 48
+      hexType: deep-ocean
+    - q: 4
+      r: 49
+      hexType: deep-ocean
+    - q: 5
+      r: 49
+      hexType: deep-ocean
+    - q: 4
+      r: 50
+      hexType: deep-ocean
+    - q: 5
+      r: 50
+      hexType: deep-ocean
+    - q: 4
+      r: 51
+      hexType: deep-ocean
+    - q: 5
+      r: 51
+      hexType: deep-ocean
+    - q: 0
+      r: 2
+      hexType: deep-ocean
+    - q: -2
+      r: 2
+      hexType: deep-ocean
+    - q: -3
+      r: 2
+      hexType: deep-ocean
+    - q: -4
+      r: 2
+      hexType: deep-ocean
+    - q: -5
+      r: 2
+      hexType: deep-ocean
+    - q: -6
+      r: 2
+      hexType: deep-ocean
+    - q: -7
+      r: 2
+      hexType: deep-ocean
+    - q: -8
+      r: 2
+      hexType: deep-ocean
+    - q: -9
+      r: 2
+      hexType: deep-ocean
+    - q: -10
+      r: 2
+      hexType: deep-ocean
+    - q: -11
+      r: 2
+      hexType: deep-ocean
+    - q: -12
+      r: 2
+      hexType: deep-ocean
+    - q: -13
+      r: 2
+      hexType: deep-ocean
+    - q: -14
+      r: 2
+      hexType: deep-ocean
+    - q: -15
+      r: 2
+      hexType: deep-ocean
+    - q: -15
+      r: 4
+      hexType: deep-ocean
+    - q: -16
+      r: 3
+      hexType: deep-ocean
+    - q: -16
+      r: 5
+      hexType: deep-ocean
+    - q: -15
+      r: 6
+      hexType: deep-ocean
+    - q: -16
+      r: 7
+      hexType: deep-ocean
+    - q: -15
+      r: 8
+      hexType: deep-ocean
+    - q: -16
+      r: 9
+      hexType: deep-ocean
+    - q: -15
+      r: 10
+      hexType: deep-ocean
+    - q: -16
+      r: 11
+      hexType: deep-ocean
+    - q: -15
+      r: 12
+      hexType: deep-ocean
+    - q: -15
+      r: 14
+      hexType: deep-ocean
+    - q: -16
+      r: 13
+      hexType: deep-ocean
+    - q: -15
+      r: 15
+      hexType: deep-ocean
+    - q: -15
+      r: 16
+      hexType: deep-ocean
+    - q: -16
+      r: 15
+      hexType: deep-ocean
+    - q: -16
+      r: 17
+      hexType: deep-ocean
+    - q: -15
+      r: 17
+      hexType: deep-ocean
+    - q: -15
+      r: 18
+      hexType: deep-ocean
+    - q: -16
+      r: 19
+      hexType: deep-ocean
+    - q: -15
+      r: 20
+      hexType: deep-ocean
+    - q: -15
+      r: 21
+      hexType: deep-ocean
+    - q: -15
+      r: 22
+      hexType: deep-ocean
+    - q: -16
+      r: 21
+      hexType: deep-ocean
+    - q: -16
+      r: 23
+      hexType: deep-ocean
+    - q: -15
+      r: 24
+      hexType: deep-ocean
+    - q: -16
+      r: 25
+      hexType: deep-ocean
+    - q: -15
+      r: 26
+      hexType: deep-ocean
+    - q: -16
+      r: 27
+      hexType: deep-ocean
+    - q: -15
+      r: 28
+      hexType: deep-ocean
+    - q: -16
+      r: 29
+      hexType: deep-ocean
+    - q: -15
+      r: 30
+      hexType: deep-ocean
+    - q: -16
+      r: 31
+      hexType: deep-ocean
+    - q: -15
+      r: 32
+      hexType: deep-ocean
+    - q: -16
+      r: 33
+      hexType: deep-ocean
+    - q: -15
+      r: 34
+      hexType: deep-ocean
+    - q: -16
+      r: 35
+      hexType: deep-ocean
+    - q: -15
+      r: 36
+      hexType: deep-ocean
+    - q: -16
+      r: 37
+      hexType: deep-ocean
+    - q: -15
+      r: 38
+      hexType: deep-ocean
+    - q: -16
+      r: 39
+      hexType: deep-ocean
+    - q: -15
+      r: 40
+      hexType: deep-ocean
+    - q: -16
+      r: 41
+      hexType: deep-ocean
+    - q: -15
+      r: 42
+      hexType: deep-ocean
+    - q: -16
+      r: 43
+      hexType: deep-ocean
+    - q: -15
+      r: 44
+      hexType: deep-ocean
+    - q: -16
+      r: 45
+      hexType: deep-ocean
+    - q: -15
+      r: 46
+      hexType: deep-ocean
+    - q: -16
+      r: 47
+      hexType: deep-ocean
+    - q: -15
+      r: 48
+      hexType: deep-ocean
+    - q: -16
+      r: 49
+      hexType: deep-ocean
+    - q: -15
+      r: 50
+      hexType: deep-ocean
+    - q: -16
+      r: 51
+      hexType: deep-ocean
+    - q: -15
+      r: 52
+      hexType: deep-ocean
+    - q: -14
+      r: 52
+      hexType: deep-ocean
+    - q: -13
+      r: 52
+      hexType: deep-ocean
+    - q: -12
+      r: 52
+      hexType: deep-ocean
+    - q: -11
+      r: 52
+      hexType: deep-ocean
+    - q: -10
+      r: 52
+      hexType: deep-ocean
+    - q: -8
+      r: 52
+      hexType: deep-ocean
+    - q: -7
+      r: 52
+      hexType: deep-ocean
+    - q: -3
+      r: 52
+      hexType: deep-ocean
+    - q: -1
+      r: 52
+      hexType: deep-ocean
+    - q: 0
+      r: 52
+      hexType: deep-ocean
+    - q: -2
+      r: 52
+      hexType: deep-ocean
+    - q: -4
+      r: 52
+      hexType: deep-ocean
+    - q: -6
+      r: 51
+      hexType: deep-ocean
+    - q: -5
+      r: 52
+      hexType: deep-ocean
+    - q: -6
+      r: 52
+      hexType: deep-ocean
+    - q: -9
+      r: 52
+      hexType: deep-ocean
+    - q: -2
+      r: 3
+      hexType: deep-ocean
+    - q: -1
+      r: 2
+      hexType: deep-ocean
+    - q: -6
+      r: 35
+      hexType: deep-ocean
+    - q: -6
+      r: 28
+      hexType: deep-ocean
+    - q: -7
+      r: 16
+      hexType: deep-ocean
+    - q: -6
+      r: 10
+      hexType: deep-ocean
+    - q: -2
+      r: 21
+      hexType: deep-ocean
+    - q: -3
+      r: 30
+      hexType: deep-ocean
+    - q: -3
+      r: 23
+      hexType: deep-ocean
+    - q: -3
+      r: 14
+      hexType: deep-ocean
+    - q: -4
+      r: 17
+      hexType: deep-ocean
+    - q: -6
+      r: 27
+      hexType: deep-ocean
+    - q: -8
+      r: 36
+      hexType: deep-ocean
+    - q: -9
+      r: 33
+      hexType: deep-ocean
+    - q: -9
+      r: 27
+      hexType: deep-ocean
+    - q: -9
+      r: 23
+      hexType: deep-ocean
+    - q: -10
+      r: 19
+      hexType: deep-ocean
+    - q: -9
+      r: 24
+      hexType: deep-ocean
+    - q: -10
+      r: 27
+      hexType: deep-ocean
+    - q: -10
+      r: 29
+      hexType: deep-ocean
+    - q: -9
+      r: 30
+      hexType: deep-ocean
+    - q: -10
+      r: 32
+      hexType: deep-ocean
+    - q: -10
+      r: 33
+      hexType: deep-ocean
+    - q: -10
+      r: 35
+      hexType: deep-ocean
+    - q: -10
+      r: 37
+      hexType: deep-ocean
+    - q: -10
+      r: 39
+      hexType: deep-ocean
+    - q: -9
+      r: 40
+      hexType: deep-ocean
+    - q: -9
+      r: 42
+      hexType: deep-ocean
+    - q: -9
+      r: 44
+      hexType: deep-ocean
+    - q: -9
+      r: 45
+      hexType: deep-ocean
+    - q: -8
+      r: 46
+      hexType: deep-ocean
+    - q: -7
+      r: 47
+      hexType: deep-ocean
+    - q: -6
+      r: 48
+      hexType: deep-ocean
+    - q: -5
+      r: 48
+      hexType: deep-ocean
+    - q: -5
+      r: 49
+      hexType: deep-ocean
+    - q: -4
+      r: 49
+      hexType: deep-ocean
+    - q: -2
+      r: 50
+      hexType: deep-ocean
+    - q: -2
+      r: 49
+      hexType: deep-ocean
+    - q: -1
+      r: 46
+      hexType: deep-ocean
+    - q: -2
+      r: 41
+      hexType: deep-ocean
+    - q: -2
+      r: 39
+      hexType: deep-ocean
+    - q: -2
+      r: 36
+      hexType: deep-ocean
+    - q: -2
+      r: 32
+      hexType: deep-ocean
+    - q: -2
+      r: 31
+      hexType: deep-ocean
+    - q: -1
+      r: 3
+      hexType: deep-ocean
+    - q: -1
+      r: 4
+      hexType: deep-ocean
+    - q: 0
+      r: 4
+      hexType: deep-ocean
+    - q: -1
+      r: 7
+      hexType: deep-ocean
+    - q: -1
+      r: 6
+      hexType: deep-ocean
+    - q: -1
+      r: 5
+      hexType: deep-ocean
+    - q: 0
+      r: 6
+      hexType: deep-ocean
+    - q: 0
+      r: 11
+      hexType: deep-ocean
+    - q: 0
+      r: 8
+      hexType: deep-ocean
+    - q: -1
+      r: 9
+      hexType: deep-ocean
+    - q: -2
+      r: 10
+      hexType: deep-ocean
+    - q: -3
+      r: 11
+      hexType: deep-ocean
+    - q: -4
+      r: 13
+      hexType: deep-ocean
+    - q: -4
+      r: 14
+      hexType: deep-ocean
+    - q: -5
+      r: 15
+      hexType: deep-ocean
+    - q: -5
+      r: 17
+      hexType: deep-ocean
+    - q: -5
+      r: 18
+      hexType: deep-ocean
+    - q: -5
+      r: 20
+      hexType: deep-ocean
+    - q: -6
+      r: 21
+      hexType: deep-ocean
+    - q: -6
+      r: 22
+      hexType: deep-ocean
+    - q: -7
+      r: 23
+      hexType: deep-ocean
+    - q: -6
+      r: 24
+      hexType: deep-ocean
+    - q: -7
+      r: 25
+      hexType: deep-ocean
+    - q: -7
+      r: 26
+      hexType: deep-ocean
+    - q: -8
+      r: 27
+      hexType: deep-ocean
+    - q: -8
+      r: 28
+      hexType: deep-ocean
+    - q: -8
+      r: 29
+      hexType: deep-ocean
+    - q: -8
+      r: 30
+      hexType: deep-ocean
+    - q: -9
+      r: 31
+      hexType: deep-ocean
+    - q: -8
+      r: 33
+      hexType: deep-ocean
+    - q: -8
+      r: 31
+      hexType: deep-ocean
+    - q: -6
+      r: 30
+      hexType: deep-ocean
+    - q: -4
+      r: 24
+      hexType: deep-ocean
+    - q: -4
+      r: 21
+      hexType: deep-ocean
+    - q: -4
+      r: 19
+      hexType: deep-ocean
+    - q: -2
+      r: 16
+      hexType: deep-ocean
+    - q: -2
+      r: 14
+      hexType: deep-ocean
+    - q: -2
+      r: 13
+      hexType: deep-ocean
+    - q: -3
+      r: 20
+      hexType: deep-ocean
+    - q: -4
+      r: 23
+      hexType: deep-ocean
+    - q: -5
+      r: 28
+      hexType: deep-ocean
+    - q: -1
+      r: 11
+      hexType: deep-ocean
+    - q: -4
+      r: 11
+      hexType: deep-ocean
+    - q: -4
+      r: 8
+      hexType: deep-ocean
+    - q: -5
+      r: 6
+      hexType: deep-ocean
+    - q: -5
+      r: 4
+      hexType: deep-ocean
+    - q: -3
+      r: 3
+      hexType: deep-ocean
+    - q: -4
+      r: 3
+      hexType: deep-ocean
+    - q: -5
+      r: 3
+      hexType: deep-ocean
+    - q: -7
+      r: 3
+      hexType: deep-ocean
+    - q: -8
+      r: 3
+      hexType: deep-ocean
+    - q: -9
+      r: 3
+      hexType: deep-ocean
+    - q: -11
+      r: 3
+      hexType: deep-ocean
+    - q: -11
+      r: 4
+      hexType: deep-ocean
+    - q: -12
+      r: 3
+      hexType: deep-ocean
+    - q: -13
+      r: 3
+      hexType: deep-ocean
+    - q: -14
+      r: 3
+      hexType: deep-ocean
+    - q: -15
+      r: 3
+      hexType: deep-ocean
+    - q: -6
+      r: 20
+      hexType: deep-ocean
+    - q: -12
+      r: 19
+      hexType: deep-ocean
+    - q: -10
+      r: 14
+      hexType: deep-ocean
+    - q: -10
+      r: 10
+      hexType: deep-ocean
+    - q: -11
+      r: 8
+      hexType: deep-ocean
+    - q: -12
+      r: 6
+      hexType: deep-ocean
+    - q: -13
+      r: 4
+      hexType: deep-ocean
+    - q: -14
+      r: 4
+      hexType: deep-ocean
+    - q: -10
+      r: 4
+      hexType: deep-ocean
+    - q: -10
+      r: 3
+      hexType: deep-ocean
+    - q: -8
+      r: 4
+      hexType: deep-ocean
+    - q: -6
+      r: 3
+      hexType: deep-ocean
+    - q: -6
+      r: 4
+      hexType: deep-ocean
+    - q: -7
+      r: 4
+      hexType: deep-ocean
+    - q: -9
+      r: 5
+      hexType: deep-ocean
+    - q: -9
+      r: 4
+      hexType: deep-ocean
+    - q: -12
+      r: 5
+      hexType: deep-ocean
+    - q: -13
+      r: 5
+      hexType: deep-ocean
+    - q: -12
+      r: 4
+      hexType: deep-ocean
+    - q: -13
+      r: 6
+      hexType: deep-ocean
+    - q: -14
+      r: 5
+      hexType: deep-ocean
+    - q: -15
+      r: 5
+      hexType: deep-ocean
+    - q: -14
+      r: 6
+      hexType: deep-ocean
+    - q: -14
+      r: 7
+      hexType: deep-ocean
+    - q: -14
+      r: 8
+      hexType: deep-ocean
+    - q: -14
+      r: 10
+      hexType: deep-ocean
+    - q: -14
+      r: 11
+      hexType: deep-ocean
+    - q: -14
+      r: 12
+      hexType: deep-ocean
+    - q: -13
+      r: 14
+      hexType: deep-ocean
+    - q: -14
+      r: 15
+      hexType: deep-ocean
+    - q: -13
+      r: 16
+      hexType: deep-ocean
+    - q: -14
+      r: 17
+      hexType: deep-ocean
+    - q: -13
+      r: 18
+      hexType: deep-ocean
+    - q: -14
+      r: 19
+      hexType: deep-ocean
+    - q: -13
+      r: 20
+      hexType: deep-ocean
+    - q: -14
+      r: 21
+      hexType: deep-ocean
+    - q: -13
+      r: 22
+      hexType: deep-ocean
+    - q: -13
+      r: 24
+      hexType: deep-ocean
+    - q: -13
+      r: 26
+      hexType: deep-ocean
+    - q: -13
+      r: 27
+      hexType: deep-ocean
+    - q: -15
+      r: 9
+      hexType: deep-ocean
+    - q: -15
+      r: 7
+      hexType: deep-ocean
+    - q: -15
+      r: 11
+      hexType: deep-ocean
+    - q: -14
+      r: 14
+      hexType: deep-ocean
+    - q: -15
+      r: 13
+      hexType: deep-ocean
+    - q: -14
+      r: 13
+      hexType: deep-ocean
+    - q: -12
+      r: 8
+      hexType: deep-ocean
+    - q: -12
+      r: 7
+      hexType: deep-ocean
+    - q: -10
+      r: 9
+      hexType: deep-ocean
+    - q: -7
+      r: 13
+      hexType: deep-ocean
+    - q: -7
+      r: 19
+      hexType: deep-ocean
+    - q: -7
+      r: 22
+      hexType: deep-ocean
+    - q: -11
+      r: 45
+      hexType: deep-ocean
+    - q: -11
+      r: 48
+      hexType: deep-ocean
+    - q: -12
+      r: 45
+      hexType: deep-ocean
+    - q: -12
+      r: 42
+      hexType: deep-ocean
+    - q: -11
+      r: 40
+      hexType: deep-ocean
+    - q: -11
+      r: 38
+      hexType: deep-ocean
+    - q: -12
+      r: 35
+      hexType: deep-ocean
+    - q: -11
+      r: 32
+      hexType: deep-ocean
+    - q: -11
+      r: 30
+      hexType: deep-ocean
+    - q: -11
+      r: 27
+      hexType: deep-ocean
+    - q: -10
+      r: 23
+      hexType: deep-ocean
+    - q: -8
+      r: 16
+      hexType: deep-ocean
+    - q: -7
+      r: 12
+      hexType: deep-ocean
+    - q: -7
+      r: 11
+      hexType: deep-ocean
+    - q: -7
+      r: 10
+      hexType: deep-ocean
+    - q: -10
+      r: 11
+      hexType: deep-ocean
+    - q: -12
+      r: 14
+      hexType: deep-ocean
+    - q: -12
+      r: 15
+      hexType: deep-ocean
+    - q: -11
+      r: 17
+      hexType: deep-ocean
+    - q: -11
+      r: 19
+      hexType: deep-ocean
+    - q: -10
+      r: 20
+      hexType: deep-ocean
+    - q: -9
+      r: 22
+      hexType: deep-ocean
+    - q: -9
+      r: 25
+      hexType: deep-ocean
+    - q: -4
+      r: 25
+      hexType: deep-ocean
+    - q: -3
+      r: 8
+      hexType: deep-ocean
+    - q: -2
+      r: 5
+      hexType: deep-ocean
+    - q: -2
+      r: 4
+      hexType: deep-ocean
+    - q: -3
+      r: 4
+      hexType: deep-ocean
+    - q: -4
+      r: 4
+      hexType: deep-ocean
+    - q: -3
+      r: 5
+      hexType: deep-ocean
+    - q: -3
+      r: 6
+      hexType: deep-ocean
+    - q: -4
+      r: 6
+      hexType: deep-ocean
+    - q: -10
+      r: 5
+      hexType: deep-ocean
+    - q: -10
+      r: 6
+      hexType: deep-ocean
+    - q: -11
+      r: 5
+      hexType: deep-ocean
+    - q: -8
+      r: 5
+      hexType: deep-ocean
+    - q: -7
+      r: 5
+      hexType: deep-ocean
+    - q: -6
+      r: 5
+      hexType: deep-ocean
+    - q: -5
+      r: 5
+      hexType: deep-ocean
+    - q: -4
+      r: 5
+      hexType: deep-ocean
+    - q: -11
+      r: 6
+      hexType: deep-ocean
+    - q: -9
+      r: 6
+      hexType: deep-ocean
+    - q: -8
+      r: 6
+      hexType: deep-ocean
+    - q: -7
+      r: 6
+      hexType: deep-ocean
+    - q: -6
+      r: 6
+      hexType: deep-ocean
+    - q: -2
+      r: 6
+      hexType: deep-ocean
+    - q: -2
+      r: 7
+      hexType: deep-ocean
+    - q: -3
+      r: 7
+      hexType: deep-ocean
+    - q: -4
+      r: 7
+      hexType: deep-ocean
+    - q: -5
+      r: 7
+      hexType: deep-ocean
+    - q: -6
+      r: 7
+      hexType: deep-ocean
+    - q: -7
+      r: 7
+      hexType: deep-ocean
+    - q: -8
+      r: 7
+      hexType: deep-ocean
+    - q: -10
+      r: 7
+      hexType: deep-ocean
+    - q: -11
+      r: 7
+      hexType: deep-ocean
+    - q: -13
+      r: 7
+      hexType: deep-ocean
+    - q: -9
+      r: 7
+      hexType: deep-ocean
+    - q: -13
+      r: 8
+      hexType: deep-ocean
+    - q: -14
+      r: 9
+      hexType: deep-ocean
+    - q: -13
+      r: 9
+      hexType: deep-ocean
+    - q: -12
+      r: 12
+      hexType: deep-ocean
+    - q: -2
+      r: 9
+      hexType: deep-ocean
+    - q: -1
+      r: 8
+      hexType: deep-ocean
+    - q: -1
+      r: 10
+      hexType: deep-ocean
+    - q: 0
+      r: 10
+      hexType: deep-ocean
+    - q: -2
+      r: 8
+      hexType: deep-ocean
+    - q: -3
+      r: 9
+      hexType: deep-ocean
+    - q: -4
+      r: 9
+      hexType: deep-ocean
+    - q: -5
+      r: 8
+      hexType: deep-ocean
+    - q: -8
+      r: 8
+      hexType: deep-ocean
+    - q: -9
+      r: 8
+      hexType: deep-ocean
+    - q: -10
+      r: 8
+      hexType: deep-ocean
+    - q: -11
+      r: 9
+      hexType: deep-ocean
+    - q: -12
+      r: 10
+      hexType: deep-ocean
+    - q: -13
+      r: 10
+      hexType: deep-ocean
+    - q: -9
+      r: 9
+      hexType: deep-ocean
+    - q: -8
+      r: 9
+      hexType: deep-ocean
+    - q: -7
+      r: 8
+      hexType: deep-ocean
+    - q: -6
+      r: 9
+      hexType: deep-ocean
+    - q: -6
+      r: 8
+      hexType: deep-ocean
+    - q: -7
+      r: 9
+      hexType: deep-ocean
+    - q: -4
+      r: 10
+      hexType: deep-ocean
+    - q: -5
+      r: 9
+      hexType: deep-ocean
+    - q: -5
+      r: 10
+      hexType: deep-ocean
+    - q: -3
+      r: 10
+      hexType: deep-ocean
+    - q: -2
+      r: 11
+      hexType: deep-ocean
+    - q: -2
+      r: 12
+      hexType: deep-ocean
+    - q: -3
+      r: 13
+      hexType: deep-ocean
+    - q: -3
+      r: 12
+      hexType: deep-ocean
+    - q: -4
+      r: 12
+      hexType: deep-ocean
+    - q: -5
+      r: 11
+      hexType: deep-ocean
+    - q: -6
+      r: 11
+      hexType: deep-ocean
+    - q: -6
+      r: 12
+      hexType: deep-ocean
+    - q: -5
+      r: 13
+      hexType: deep-ocean
+    - q: -5
+      r: 12
+      hexType: deep-ocean
+    - q: -6
+      r: 13
+      hexType: deep-ocean
+    - q: -9
+      r: 11
+      hexType: deep-ocean
+    - q: -8
+      r: 10
+      hexType: deep-ocean
+    - q: -12
+      r: 9
+      hexType: deep-ocean
+    - q: -13
+      r: 11
+      hexType: deep-ocean
+    - q: -14
+      r: 16
+      hexType: deep-ocean
+    - q: -14
+      r: 18
+      hexType: deep-ocean
+    - q: -15
+      r: 19
+      hexType: deep-ocean
+    - q: -14
+      r: 20
       hexType: deep-ocean
 ---
