@@ -6,6 +6,7 @@ hexmap:
   settings:
     width: 12
     height: 8
+    defaultTerrain: forest
     hexSize: 30
     orientation: pointy
     showGrid: true
@@ -31,7 +32,7 @@ app.innerHTML = `
   <main class="layout">
     <section class="editor-panel"><div class="panel-heading"><div><span class="eyebrow">01 / SOURCE</span><h1>Bring your map to life.</h1></div><span class="live-dot">LIVE</span></div><p class="intro">Paste the <code>hexmap:</code> frontmatter from your Quartz page. Your map stays in this browser.</p><label class="field-label" for="source">PAGE FRONTMATTER <span>YAML</span></label><textarea id="source" spellcheck="false" aria-label="Paste page frontmatter"></textarea><div class="source-footer"><span id="status">Waiting for frontmatter</span><span id="tile-count">0 HEXES</span></div><div class="tip"><span>✳</span><p>Paste the contents between <code>---</code> markers, or paste the complete frontmatter block.</p></div></section>
     <section class="canvas-panel"><div class="panel-heading canvas-heading"><div><span class="eyebrow">02 / CANVAS</span><h2>Your hex map</h2></div><div class="view-controls"><button id="zoom-out" class="icon-button" aria-label="Zoom out">−</button><span id="zoom-label">100%</span><button id="zoom-in" class="icon-button" aria-label="Zoom in">+</button><span class="divider"></span><button id="fit" class="text-button">FIT</button></div></div><div class="canvas-wrap"><div id="canvas" class="canvas"><svg id="map" role="img" aria-label="Editable hex map"></svg></div><div id="empty" class="empty-state"><span>⌘</span><h3>Your canvas awaits</h3><p>Paste valid hexmap frontmatter to start editing.</p></div></div><div class="canvas-footer"><div><span class="legend-dot"></span> TERRAIN</div><span>CLICK A HEX TO EDIT · DRAG TO SELECT · CLICK OR DRAG EMPTY SPACE TO ADD</span></div></section>
-    <aside class="inspector"><div class="panel-heading"><div><span class="eyebrow">03 / INSPECTOR</span><h2>Map settings</h2></div></div><div class="inspector-body"><label class="control-label">ORIENTATION<select id="orientation"><option value="pointy">Pointy top</option><option value="flat">Flat top</option></select></label><label class="control-label">HEX SIZE <span id="size-value">30</span><input id="size" type="range" min="12" max="60" value="30"></label><div class="toggle-row"><span>Grid lines</span><label class="switch"><input id="grid" type="checkbox"><i></i></label></div><div class="toggle-row"><span>Tile labels</span><label class="switch"><input id="labels" type="checkbox"><i></i></label></div><div class="toggle-row"><span>Coordinates</span><label class="switch"><input id="coordinates" type="checkbox"><i></i></label></div><div class="selection" id="selection"><div class="selection-heading"><span class="eyebrow" id="selection-count">SELECTED HEX</span><button id="delete" class="delete-button" title="Delete selected hexes">DELETE</button></div><div class="coord-line" id="coordinates-edit"><span>Q</span><input id="q" type="number" aria-label="Hex q coordinate"><span>R</span><input id="r" type="number" aria-label="Hex r coordinate"></div><label class="control-label">TERRAIN<select id="terrain"></select></label><label class="control-label" id="label-control">LABEL<input id="label" type="text" placeholder="A place name"></label><label class="control-label" id="link-control">LINK<input id="link" type="text" placeholder="[[Page#Heading|Alias]]"></label></div><div class="inspector-hint">Click a hex to edit it, or drag across the canvas to select multiple hexes.</div></div><div class="inspector-bottom"><button id="add" class="button add-button">＋ &nbsp; Add hex</button><button id="clear" class="text-button clear-button">Clear map</button></div></aside>
+    <aside class="inspector"><div class="panel-heading"><div><span class="eyebrow">03 / INSPECTOR</span><h2>Map settings</h2></div></div><div class="inspector-body"><label class="control-label">ORIENTATION<select id="orientation"><option value="pointy">Pointy top</option><option value="flat">Flat top</option></select></label><label class="control-label">DEFAULT TERRAIN<select id="default-terrain"></select></label><label class="control-label">HEX SIZE <span id="size-value">30</span><input id="size" type="range" min="12" max="60" value="30"></label><div class="toggle-row"><span>Grid lines</span><label class="switch"><input id="grid" type="checkbox"><i></i></label></div><div class="toggle-row"><span>Tile labels</span><label class="switch"><input id="labels" type="checkbox"><i></i></label></div><div class="toggle-row"><span>Coordinates</span><label class="switch"><input id="coordinates" type="checkbox"><i></i></label></div><div class="selection" id="selection"><div class="selection-heading"><span class="eyebrow" id="selection-count">SELECTED HEX</span><button id="delete" class="delete-button" title="Delete selected hexes">DELETE</button></div><div class="coord-line" id="coordinates-edit"><span>Q</span><input id="q" type="number" aria-label="Hex q coordinate"><span>R</span><input id="r" type="number" aria-label="Hex r coordinate"></div><label class="control-label">TERRAIN<select id="terrain"></select></label><label class="control-label" id="label-control">LABEL<input id="label" type="text" placeholder="A place name"></label><label class="control-label" id="link-control">LINK<input id="link" type="text" placeholder="[[Page#Heading|Alias]]"></label></div><div class="inspector-hint">Click a hex to edit it, or drag across the canvas to select multiple hexes.</div></div><div class="inspector-bottom"><button id="add" class="button add-button">＋ &nbsp; Add hex</button><button id="clear" class="text-button clear-button">Clear map</button></div></aside>
   </main><footer class="app-footer"><span>HEX MAP STUDIO <span class="muted">· A local tool for Quartz</span></span><span>NO DATA LEAVES YOUR DEVICE</span></footer><div id="toast" class="toast" role="status"></div>
 `
 
@@ -53,6 +54,9 @@ const terrainSelect = $("#terrain")
 terrainSelect.add(new Option("Mixed terrain", ""))
 for (const name of Object.keys(terrains).filter((name) => name !== "default"))
   terrainSelect.add(new Option(name.replaceAll("-", " "), name))
+const defaultTerrainSelect = $("#default-terrain")
+for (const name of Object.keys(terrains).filter((name) => name !== "default"))
+  defaultTerrainSelect.add(new Option(name.replaceAll("-", " "), name))
 function key(hex) {
   return `${hex.q},${hex.r}`
 }
@@ -61,6 +65,7 @@ function defaultMap() {
     settings: {
       width: 40,
       height: 30,
+      defaultTerrain: "deep-ocean",
       hexSize: 30,
       orientation: "pointy",
       showGrid: true,
@@ -86,6 +91,11 @@ function parseSource(value) {
     throw new Error("Couldn't find a hexmap object. Check for a top-level hexmap: key.")
   if (!Array.isArray(map.hexes)) map.hexes = []
   map.settings = { ...defaultMap().settings, ...(map.settings ?? {}) }
+  if (
+    map.settings.defaultTerrain === "default" ||
+    !Object.hasOwn(terrains, map.settings.defaultTerrain)
+  )
+    map.settings.defaultTerrain = "deep-ocean"
   map.hexes = map.hexes
     .filter((hex) => hex && Number.isFinite(Number(hex.q)) && Number.isFinite(Number(hex.r)))
     .map((hex) => ({
@@ -139,6 +149,9 @@ function syncControls() {
   if (!state.map) return
   const settings = state.map.settings
   $("#orientation").value = settings.orientation === "flat" ? "flat" : "pointy"
+  defaultTerrainSelect.value = terrains[settings.defaultTerrain]
+    ? settings.defaultTerrain
+    : "deep-ocean"
   $("#size").value = Math.min(60, Math.max(12, Number(settings.hexSize) || 30))
   $("#size-value").textContent = settings.hexSize
   $("#grid").checked = settings.showGrid !== false
@@ -290,6 +303,12 @@ $("#orientation").addEventListener("change", (e) => {
     updateSource()
   }
 })
+$("#default-terrain").addEventListener("change", (e) => {
+  if (state.map && terrains[e.target.value]) {
+    state.map.settings.defaultTerrain = e.target.value
+    updateSource()
+  }
+})
 $("#size").addEventListener("input", (e) => {
   if (state.map) {
     state.map.settings.hexSize = Number(e.target.value)
@@ -344,7 +363,7 @@ for (const selector of ["#q", "#r"])
   })
 function addHex(q, r) {
   if (!state.map.hexes.some((hex) => hex.q === q && hex.r === r)) {
-    const hex = { q, r, hexType: "deep-ocean" }
+    const hex = { q, r, hexType: state.map.settings.defaultTerrain }
     state.map.hexes.push(hex)
     state.selected = new Set([key(hex)])
     updateSource()
@@ -371,6 +390,7 @@ function paintHexAt(clientX, clientY) {
   state.suppressMapClick = true
   const size = Math.max(1, Number(state.map.settings.hexSize) || 30)
   const { x, y } = center(hex.q, hex.r, size, state.map.settings.orientation)
+  const terrain = state.map.settings.defaultTerrain
   const angle = state.map.settings.orientation === "flat" ? 0 : -30
   const points = Array.from({ length: 6 }, (_, i) => {
     const a = (Math.PI / 180) * (60 * i + angle)
@@ -380,13 +400,13 @@ function paintHexAt(clientX, clientY) {
     class: "tile",
     tabindex: 0,
     role: "button",
-    "aria-label": `Hex ${hex.q}, ${hex.r}, deep-ocean`,
+    "aria-label": `Hex ${hex.q}, ${hex.r}, ${terrain}`,
     "data-key": hexKey,
   })
   tile.append(
     svgElement("polygon", {
       points,
-      fill: terrains["deep-ocean"],
+      fill: terrains[terrain] || terrains.default,
       stroke: state.map.settings.showGrid === false ? "none" : "#d5c9a866",
       "stroke-width": 1.5,
     }),
@@ -396,7 +416,7 @@ function paintHexAt(clientX, clientY) {
   if (!svg.firstElementChild) svg.append(svgElement("g"))
   svg.firstElementChild.append(tile)
   $("#empty").classList.add("hidden")
-  state.map.hexes.push({ ...hex, hexType: "deep-ocean" })
+  state.map.hexes.push({ ...hex, hexType: terrain })
   state.selected = new Set([hexKey])
   return true
 }
@@ -458,7 +478,7 @@ function addHexAboveMap() {
     .sort((a, b) => a.y - b.y || Math.abs(a.x - middleX) - Math.abs(b.x - middleX))
   if (!above.length) return
   const { q, r } = above[0]
-  const hex = { q, r, hexType: "deep-ocean" }
+  const hex = { q, r, hexType: state.map.settings.defaultTerrain }
   hexes.push(hex)
   state.selected = new Set([key(hex)])
   rebaseCoordinates()
