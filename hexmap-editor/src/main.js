@@ -149,7 +149,7 @@ for (const selector of ["#q", "#r"]) $(selector).addEventListener("change", () =
   if (state.map.hexes.some((item) => item !== hex && item.q === q && item.r === r)) { notify("Those coordinates are already occupied"); syncControls(); return }
   hex.q = q; hex.r = r; state.selected = new Set([key(hex)]); updateSource()
 })
-function addHex(q, r) { if (!state.map.hexes.some((hex) => hex.q === q && hex.r === r)) { const hex = { q, r, hexType: "grassland" }; state.map.hexes.push(hex); state.selected = new Set([key(hex)]); updateSource(); return true } return false }
+function addHex(q, r) { if (!state.map.hexes.some((hex) => hex.q === q && hex.r === r)) { const hex = { q, r, hexType: "deep-ocean" }; state.map.hexes.push(hex); state.selected = new Set([key(hex)]); updateSource(); return true } return false }
 function rebaseCoordinates() {
   const hexes = state.map.hexes
   const minQ = Math.min(...hexes.map((hex) => hex.q)), minR = Math.min(...hexes.map((hex) => hex.r))
@@ -183,7 +183,7 @@ function addHexAboveMap() {
   const above = [...candidates.values()].filter((candidate) => candidate.y < topY).sort((a, b) => a.y - b.y || Math.abs(a.x - middleX) - Math.abs(b.x - middleX))
   if (!above.length) return
   const { q, r } = above[0]
-  const hex = { q, r, hexType: "grassland" }
+  const hex = { q, r, hexType: "deep-ocean" }
   hexes.push(hex)
   state.selected = new Set([key(hex)])
   rebaseCoordinates()
