@@ -1,6 +1,7 @@
 import assert from "node:assert/strict"
 import test from "node:test"
 import { offsetToPixel, resolveHexLink, TERRAIN_COLORS } from "./hexMapUtils"
+import terrainColors from "../../../hexmap-terrain-colors.json"
 
 test("pointy layout alternates successive rows horizontally", () => {
   const size = 30
@@ -52,8 +53,41 @@ test("matches nested page paths and preserves existing URL links", () => {
   assert.equal(resolveHexLink("./local-map", "hex-map"), "./local-map")
 })
 
-test("provides colors for additional terrain types", () => {
-  for (const terrain of ["river", "jungle", "tundra", "badlands", "ruins", "settlement"]) {
+test("uses the shared palette with valid terrain names and hex colors", () => {
+  assert.deepEqual(TERRAIN_COLORS, terrainColors)
+  for (const [terrain, color] of Object.entries(TERRAIN_COLORS)) {
+    assert.match(terrain, /^[a-z]+(?:-[a-z]+)*$/)
+    assert.match(color, /^#[0-9a-f]{6}$/i, `invalid color for ${terrain}`)
+  }
+  assert.equal(TERRAIN_COLORS.default, "#e2e8f0")
+})
+test("provides terrestrial, interplanetary and interstellar terrain colors", () => {
+  for (const terrain of [
+    "sea",
+    "river",
+    "jungle",
+    "tundra",
+    "badlands",
+    "ruins",
+    "settlement",
+    "deep-space",
+    "interstellar-space",
+    "interplanetary-space",
+    "nebula",
+    "asteroid-belt",
+    "comet-cloud",
+    "rocky-planet",
+    "gas-giant",
+    "moon",
+    "yellow-star",
+    "red-dwarf",
+    "neutron-star",
+    "black-hole",
+    "space-station",
+    "wormhole",
+    "jump-gate",
+    "hyperspace-lane",
+  ]) {
     assert.ok(TERRAIN_COLORS[terrain], `missing color for ${terrain}`)
   }
 })

@@ -43,13 +43,22 @@ Existing relative URLs and HTTP(S), mailto, and tel links are also accepted. Unk
 
 ## Terrain palette
 
-`deep-ocean`, `ocean`, `coast`, `river`, `lake`, `grassland`, `plains`, `forest`, `woodland`, `jungle`, `rainforest`, `hills`, `mountain`, `snow`, `tundra`, `ice`, `desert`, `badlands`, `savanna`, `swamp`, `marsh`, `volcanic`, `lava`, `farmland`, `oasis`, `road`, `ruins`, `settlement`.
+The single source of terrain colors is [../hexmap-terrain-colors.json](../hexmap-terrain-colors.json), shared with the browser editor. Add or change entries there using lowercase hyphenated names and six-digit hex colors. The editor automatically lists every entry except `default`; unrecognized terrain names use the default color. Existing terrestrial terrain names and colors are unchanged (including `sea`).
 
-Unrecognized terrain names use the default color.
+Space terrain names:
+
+- Space: `deep-space`, `interstellar-space`, `interplanetary-space`, `void`.
+- Nebulae and clouds: `nebula`, `emission-nebula`, `reflection-nebula`, `dark-nebula`, `planetary-nebula`, `supernova-remnant`, `star-forming-region`, `dust-cloud`, `gas-cloud`.
+- Belts and small bodies: `asteroid-field`, `asteroid-belt`, `debris-field`, `comet`, `comet-cloud`, `ice-belt`.
+- Planets and moons: `rocky-planet`, `terrestrial-planet`, `ocean-planet`, `desert-planet`, `ice-planet`, `volcanic-planet`, `gas-giant`, `ice-giant`, `moon`, `planetary-rings`.
+- Stars and remnants: `star`, `yellow-star`, `red-dwarf`, `red-giant`, `blue-giant`, `white-dwarf`, `brown-dwarf`, `neutron-star`, `pulsar`, `binary-star`, `black-hole`, `accretion-disk`.
+- Travel and infrastructure: `wormhole`, `space-station`, `orbital-habitat`, `jump-gate`, `hyperspace-lane`.
+
+Use these names as `hexType` in frontmatter, for example `hexType: asteroid-belt`.
 
 ## Development
 
-Install from this directory with `npm install --ignore-scripts --no-package-lock`, then run `npm run build` before building Quartz; the local plugin loader consumes `dist`.
+Use Node 22 or newer. Install from this directory with `npm install --ignore-scripts --no-package-lock`, then run `npm run build` before building Quartz; the local plugin loader consumes `dist`. Build from a checkout of this repository so the shared JSON file is available. The existing GitHub Pages workflow already does this. Tsup embeds the palette in `dist`, so the built plugin needs no parent-directory config or runtime JSON fetch. Rebuild the plugin and redeploy Quartz after changing the palette.
 
 The runtime utilities dependency uses a published npm release containing compiled output. Do not replace it with a GitHub source dependency: script-disabled installs do not build that dependency, and Quartz can silently omit the component when its import fails. If an existing installation retains the old GitHub copy, run `npm install @quartz-community/utils@1.0.1 --save-exact --ignore-scripts --no-package-lock`.
 
