@@ -273,7 +273,7 @@ hexmap:
       label: ""
     - q: 2
       r: 35
-      hexType: deep-ocean
+      hexType: ocean
       link: ""
       label: ""
     - q: 2
@@ -418,22 +418,22 @@ hexmap:
       label: ""
     - q: 3
       r: 34
-      hexType: deep-ocean
+      hexType: ocean
       link: ""
       label: ""
     - q: 3
       r: 35
-      hexType: deep-ocean
+      hexType: ocean
       link: ""
       label: ""
     - q: 3
       r: 36
-      hexType: deep-ocean
+      hexType: ocean
       link: ""
       label: ""
     - q: 3
       r: 37
-      hexType: deep-ocean
+      hexType: ocean
       link: ""
       label: ""
     - q: 3
@@ -463,7 +463,7 @@ hexmap:
       label: ""
     - q: 3
       r: 43
-      hexType: deep-ocean
+      hexType: grassland
       link: ""
       label: ""
     - q: 4
@@ -568,22 +568,22 @@ hexmap:
       label: ""
     - q: 4
       r: 34
-      hexType: deep-ocean
+      hexType: ocean
       link: ""
       label: ""
     - q: 4
       r: 35
-      hexType: deep-ocean
+      hexType: ocean
       link: ""
       label: ""
     - q: 4
       r: 36
-      hexType: deep-ocean
+      hexType: ocean
       link: ""
       label: ""
     - q: 4
       r: 37
-      hexType: deep-ocean
+      hexType: ocean
       link: ""
       label: ""
     - q: 4
@@ -723,17 +723,17 @@ hexmap:
       label: ""
     - q: 5
       r: 35
-      hexType: sea
+      hexType: ocean
       link: ""
       label: ""
     - q: 5
       r: 36
-      hexType: deep-ocean
+      hexType: ocean
       link: ""
       label: ""
     - q: 5
       r: 37
-      hexType: deep-ocean
+      hexType: ocean
       link: ""
       label: ""
     - q: 5
@@ -883,7 +883,7 @@ hexmap:
       label: ""
     - q: 6
       r: 37
-      hexType: deep-ocean
+      hexType: ocean
       link: ""
       label: ""
     - q: 6
@@ -7076,7 +7076,7 @@ hexmap:
       hexType: deep-ocean
     - q: 2
       r: 10
-      hexType: deep-ocean
+      hexType: grassland
     - q: 4
       r: 10
       hexType: deep-ocean
@@ -7322,7 +7322,7 @@ hexmap:
       hexType: deep-ocean
     - q: 11
       r: 9
-      hexType: deep-ocean
+      hexType: grassland
     - q: 10
       r: 9
       hexType: deep-ocean
@@ -7346,10 +7346,10 @@ hexmap:
       hexType: deep-ocean
     - q: 3
       r: 9
-      hexType: deep-ocean
+      hexType: grassland
     - q: 2
       r: 9
-      hexType: deep-ocean
+      hexType: grassland
     - q: 1
       r: 9
       hexType: deep-ocean
@@ -7475,10 +7475,10 @@ hexmap:
       hexType: deep-ocean
     - q: 4
       r: 8
-      hexType: deep-ocean
+      hexType: grassland
     - q: 3
       r: 8
-      hexType: deep-ocean
+      hexType: grassland
     - q: 5
       r: 8
       hexType: deep-ocean
@@ -7493,16 +7493,16 @@ hexmap:
       hexType: deep-ocean
     - q: 15
       r: 8
-      hexType: deep-ocean
+      hexType: grassland
     - q: 15
       r: 6
       hexType: deep-ocean
     - q: 15
       r: 7
-      hexType: deep-ocean
+      hexType: grassland
     - q: 14
       r: 6
-      hexType: deep-ocean
+      hexType: grassland
     - q: 13
       r: 5
       hexType: deep-ocean
@@ -7511,7 +7511,7 @@ hexmap:
       hexType: deep-ocean
     - q: 14
       r: 7
-      hexType: deep-ocean
+      hexType: grassland
     - q: 14
       r: 5
       hexType: deep-ocean
@@ -7538,10 +7538,10 @@ hexmap:
       hexType: deep-ocean
     - q: 13
       r: 6
-      hexType: deep-ocean
+      hexType: grassland
     - q: 13
       r: 7
-      hexType: deep-ocean
+      hexType: grassland
     - q: 12
       r: 8
       hexType: deep-ocean
@@ -7553,7 +7553,7 @@ hexmap:
       hexType: deep-ocean
     - q: 11
       r: 8
-      hexType: deep-ocean
+      hexType: grassland
     - q: 12
       r: 7
       hexType: deep-ocean
@@ -7565,10 +7565,10 @@ hexmap:
       hexType: deep-ocean
     - q: 5
       r: 7
-      hexType: deep-ocean
+      hexType: grassland
     - q: 3
       r: 7
-      hexType: deep-ocean
+      hexType: grassland
     - q: 3
       r: 6
       hexType: deep-ocean
@@ -7661,16 +7661,16 @@ hexmap:
       hexType: deep-ocean
     - q: 6
       r: 7
-      hexType: deep-ocean
+      hexType: grassland
     - q: 5
       r: 6
-      hexType: deep-ocean
+      hexType: grassland
     - q: 4
       r: 6
       hexType: deep-ocean
     - q: 4
       r: 7
-      hexType: deep-ocean
+      hexType: grassland
     - q: 8
       r: 3
       hexType: deep-ocean
@@ -7697,10 +7697,10 @@ hexmap:
       hexType: deep-ocean
     - q: 7
       r: 6
-      hexType: deep-ocean
+      hexType: grassland
     - q: 6
       r: 6
-      hexType: deep-ocean
+      hexType: grassland
     - q: 7
       r: 7
       hexType: deep-ocean
@@ -8891,7 +8891,7 @@ hexmap:
       hexType: deep-ocean
     - q: 4
       r: 44
-      hexType: deep-ocean
+      hexType: grassland
     - q: 6
       r: 44
       hexType: deep-ocean
@@ -9899,7 +9899,7 @@ hexmap:
       hexType: deep-ocean
     - q: -3
       r: 14
-      hexType: deep-ocean
+      hexType: grassland
     - q: -4
       r: 17
       hexType: deep-ocean
@@ -9941,10 +9941,10 @@ hexmap:
       hexType: deep-ocean
     - q: -10
       r: 35
-      hexType: deep-ocean
+      hexType: grassland
     - q: -10
       r: 37
-      hexType: deep-ocean
+      hexType: grassland
     - q: -10
       r: 39
       hexType: deep-ocean
@@ -10043,7 +10043,7 @@ hexmap:
       hexType: deep-ocean
     - q: -4
       r: 14
-      hexType: deep-ocean
+      hexType: grassland
     - q: -5
       r: 15
       hexType: deep-ocean
@@ -10058,7 +10058,7 @@ hexmap:
       hexType: deep-ocean
     - q: -6
       r: 21
-      hexType: deep-ocean
+      hexType: grassland
     - q: -6
       r: 22
       hexType: deep-ocean
@@ -10109,7 +10109,7 @@ hexmap:
       hexType: deep-ocean
     - q: -2
       r: 16
-      hexType: deep-ocean
+      hexType: grassland
     - q: -2
       r: 14
       hexType: deep-ocean
@@ -10178,7 +10178,7 @@ hexmap:
       hexType: deep-ocean
     - q: -6
       r: 20
-      hexType: deep-ocean
+      hexType: grassland
     - q: -12
       r: 19
       hexType: deep-ocean
@@ -10328,7 +10328,7 @@ hexmap:
       hexType: deep-ocean
     - q: -7
       r: 19
-      hexType: deep-ocean
+      hexType: grassland
     - q: -7
       r: 22
       hexType: deep-ocean
@@ -10349,10 +10349,10 @@ hexmap:
       hexType: deep-ocean
     - q: -11
       r: 38
-      hexType: deep-ocean
+      hexType: grassland
     - q: -12
       r: 35
-      hexType: deep-ocean
+      hexType: grassland
     - q: -11
       r: 32
       hexType: deep-ocean
@@ -10742,22 +10742,22 @@ hexmap:
       hexType: deep-ocean
     - q: 0
       r: 12
-      hexType: deep-ocean
+      hexType: grassland
     - q: -1
       r: 12
       hexType: deep-ocean
     - q: 0
       r: 13
-      hexType: deep-ocean
+      hexType: grassland
     - q: 0
       r: 14
-      hexType: deep-ocean
+      hexType: grassland
     - q: -1
       r: 15
       hexType: deep-ocean
     - q: -1
       r: 14
-      hexType: deep-ocean
+      hexType: grassland
     - q: -4
       r: 15
       hexType: deep-ocean
@@ -10796,7 +10796,7 @@ hexmap:
       hexType: deep-ocean
     - q: -8
       r: 18
-      hexType: deep-ocean
+      hexType: grassland
     - q: -8
       r: 17
       hexType: deep-ocean
@@ -10814,7 +10814,7 @@ hexmap:
       hexType: deep-ocean
     - q: -3
       r: 15
-      hexType: deep-ocean
+      hexType: grassland
     - q: 0
       r: 20
       hexType: deep-ocean
@@ -10916,7 +10916,7 @@ hexmap:
       hexType: deep-ocean
     - q: -2
       r: 15
-      hexType: deep-ocean
+      hexType: grassland
     - q: 0
       r: 19
       hexType: deep-ocean
@@ -10949,7 +10949,7 @@ hexmap:
       hexType: deep-ocean
     - q: -8
       r: 19
-      hexType: deep-ocean
+      hexType: grassland
     - q: -7
       r: 18
       hexType: deep-ocean
@@ -11009,13 +11009,13 @@ hexmap:
       hexType: deep-ocean
     - q: -5
       r: 21
-      hexType: deep-ocean
+      hexType: grassland
     - q: -5
       r: 22
-      hexType: deep-ocean
+      hexType: grassland
     - q: -4
       r: 22
-      hexType: deep-ocean
+      hexType: grassland
     - q: -5
       r: 23
       hexType: deep-ocean
@@ -11024,13 +11024,13 @@ hexmap:
       hexType: deep-ocean
     - q: -8
       r: 21
-      hexType: deep-ocean
+      hexType: grassland
     - q: -7
       r: 20
-      hexType: deep-ocean
+      hexType: grassland
     - q: -7
       r: 21
-      hexType: deep-ocean
+      hexType: grassland
     - q: -10
       r: 28
       hexType: deep-ocean
@@ -11426,10 +11426,10 @@ hexmap:
       hexType: deep-ocean
     - q: -14
       r: 36
-      hexType: deep-ocean
+      hexType: grassland
     - q: -15
       r: 35
-      hexType: deep-ocean
+      hexType: grassland
     - q: -15
       r: 33
       hexType: deep-ocean
@@ -11486,10 +11486,10 @@ hexmap:
       hexType: deep-ocean
     - q: -14
       r: 34
-      hexType: deep-ocean
+      hexType: grassland
     - q: -14
       r: 37
-      hexType: deep-ocean
+      hexType: grassland
     - q: -14
       r: 38
       hexType: deep-ocean
@@ -11594,10 +11594,10 @@ hexmap:
       hexType: deep-ocean
     - q: -12
       r: 34
-      hexType: deep-ocean
+      hexType: grassland
     - q: -14
       r: 33
-      hexType: deep-ocean
+      hexType: grassland
     - q: -12
       r: 33
       hexType: deep-ocean
@@ -11609,10 +11609,10 @@ hexmap:
       hexType: deep-ocean
     - q: -13
       r: 36
-      hexType: deep-ocean
+      hexType: grassland
     - q: -12
       r: 38
-      hexType: deep-ocean
+      hexType: grassland
     - q: -12
       r: 41
       hexType: deep-ocean
@@ -11729,46 +11729,48 @@ hexmap:
       hexType: deep-ocean
     - q: -10
       r: 34
-      hexType: deep-ocean
+      hexType: grassland
+      label: Farcury
+      link: "[[Farcury]]"
     - q: -11
       r: 33
       hexType: deep-ocean
     - q: -11
       r: 34
-      hexType: deep-ocean
+      hexType: grassland
     - q: -13
       r: 34
-      hexType: deep-ocean
+      hexType: grassland
     - q: -14
       r: 35
-      hexType: deep-ocean
+      hexType: grassland
     - q: -11
       r: 36
-      hexType: deep-ocean
+      hexType: grassland
     - q: -11
       r: 35
-      hexType: deep-ocean
+      hexType: grassland
     - q: -9
       r: 35
       hexType: deep-ocean
     - q: -13
       r: 35
-      hexType: deep-ocean
+      hexType: grassland
     - q: -12
       r: 37
-      hexType: deep-ocean
+      hexType: grassland
     - q: -12
       r: 36
-      hexType: deep-ocean
+      hexType: grassland
     - q: -9
       r: 36
-      hexType: deep-ocean
+      hexType: grassland
     - q: -10
       r: 36
-      hexType: deep-ocean
+      hexType: grassland
     - q: -11
       r: 37
-      hexType: deep-ocean
+      hexType: grassland
     - q: -10
       r: 38
       hexType: deep-ocean
@@ -11792,10 +11794,10 @@ hexmap:
       hexType: deep-ocean
     - q: -13
       r: 37
-      hexType: deep-ocean
+      hexType: grassland
     - q: -13
       r: 38
-      hexType: deep-ocean
+      hexType: grassland
     - q: -13
       r: 39
       hexType: deep-ocean
