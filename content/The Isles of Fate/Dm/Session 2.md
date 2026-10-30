@@ -20,7 +20,7 @@ He will also tell what he knows about the camp:
 
 [[Iron Company Encampment]]
 
-Within the camp - there is a lockbox containing 30 gold, and a plan of [[the Temple of Resplendence]], and [[The College of Arcane History|Pinapota Library]].
+Within the camp - there is a lockbox containing 30 gold, and a plan of the [[Temple of Resplendence]], and [[The College of Arcane History|Pinapota Library]].
 
 In the centre of the encampment is a large cage, with a [chimera](https://5e.tools/bestiary.html#chimera_mm) in it. It is trapped to release the creature based on magical glyphs on the ground (investigation required to spot them).
 

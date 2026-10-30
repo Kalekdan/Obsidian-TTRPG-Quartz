@@ -1,4 +1,4 @@
-The Hero is decided each year by the monks in the [[Shrine of the Unquiet Souls]]. They are expected to challenge and best the demon at the end of [[the festival]] to send the undead back.
+The Hero is decided each year by the monks in the [[Shrine of the Unquiet Souls]]. They are expected to challenge and best the demon at the end of [[The Festival of the Dead|the festival]] to send the undead back.
 
 This year, the hero is [[Jaskia Boneheart]], a blacksmith from the town.
 

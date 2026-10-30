@@ -1,4 +1,4 @@
-> On the way back from the cave with [[Danus Jusco]], the party encounter [[Alexia Whiteshield]] running up to them out of breath, telling them a village has been attacked by something and she needs help.
+> On the way back from the cave with [[Danus Jusco]], the party encounter [[Alexia Whiteshield]] running up to them out of breath, telling them a village ([[Kelton]]) has been attacked by something and she needs help.
 > 
 > In fact the town had already been destroyed, and due to the thin barriers between planes, some of the corpses were reanimating. Alexia is one of these ghosts, and is trying to get revenge on [[Theodore|Theodore Horndew]] for abandoning her.
 
