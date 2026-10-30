@@ -1,3 +1,3 @@
-NAME TBC is the universe containing [[Hircia]] on the material plane, and all the other planes of existence. It is a configuration of disks, with each system existing in a disk within the Great Material Disk. Other planes exist above or below (in parallel) to the material disk, allowing the
+NAME TBC is the universe containing [[Hircia]] on the Material Plane, as well as all other planes of existence. It is structured as a system of disks, where each planetary system exists on a disk within the Great Material Disk. The other planes exist as parallel layers positioned above or below this material layer. In certain instances (such as [[The Convergence]] on [[Hircia]]) breaches can occur between these planes, acting as "punctures" through the disks. Within this macrocosm, [[Hircia]] is simply one planet located in one of the systems on the Great Material Disk.
 
-[[Hircia]], is just once of the planets in one of the systems on the Great Material Disk.
+Each of the systems has a set of Sovreign Primordials (such as [[The First Pantheon]] on [[Hircia]]).
