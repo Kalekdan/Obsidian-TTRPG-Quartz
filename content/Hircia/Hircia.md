@@ -14,6 +14,7 @@ This page is the landing point for the shared world bible. The goal is to keep c
 * [[Politics and powers]] - kingdoms, duchies, city states, alliances, and rivalries.
 * [[Magic and planar lore]] - how magic works, what the planes are, and what changed after the big disasters.
 * [[Religions and cosmology]] - deities, faiths, creation stories, and the meaning of the moons.
+* [[Wider Cosmos NAME TBD]] - Hircia's place in the universe, and how the planes interact
 
 ### Cross-Campaign Reference
 
