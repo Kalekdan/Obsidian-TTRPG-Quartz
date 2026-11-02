@@ -2,6 +2,12 @@ The Planar Loom is the name given to the array of planes in [[the Stratum]] exis
 
 Planes in the planar loom, and their related systems are as follows:
 
-| Plane | Note | Parallel Material Systems |
-| ----- | ---- | ------------------------- |
-|       |      |                           |
+| Plane              | Note                                                                                                                                                                   | Parallel Material Systems                                                |
+| ------------------ | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------ |
+| Death Plane        | Absolute domain of [[Letheon]] ([[Primordial Constants\|Primordial Constant]] of Life & Death). Traps souls like [[Anhural]]                                           | [[The Hircia System\|Hircia System]], [[The Koren System\|Koren System]] |
+| Astral Plane       | Expansive navigational layer meshing systems together; used by [[Surzak]]'s planar engine                                                                              | [[The Hircia System\|Hircia System]], [[The Koren System\|Koren System]] |
+| Elemental Planes   | An array of untamed magical and elemental energy layers in the Loom                                                                                                    | [[The Hircia System\|Hircia System]]                                     |
+| Celestial Planes   | Higher parallel realms of divine/celestial order within the Planar Loom                                                                                                |                                                                          |
+| Infernal Planes    | Lower parallel realms of fiendish/infernal energy within the Planar Loom                                                                                               |                                                                          |
+| Etherial Planes    | The transitional/etheric layers that form the immediate boundary structure above and below the Great Material Disk                                                     |                                                                          |
+| The Spaces Between | Dimensional seams separating reality and the planes, sealed shut for [[the Hircia System]] by [[Janura]] at Year 0 AO. Torn apart again following [[The Convergence]]. | All planes                                                               |
