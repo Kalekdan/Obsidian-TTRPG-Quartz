@@ -1,1 +1,3 @@
-The Hircia System is a system within [[The Stratum]] containing the planet [[Hircia]], as well as the four [[moons of Hircia]]. It is unlike some of the other systems as, following [[the Convergence]], there is a lot of overlap between the layer on the material disk, and the adjacent planes on [[The Planar Loom]]. It has become easy for crossing between them all.
+The Hircia System is a system within [[The Stratum]] containing the planet [[Hircia]], as well as the four [[moons of Hircia]]. It is unlike some of the other systems as, following [[the Convergence]], there is a lot of overlap between the material disk, and the adjacent planes on [[The Planar Loom]]. It has become easy for crossing between them all.
+
+The Hircia System is a relatively traditional fantasy setting with 
