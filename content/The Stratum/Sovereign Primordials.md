@@ -1,0 +1,3 @@
+The Sovereign Primordials are the powerful beings who exist within a vertical of [[The Stratum]]. For the most part they are confined to their locality, but hold immense power within it. Often considered gods, there are multiple Sovereign Primordials within each system disk, and the adjacent planes.
+
+In [[The Hircia System]], Sovereign Primordials are recognised as gods in [[The First Pantheon]] (excluding [[Letheon]], who is in fact a [[Primordial Constants|Primordial Constant]]).
