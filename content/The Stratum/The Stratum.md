@@ -1,6 +1,6 @@
 The Stratum is the entire macrocosm - the overarching universe encompassing the Material Plane, all surrounding planar dimensions, and the fundamental forces that sustain them.
 ## Planar Structure & Architecture
-- [[The Great Material Disk]]: A massive physical plane containing all material stellar bodies. Rather than a vast 3D void, the material universe functions as a colossal macro-disk upon which distinct planetary systems (sub-disks) rest side-by-side. They are functionally distinct and travel between them is not possible, save for via [[The Planar Loom]].
+- [[The Great Material Disk]]: A massive physical plane containing all material stellar bodies. Rather than a vast 3D void, the material universe functions as a colossal macro-disk upon which distinct planetary systems (sub-disks) rest side-by-side. *They are functionally distinct and travel between them is not possible, save for via [[The Planar Loom]].*
     - **System Disks:** Individual star and planetary systems exist as localised sub-disks across the Great Material Disk. Examples include:
         - [[The Hircia System]]: The home system containing the planet [[Hircia]].
         - [[The Koren System]]: A neighbouring material system resting on the same disk plane.
