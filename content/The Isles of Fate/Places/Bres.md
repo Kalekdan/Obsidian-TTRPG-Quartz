@@ -21,7 +21,7 @@ Overall, Bres is a city of great wealth and refinement, where the elite of socie
 * **Craftsmen:**
     * [[Starlit Stones Jewelers]]
 * **Government Buildings:**
-    * [[Bres Lighthouse | The Lighthouse]]
+    * [[Bres Lighthouse|The Lighthouse]]
 * **Public Services:**
     * [[Bres Skyport]]
 * **Security:**

@@ -1,0 +1,1 @@
+Father Traumaticus (or Father T), is a human cleric played by [[Aly]]
