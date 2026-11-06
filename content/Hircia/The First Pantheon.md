@@ -1,4 +1,4 @@
-The First Pantheon was the set of gods who existed and walked [[Hircia]] before [[The Divine War]]. They could each walk the material plane freely, and many had their own domains as well. Following [[the divine war]], they were eternally banished beyond the material plane.
+The First Pantheon was the set of gods who existed and walked [[Hircia]] before [[The Divine War]]. They could each walk the material plane freely, and many had their own domains as well. Following [[the divine war]], they were eternally banished beyond the material plane. They are technically [[Sovereign Primordials]], powerful beings tied to [[the Hircia System]].
 
 The gods in the First Pantheon include:
 - **[[Visil]] aka [[The Matron]] (the Goddess of Magic & Fate):** Visil orchestrated the weakening of planar boundaries across [[Hircia]] by manipulating the Lich [[Surzak]], aiming to shatter the ancient cages keeping her trapped so she could physically walk the material world once more.

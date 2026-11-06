@@ -1,0 +1,1 @@
+The Isles of Monza is the westernmost island and largest of [[the Singualian Territories]]. Due to its isolation in the ocean, it is rarely visited, and the only real settlement is the fishing town of [[Farcury]].

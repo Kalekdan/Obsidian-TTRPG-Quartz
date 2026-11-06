@@ -11,5 +11,3 @@ The Stratum is the entire macrocosm - the overarching universe encompassing the 
     - _Example:_ [[The First Pantheon]], who rule exclusively within the Hircia System.
 - [[Primordial Constants]]: Cosmic entities that exist beyond regional boundaries or individual planar layers. Bound to no single realm, they operate alongside the fundamental laws of physics across the entirety of The Stratum.
     - _Example:_ [[Letheon]], an entity woven directly into the foundational physics of reality.
-
-![[Pasted image 20261030124522.png]]
